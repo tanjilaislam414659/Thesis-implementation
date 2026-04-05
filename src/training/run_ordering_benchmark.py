@@ -25,9 +25,9 @@ from src.utils.graph_utils import (
 )
 
 
-def build_toy_graphs() -> Dict[str, nx.Graph]:
+def build_graph_family_benchmarks() -> Dict[str, nx.Graph]:
     """
-    Create a small collection of toy graphs for baseline experiments.
+    Create graph families for Week 3 ordering benchmark experiments.
 
     Returns
     -------
@@ -36,23 +36,28 @@ def build_toy_graphs() -> Dict[str, nx.Graph]:
     """
     graphs: Dict[str, nx.Graph] = {}
 
-    graphs["cycle_6"] = nx.cycle_graph(6)
-    graphs["path_6"] = nx.path_graph(6)
-    graphs["complete_5"] = nx.complete_graph(5)
-    graphs["star_6"] = nx.star_graph(5)  # center + 5 leaves
+    # Wheel graphs
+    graphs["wheel_8"] = nx.wheel_graph(8)
+    graphs["wheel_12"] = nx.wheel_graph(12)
 
-    custom_graph = nx.Graph()
-    custom_graph.add_edges_from(
-        [
-            (0, 1),
-            (0, 2),
-            (0, 3),
-            (1, 2),
-            (3, 4),
-            (4, 5),
-        ]
-    )
-    graphs["custom_6"] = custom_graph
+    # Ladder graphs
+    graphs["ladder_6"] = nx.ladder_graph(6)
+    graphs["ladder_10"] = nx.ladder_graph(10)
+
+    # Balanced trees
+    graphs["balanced_tree_2_3"] = nx.balanced_tree(2, 3)
+    graphs["balanced_tree_2_4"] = nx.balanced_tree(2, 4)
+
+    # Barbell graphs
+    graphs["barbell_5_2"] = nx.barbell_graph(5, 2)
+    graphs["barbell_6_3"] = nx.barbell_graph(6, 3)
+
+    # Grid graphs
+    grid_4_4 = nx.grid_2d_graph(4, 4)
+    graphs["grid_4_4"] = nx.convert_node_labels_to_integers(grid_4_4)
+
+    grid_5_5 = nx.grid_2d_graph(5, 5)
+    graphs["grid_5_5"] = nx.convert_node_labels_to_integers(grid_5_5)
 
     return graphs
 
@@ -172,14 +177,14 @@ def main() -> None:
     """
     Run the ordering benchmark on toy graphs and save results.
     """
-    graphs = build_toy_graphs()
+    graphs = build_graph_family_benchmarks()
 
     all_rows: List[dict] = []
     for graph_name, G in graphs.items():
         rows = benchmark_graph(graph_name, G, seed=42)
         all_rows.extend(rows)
 
-    output_path = Path("results/tables/ordering_benchmark_toy.csv")
+    output_path = Path("results/tables/ordering_benchmark_graph_families.csv")
     save_results_to_csv(all_rows, output_path)
     print_summary(all_rows)
 
