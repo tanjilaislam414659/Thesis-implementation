@@ -1,0 +1,68 @@
+ColPack Initial Validation Results
+==================================
+
+1) Graph: mtx-spear-head.mtx
+   Ordering: LARGEST_FIRST
+   Coloring: DISTANCE_ONE
+   Total Colors: 2
+   Vertex Count: 10
+   Edge Count: 9
+   Colored Vertices: 10
+
+2) Graph: hess_pat_small.mtx
+   Ordering: LARGEST_FIRST
+   Coloring: DISTANCE_ONE
+   Total Colors: 3
+   Vertex Count: 10
+   Edge Count: 13
+   Colored Vertices: 10
+
+3) Graph: jac_pat.mtx
+   Ordering: LARGEST_FIRST
+   Coloring: DISTANCE_ONE
+   Total Colors: 5
+   Vertex Count: 43
+   Edge Count: 72
+   Colored Vertices: 43
+
+4) Graph: hess_pat.mtx
+   Ordering: LARGEST_FIRST
+   Coloring: DISTANCE_ONE
+   Total Colors: 6
+   Vertex Count: 43
+   Edge Count: 94
+   Colored Vertices: 43
+
+
+Note:
+jac_pat.mtx has shape (10, 43), so it is rectangular.
+ColPack can process this Jacobian-style sparsity pattern for coloring, but the current Python sparse-matrix prototype only supports square matrices for undirected graph construction.
+Therefore, jac_pat.mtx is valid for ColPack baseline experiments but not yet for the current Python graph-conversion pipeline.
+
+Cross-check with Python pipeline:
+- hess_pat_small.mtx: Python and ColPack agree on 10 vertices, 13 edges, and 3 colors with largest_first.
+- hess_pat.mtx: Python and ColPack agree on 43 vertices, 94 edges, and 6 colors with largest_first.
+
+- ash85.mtx: Python and ColPack agree on 85 vertices, 219 edges, and 5 colors with largest_first.
+
+
+
+Interim baseline conclusion:
+For square matrix examples tested so far (hess_pat_small.mtx, hess_pat.mtx, ash85.mtx), the Python sparse-matrix graph pipeline matches ColPack on vertex count, edge count, and largest_first distance-1 coloring results.
+This supports using ColPack as a validation baseline for the current square-matrix graph conversion pipeline.
+Rectangular matrix patterns such as jac_pat.mtx are currently supported by ColPack but not yet by the Python prototype.
+
+
+Ordering comparison with modified ColPack runner:
+- hess_pat_small.mtx: SMALLEST_LAST_SERIAL -> 3 colors (same as LARGEST_FIRST)
+- hess_pat.mtx: SMALLEST_LAST_SERIAL -> 6 colors (same as LARGEST_FIRST)
+- ash85.mtx: SMALLEST_LAST_SERIAL -> 4 colors (better than LARGEST_FIRST, which used 5 colors)
+
+Observation:
+Changing the ColPack ordering does not always change the color count, but on ash85.mtx, SMALLEST_LAST_SERIAL improves over LARGEST_FIRST.
+This is consistent with the behavior observed in the Python greedy-coloring pipeline.
+
+Week 4 Track B status:
+ColPack is now usable as a baseline comparison tool.
+It was successfully run on multiple matrix examples, and its results were cross-checked against the Python sparse-matrix graph pipeline on shared square cases.
+For ash85.mtx, both ColPack and the Python pipeline showed an improvement from largest_first to smallest_last.

@@ -1,0 +1,27 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include "ColPackHeaders.h"
+
+int main(int argc, char* argv[]) {
+    if (argc < 2) {
+        std::cerr << "Usage: test_colpack <path-to-graph-file>" << std::endl;
+        return 1;
+    }
+
+    std::string inputFile = argv[1];
+
+    ColPack::GraphColoringInterface* g =
+        new ColPack::GraphColoringInterface(SRC_FILE, inputFile.c_str(), "AUTO_DETECTED");
+
+    g->Coloring("SMALLEST_LAST", "DISTANCE_ONE");
+    g->PrintVertexColoringMetrics();
+
+    std::vector<int> vertexColors;
+    g->GetVertexColors(vertexColors);
+
+    std::cout << "Number of colored vertices: " << vertexColors.size() << std::endl;
+
+    delete g;
+    return 0;
+}
