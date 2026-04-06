@@ -8,6 +8,10 @@ from scipy.sparse import coo_matrix, issparse
 
 def load_matrix_market(path: str | Path):
     """Load a sparse matrix from a Matrix Market file."""
+    path = Path(path)
+    if not path.exists():
+        raise FileNotFoundError(f"Matrix file not found: {path}")
+
     matrix = mmread(str(path))
     if not issparse(matrix):
         raise ValueError("Loaded object is not a sparse matrix.")
@@ -70,5 +74,6 @@ if __name__ == "__main__":
 
     print("Graph summary")
     print("-------------")
+    print(f"matrix_path: {args.matrix_path}")
     for key, value in summary.items():
         print(f"{key}: {value}")
