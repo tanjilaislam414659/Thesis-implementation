@@ -47,13 +47,34 @@ def greedy_coloring_summary(graph: nx.Graph, strategy: str = "largest_first") ->
     num_colors = len(set(coloring.values())) if coloring else 0
 
     return {
-    "num_nodes": graph.number_of_nodes(),
-    "num_edges": graph.number_of_edges(),
-    "density": nx.density(graph),
-    "max_degree": max(dict(graph.degree()).values()) if graph.number_of_nodes() > 0 else 0,
-    "num_colors": num_colors,
-    "strategy": strategy,
-}
+        "num_nodes": graph.number_of_nodes(),
+        "num_edges": graph.number_of_edges(),
+        "density": nx.density(graph),
+        "max_degree": max(dict(graph.degree()).values()) if graph.number_of_nodes() > 0 else 0,
+        "num_colors": num_colors,
+        "strategy": strategy,
+        "is_randomized": strategy == "random_sequential",
+    }
+
+def run_multiple_strategies(graph: nx.Graph, strategies: list[str]) -> list[Dict[str, Any]]:
+    """Run greedy coloring for multiple strategies and return a list of summaries."""
+    results = []
+    for strategy in strategies:
+        summary = greedy_coloring_summary(graph, strategy=strategy)
+        results.append(summary)
+    return results
+
+
+def print_strategy_comparison(summaries: list[Dict[str, Any]]) -> None:
+    """Print a compact comparison of strategies and color counts."""
+    print("Strategy comparison")
+    print("-------------------")
+    for summary in summaries:
+        print(
+            f"{summary['strategy']}: "
+            f"{summary['num_colors']} colors "
+            f"(randomized={summary['is_randomized']})"
+        )
 
 
 def load_graph_from_mtx(path: str | Path) -> nx.Graph:
@@ -66,14 +87,25 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Convert sparse matrix to graph and run greedy coloring.")
     parser.add_argument("matrix_path", type=str, help="Path to Matrix Market .mtx file")
-    parser.add_argument("--strategy", type=str, default="largest_first", help="Greedy coloring strategy")
+    parser.add_argument(
+    "--strategy",
+    type=str,
+    nargs="+",
+    default=["largest_first"],
+    help="One or more greedy coloring strategies",
+)
     args = parser.parse_args()
 
     graph = load_graph_from_mtx(args.matrix_path)
-    summary = greedy_coloring_summary(graph, strategy=args.strategy)
+    summaries = run_multiple_strategies(graph, args.strategy)
 
-    print("Graph summary")
-    print("-------------")
-    print(f"matrix_path: {args.matrix_path}")
-    for key, value in summary.items():
-        print(f"{key}: {value}")
+    for summary in summaries:
+        print("Graph summary")
+        print("-------------")
+        print(f"matrix_path: {args.matrix_path}")
+        for key, value in summary.items():
+            print(f"{key}: {value}")
+        print()
+
+
+    print_strategy_comparison(summaries)
