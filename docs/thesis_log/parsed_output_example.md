@@ -7,3 +7,9 @@
 - total_colors: 4
 - vertex_count: 85
 - edge_count: 219
+
+## ash85_largest_first.txt
+
+- input_graph: C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\ash85.mtx
+- requested_ordering: LARGEST_FIRST
+- total_colors: 5
