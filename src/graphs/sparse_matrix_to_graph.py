@@ -41,6 +41,35 @@ def matrix_to_undirected_graph(matrix: coo_matrix) -> nx.Graph:
     return graph
 
 
+def matrix_to_column_intersection_graph(matrix: coo_matrix) -> nx.Graph:
+    """
+    Convert a sparse matrix into a column intersection graph.
+
+    Vertices represent matrix columns.
+    Two columns are connected if they have nonzero entries in the same row.
+
+    This is useful for rectangular Jacobian sparsity patterns.
+    """
+    n_cols = matrix.shape[1]
+    graph = nx.Graph()
+    graph.add_nodes_from(range(n_cols))
+
+    row_to_cols: dict[int, set[int]] = {}
+
+    for row, col in zip(matrix.row, matrix.col):
+        row_to_cols.setdefault(int(row), set()).add(int(col))
+
+    edges = set()
+    for cols in row_to_cols.values():
+        cols_list = sorted(cols)
+        for i in range(len(cols_list)):
+            for j in range(i + 1, len(cols_list)):
+                edges.add((cols_list[i], cols_list[j]))
+
+    graph.add_edges_from(edges)
+    return graph
+
+
 def greedy_coloring_summary(graph: nx.Graph, strategy: str = "largest_first") -> Dict[str, Any]:
     """Run greedy coloring and return summary stats."""
     coloring = nx.coloring.greedy_color(graph, strategy=strategy)
@@ -78,8 +107,18 @@ def print_strategy_comparison(summaries: list[Dict[str, Any]]) -> None:
 
 
 def load_graph_from_mtx(path: str | Path) -> nx.Graph:
+    """
+    Load a Matrix Market file and convert it to a graph.
+
+    Square matrices are converted using the undirected sparsity pattern.
+    Rectangular matrices are converted using the column intersection graph.
+    """
     matrix = load_matrix_market(path)
-    return matrix_to_undirected_graph(matrix)
+
+    if matrix.shape[0] == matrix.shape[1]:
+        return matrix_to_undirected_graph(matrix)
+
+    return matrix_to_column_intersection_graph(matrix)
 
 
 if __name__ == "__main__":
