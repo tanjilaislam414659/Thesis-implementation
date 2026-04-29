@@ -1,0 +1,6 @@
+graph_id,source_type,source_name,matrix_path,num_vertices,num_edges,supported_by_python_graph_loader,notes
+ash85,sparse_matrix,ash85.mtx,data\raw\matrices\ash85.mtx,85,219,true,
+can_24,sparse_matrix,can_24.mtx,data\raw\matrices\can_24.mtx,24,68,true,
+hess_pat,sparse_matrix,hess_pat.mtx,data\raw\matrices\hess_pat.mtx,43,94,true,
+hess_pat_small,sparse_matrix,hess_pat_small.mtx,data\raw\matrices\hess_pat_small.mtx,10,13,true,
+jac_pat,sparse_matrix,jac_pat.mtx,data\raw\matrices\jac_pat.mtx,,,false,Only square matrices are supported in version 1.

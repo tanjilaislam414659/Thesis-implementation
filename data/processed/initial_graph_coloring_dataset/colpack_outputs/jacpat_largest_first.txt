@@ -1,0 +1,56 @@
+Requested ordering: LARGEST_FIRST
+Coloring distance: DISTANCE_ONE
+Input graph: C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\jac_pat.mtx
+
+ Coloring | LARGEST_FIRST Ordering | C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\jac_pat.mtx
+
+
+[Total Colors = 5]
+[Vertex Count = 43; Edge Count = 72]
+[Ordering Time = 0; Coloring Time = 0]
+
+Valid coloring check not yet implemented in runner output.
+Number of colored vertices: 43
+Vertex 0 -> Color 0
+Vertex 1 -> Color 1
+Vertex 2 -> Color 3
+Vertex 3 -> Color 0
+Vertex 4 -> Color 3
+Vertex 5 -> Color 2
+Vertex 6 -> Color 2
+Vertex 7 -> Color 2
+Vertex 8 -> Color 0
+Vertex 9 -> Color 0
+Vertex 10 -> Color 1
+Vertex 11 -> Color 1
+Vertex 12 -> Color 1
+Vertex 13 -> Color 0
+Vertex 14 -> Color 3
+Vertex 15 -> Color 4
+Vertex 16 -> Color 0
+Vertex 17 -> Color 0
+Vertex 18 -> Color 3
+Vertex 19 -> Color 1
+Vertex 20 -> Color 1
+Vertex 21 -> Color 1
+Vertex 22 -> Color 0
+Vertex 23 -> Color 0
+Vertex 24 -> Color 1
+Vertex 25 -> Color 1
+Vertex 26 -> Color 1
+Vertex 27 -> Color 0
+Vertex 28 -> Color 0
+Vertex 29 -> Color 0
+Vertex 30 -> Color 0
+Vertex 31 -> Color 0
+Vertex 32 -> Color 0
+Vertex 33 -> Color 1
+Vertex 34 -> Color 0
+Vertex 35 -> Color 0
+Vertex 36 -> Color 0
+Vertex 37 -> Color 0
+Vertex 38 -> Color 0
+Vertex 39 -> Color 0
+Vertex 40 -> Color 0
+Vertex 41 -> Color 0
+Vertex 42 -> Color 0

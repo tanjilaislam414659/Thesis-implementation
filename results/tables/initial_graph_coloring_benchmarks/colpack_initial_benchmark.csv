@@ -1,0 +1,11 @@
+graph_id,source_type,source_name,num_vertices,num_edges,coloring_distance,method_family,method_name,ordering_name,num_colors,runtime,valid,output_file
+ash85,sparse_matrix,ash85.mtx,85,219,1,colpack,greedy_coloring,LARGEST_FIRST,5,0,true,data\processed\initial_graph_coloring_dataset\colpack_outputs\ash85_largest_first.txt
+ash85,sparse_matrix,ash85.mtx,85,219,1,colpack,greedy_coloring,SMALLEST_LAST,4,0,true,data\processed\initial_graph_coloring_dataset\colpack_outputs\ash85_smallest_last.txt
+can_24,sparse_matrix,can_24.mtx,24,68,1,colpack,greedy_coloring,LARGEST_FIRST,5,0,true,data\processed\initial_graph_coloring_dataset\colpack_outputs\can24_largest_first.txt
+can_24,sparse_matrix,can_24.mtx,24,68,1,colpack,greedy_coloring,SMALLEST_LAST,4,0,true,data\processed\initial_graph_coloring_dataset\colpack_outputs\can24_smallest_last.txt
+hess_pat,sparse_matrix,hess_pat.mtx,43,94,1,colpack,greedy_coloring,LARGEST_FIRST,6,0,true,data\processed\initial_graph_coloring_dataset\colpack_outputs\hesspat_largest_first.txt
+hess_pat,sparse_matrix,hess_pat.mtx,43,94,1,colpack,greedy_coloring,SMALLEST_LAST,6,0,true,data\processed\initial_graph_coloring_dataset\colpack_outputs\hesspat_smallest_last.txt
+hess_pat_small,sparse_matrix,hess_pat_small.mtx,10,13,1,colpack,greedy_coloring,LARGEST_FIRST,3,0,true,data\processed\initial_graph_coloring_dataset\colpack_outputs\hesspatsmall_largest_first.txt
+hess_pat_small,sparse_matrix,hess_pat_small.mtx,10,13,1,colpack,greedy_coloring,SMALLEST_LAST,3,0,true,data\processed\initial_graph_coloring_dataset\colpack_outputs\hesspatsmall_smallest_last.txt
+jac_pat,sparse_matrix,jac_pat.mtx,43,72,1,colpack,greedy_coloring,LARGEST_FIRST,5,0,true,data\processed\initial_graph_coloring_dataset\colpack_outputs\jacpat_largest_first.txt
+jac_pat,sparse_matrix,jac_pat.mtx,43,72,1,colpack,greedy_coloring,SMALLEST_LAST,5,0,true,data\processed\initial_graph_coloring_dataset\colpack_outputs\jacpat_smallest_last.txt

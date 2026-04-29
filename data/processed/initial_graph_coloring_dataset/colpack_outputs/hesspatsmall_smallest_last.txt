@@ -1,0 +1,23 @@
+Requested ordering: SMALLEST_LAST
+Coloring distance: DISTANCE_ONE
+Input graph: C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\hess_pat_small.mtx
+
+ Coloring | SMALLEST_LAST_SERIAL Ordering | C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\hess_pat_small.mtx
+
+
+[Total Colors = 3]
+[Vertex Count = 10; Edge Count = 13]
+[Ordering Time = 0.001; Coloring Time = 0]
+
+Valid coloring check not yet implemented in runner output.
+Number of colored vertices: 10
+Vertex 0 -> Color 0
+Vertex 1 -> Color 1
+Vertex 2 -> Color 2
+Vertex 3 -> Color 0
+Vertex 4 -> Color 2
+Vertex 5 -> Color 0
+Vertex 6 -> Color 2
+Vertex 7 -> Color 0
+Vertex 8 -> Color 1
+Vertex 9 -> Color 0

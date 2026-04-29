@@ -1,0 +1,98 @@
+Requested ordering: LARGEST_FIRST
+Coloring distance: DISTANCE_ONE
+Input graph: C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\ash85.mtx
+
+ Coloring | LARGEST_FIRST Ordering | C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\ash85.mtx
+
+
+[Total Colors = 5]
+[Vertex Count = 85; Edge Count = 219]
+[Ordering Time = 0; Coloring Time = 0]
+
+Valid coloring check not yet implemented in runner output.
+Number of colored vertices: 85
+Vertex 0 -> Color 0
+Vertex 1 -> Color 1
+Vertex 2 -> Color 3
+Vertex 3 -> Color 0
+Vertex 4 -> Color 1
+Vertex 5 -> Color 3
+Vertex 6 -> Color 1
+Vertex 7 -> Color 2
+Vertex 8 -> Color 0
+Vertex 9 -> Color 2
+Vertex 10 -> Color 1
+Vertex 11 -> Color 2
+Vertex 12 -> Color 2
+Vertex 13 -> Color 2
+Vertex 14 -> Color 0
+Vertex 15 -> Color 3
+Vertex 16 -> Color 2
+Vertex 17 -> Color 1
+Vertex 18 -> Color 2
+Vertex 19 -> Color 3
+Vertex 20 -> Color 0
+Vertex 21 -> Color 3
+Vertex 22 -> Color 0
+Vertex 23 -> Color 1
+Vertex 24 -> Color 3
+Vertex 25 -> Color 2
+Vertex 26 -> Color 1
+Vertex 27 -> Color 4
+Vertex 28 -> Color 3
+Vertex 29 -> Color 0
+Vertex 30 -> Color 1
+Vertex 31 -> Color 3
+Vertex 32 -> Color 2
+Vertex 33 -> Color 0
+Vertex 34 -> Color 2
+Vertex 35 -> Color 3
+Vertex 36 -> Color 4
+Vertex 37 -> Color 1
+Vertex 38 -> Color 0
+Vertex 39 -> Color 1
+Vertex 40 -> Color 2
+Vertex 41 -> Color 2
+Vertex 42 -> Color 3
+Vertex 43 -> Color 1
+Vertex 44 -> Color 0
+Vertex 45 -> Color 3
+Vertex 46 -> Color 1
+Vertex 47 -> Color 2
+Vertex 48 -> Color 0
+Vertex 49 -> Color 0
+Vertex 50 -> Color 1
+Vertex 51 -> Color 3
+Vertex 52 -> Color 2
+Vertex 53 -> Color 0
+Vertex 54 -> Color 1
+Vertex 55 -> Color 3
+Vertex 56 -> Color 1
+Vertex 57 -> Color 0
+Vertex 58 -> Color 1
+Vertex 59 -> Color 2
+Vertex 60 -> Color 0
+Vertex 61 -> Color 3
+Vertex 62 -> Color 0
+Vertex 63 -> Color 1
+Vertex 64 -> Color 3
+Vertex 65 -> Color 0
+Vertex 66 -> Color 3
+Vertex 67 -> Color 0
+Vertex 68 -> Color 2
+Vertex 69 -> Color 1
+Vertex 70 -> Color 0
+Vertex 71 -> Color 1
+Vertex 72 -> Color 2
+Vertex 73 -> Color 0
+Vertex 74 -> Color 2
+Vertex 75 -> Color 1
+Vertex 76 -> Color 0
+Vertex 77 -> Color 2
+Vertex 78 -> Color 4
+Vertex 79 -> Color 3
+Vertex 80 -> Color 2
+Vertex 81 -> Color 1
+Vertex 82 -> Color 0
+Vertex 83 -> Color 2
+Vertex 84 -> Color 0

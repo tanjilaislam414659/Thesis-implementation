@@ -1,0 +1,37 @@
+Requested ordering: SMALLEST_LAST
+Coloring distance: DISTANCE_ONE
+Input graph: C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\can_24.mtx
+
+ Coloring | SMALLEST_LAST_SERIAL Ordering | C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\can_24.mtx
+
+
+[Total Colors = 4]
+[Vertex Count = 24; Edge Count = 68]
+[Ordering Time = 0; Coloring Time = 0]
+
+Valid coloring check not yet implemented in runner output.
+Number of colored vertices: 24
+Vertex 0 -> Color 0
+Vertex 1 -> Color 0
+Vertex 2 -> Color 0
+Vertex 3 -> Color 1
+Vertex 4 -> Color 1
+Vertex 5 -> Color 2
+Vertex 6 -> Color 1
+Vertex 7 -> Color 0
+Vertex 8 -> Color 1
+Vertex 9 -> Color 2
+Vertex 10 -> Color 0
+Vertex 11 -> Color 2
+Vertex 12 -> Color 3
+Vertex 13 -> Color 3
+Vertex 14 -> Color 3
+Vertex 15 -> Color 2
+Vertex 16 -> Color 3
+Vertex 17 -> Color 1
+Vertex 18 -> Color 3
+Vertex 19 -> Color 2
+Vertex 20 -> Color 1
+Vertex 21 -> Color 3
+Vertex 22 -> Color 2
+Vertex 23 -> Color 0
