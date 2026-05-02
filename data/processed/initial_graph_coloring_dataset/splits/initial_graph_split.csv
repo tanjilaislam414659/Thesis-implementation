@@ -1,0 +1,6 @@
+graph_id,split
+ash85,train
+can_24,train
+hess_pat,train
+hess_pat_small,validation
+jac_pat,test
