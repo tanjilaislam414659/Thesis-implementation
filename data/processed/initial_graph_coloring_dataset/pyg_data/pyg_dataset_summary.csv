@@ -1,0 +1,6 @@
+graph_id,split,num_nodes,num_directed_edges,num_features,pyg_file
+ash85,train,85,438,5,data\processed\initial_graph_coloring_dataset\pyg_data\ash85.pt
+can_24,train,24,136,5,data\processed\initial_graph_coloring_dataset\pyg_data\can_24.pt
+hess_pat,train,43,188,5,data\processed\initial_graph_coloring_dataset\pyg_data\hess_pat.pt
+hess_pat_small,validation,10,26,5,data\processed\initial_graph_coloring_dataset\pyg_data\hess_pat_small.pt
+jac_pat,test,43,242,5,data\processed\initial_graph_coloring_dataset\pyg_data\jac_pat.pt
