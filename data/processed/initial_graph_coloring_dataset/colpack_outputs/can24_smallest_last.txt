@@ -9,6 +9,31 @@ Input graph: C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\c
 [Vertex Count = 24; Edge Count = 68]
 [Ordering Time = 0; Coloring Time = 0]
 
+Number of ordered vertices: 24
+Order Position 0 -> Vertex 0
+Order Position 1 -> Vertex 6
+Order Position 2 -> Vertex 19
+Order Position 3 -> Vertex 21
+Order Position 4 -> Vertex 10
+Order Position 5 -> Vertex 20
+Order Position 6 -> Vertex 2
+Order Position 7 -> Vertex 11
+Order Position 8 -> Vertex 12
+Order Position 9 -> Vertex 5
+Order Position 10 -> Vertex 17
+Order Position 11 -> Vertex 18
+Order Position 12 -> Vertex 3
+Order Position 13 -> Vertex 7
+Order Position 14 -> Vertex 9
+Order Position 15 -> Vertex 13
+Order Position 16 -> Vertex 1
+Order Position 17 -> Vertex 15
+Order Position 18 -> Vertex 4
+Order Position 19 -> Vertex 14
+Order Position 20 -> Vertex 8
+Order Position 21 -> Vertex 16
+Order Position 22 -> Vertex 22
+Order Position 23 -> Vertex 23
 Valid coloring check not yet implemented in runner output.
 Number of colored vertices: 24
 Vertex 0 -> Color 0

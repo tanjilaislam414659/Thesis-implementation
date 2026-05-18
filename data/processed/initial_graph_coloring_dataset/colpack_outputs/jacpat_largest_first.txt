@@ -9,6 +9,50 @@ Input graph: C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\j
 [Vertex Count = 43; Edge Count = 72]
 [Ordering Time = 0; Coloring Time = 0]
 
+Number of ordered vertices: 43
+Order Position 0 -> Vertex 3
+Order Position 1 -> Vertex 1
+Order Position 2 -> Vertex 6
+Order Position 3 -> Vertex 8
+Order Position 4 -> Vertex 4
+Order Position 5 -> Vertex 7
+Order Position 6 -> Vertex 2
+Order Position 7 -> Vertex 5
+Order Position 8 -> Vertex 0
+Order Position 9 -> Vertex 15
+Order Position 10 -> Vertex 18
+Order Position 11 -> Vertex 9
+Order Position 12 -> Vertex 14
+Order Position 13 -> Vertex 16
+Order Position 14 -> Vertex 17
+Order Position 15 -> Vertex 10
+Order Position 16 -> Vertex 11
+Order Position 17 -> Vertex 12
+Order Position 18 -> Vertex 19
+Order Position 19 -> Vertex 20
+Order Position 20 -> Vertex 21
+Order Position 21 -> Vertex 24
+Order Position 22 -> Vertex 25
+Order Position 23 -> Vertex 26
+Order Position 24 -> Vertex 29
+Order Position 25 -> Vertex 30
+Order Position 26 -> Vertex 33
+Order Position 27 -> Vertex 13
+Order Position 28 -> Vertex 22
+Order Position 29 -> Vertex 23
+Order Position 30 -> Vertex 27
+Order Position 31 -> Vertex 28
+Order Position 32 -> Vertex 31
+Order Position 33 -> Vertex 32
+Order Position 34 -> Vertex 34
+Order Position 35 -> Vertex 35
+Order Position 36 -> Vertex 36
+Order Position 37 -> Vertex 37
+Order Position 38 -> Vertex 38
+Order Position 39 -> Vertex 39
+Order Position 40 -> Vertex 40
+Order Position 41 -> Vertex 41
+Order Position 42 -> Vertex 42
 Valid coloring check not yet implemented in runner output.
 Number of colored vertices: 43
 Vertex 0 -> Color 0
