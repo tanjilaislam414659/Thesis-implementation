@@ -8,9 +8,58 @@ INPUT_DIR = Path("data/processed/initial_graph_coloring_dataset/colpack_outputs"
 OUTPUT_CSV = Path("results/tables/initial_graph_coloring_benchmarks/colpack_initial_benchmark.csv")
 
 
+GRAPH_INFO_BY_FILE_PREFIX = {
+    "ash85": {
+        "graph_id": "ash85",
+        "source_name": "ash85.mtx",
+    },
+    "can24": {
+        "graph_id": "can_24",
+        "source_name": "can_24.mtx",
+    },
+    "hesspatsmall": {
+        "graph_id": "hess_pat_small",
+        "source_name": "hess_pat_small.mtx",
+    },
+    "hesspat": {
+        "graph_id": "hess_pat",
+        "source_name": "hess_pat.mtx",
+    },
+    "jacpat": {
+        "graph_id": "jac_pat",
+        "source_name": "jac_pat.mtx",
+    },
+}
+
+
 def list_colpack_output_files() -> list[Path]:
     """Return all saved ColPack output text files."""
     return sorted(INPUT_DIR.glob("*.txt"))
+
+
+def infer_graph_info_from_filename(file_path: Path) -> dict[str, str]:
+    """
+    Infer canonical graph_id and source_name from the ColPack output filename.
+
+    Prefixes are checked from longest to shortest so that
+    'hesspatsmall' is not incorrectly matched as 'hesspat'.
+    """
+
+    stem = file_path.stem
+
+    prefixes_by_length = sorted(
+        GRAPH_INFO_BY_FILE_PREFIX.items(),
+        key=lambda item: len(item[0]),
+        reverse=True,
+    )
+
+    for prefix, graph_info in prefixes_by_length:
+        if stem.startswith(prefix):
+            return graph_info
+
+    raise ValueError(
+        f"Could not infer canonical graph information from filename: {file_path.name}"
+    )
 
 
 def parse_num_colors(text: str) -> int:
@@ -54,9 +103,9 @@ def build_row(file_path: Path) -> dict:
     num_colors = parse_num_colors(text)
     num_vertices, num_edges = parse_vertex_edge_count(text)
 
-    graph_path = Path(input_graph)
-    graph_id = graph_path.stem
-    source_name = graph_path.name
+    graph_info = infer_graph_info_from_filename(file_path)
+    graph_id = graph_info["graph_id"]
+    source_name = graph_info["source_name"]
 
     return {
         "graph_id": graph_id,

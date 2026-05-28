@@ -44,3 +44,44 @@ hess_pat
 are square matrices and their graph representations are aligned between the existing Python pipeline and ColPack baseline workflow.
 
 The jac_pat mismatch must be addressed before final test-set evaluation or before using its ColPack labels in a learned-vs-heuristic comparison.
+
+
+
+## Resolution in Week 11
+
+This mismatch was resolved at the beginning of Week 11.
+
+To align the ColPack workflow with the Python/PyTorch Geometric pipeline, the Python column-intersection graph for `jac_pat.mtx` was exported as a square Matrix Market graph file:
+
+```text
+data/processed/initial_graph_coloring_dataset/colpack_graph_inputs/jac_pat_column_intersection_graph.mtx
+
+
+This exported graph contains:
+
+→ 43 vertices
+→ 21 undirected edges
+
+
+ColPack was then rerun on this aligned graph representation. The corrected stored ColPack outputs now report:
+
+→ 43 vertices
+→ 121 edges
+→ 11 colors for LARGEST_FIRST
+→ 11 colors for SMALLEST_LAST
+
+
+After this correction:
+
+→ the jac_pat SMALLEST_LAST ordering targets were regenerated,
+→ the target tensor was attached to jac_pat.pt,
+→ the PyTorch Geometric target validation was updated,
+→ the ColPack benchmark CSV was regenerated with the corrected jac_pat values.
+
+Therefore, jac_pat is now aligned across:
+
+→ Python graph construction
+→ PyTorch Geometric graph data
+→ ColPack baseline outputs
+→ ordering target extraction
+→ benchmark summary table

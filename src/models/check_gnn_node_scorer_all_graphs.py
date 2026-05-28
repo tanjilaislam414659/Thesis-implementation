@@ -26,6 +26,7 @@ TARGET_ENABLED_GRAPHS = {
     "can_24",
     "hess_pat",
     "hess_pat_small",
+    "jac_pat",
 }
 
 

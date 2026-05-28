@@ -172,31 +172,27 @@ The validation checks confirm that:
 
 ---
 
-## Important Note on `jac_pat`
+## Note on `jac_pat` Alignment
 
-A mismatch was identified for `jac_pat.mtx`:
+During Week 10, a mismatch was identified for `jac_pat.mtx`:
 
-- the Python/PyTorch Geometric pipeline represents it as a **column intersection graph** with 121 undirected edges,
-- the current stored ColPack output reports a different graph representation with 72 edges.
+- the Python/PyTorch Geometric pipeline represented it as a **column intersection graph** with 121 undirected edges,
+- the earlier stored ColPack output had been generated from a different graph interpretation with 72 edges.
 
-Therefore, the existing `jac_pat` ColPack ordering target should **not** be attached to or used as supervision for the current `jac_pat.pt` PyTorch Geometric graph object until the rectangular-matrix ColPack workflow is aligned with the Python column-intersection representation.
+This issue was resolved at the beginning of Week 11.
 
-The issue is documented separately in:
-
-```text
-docs/thesis_log/jac_pat_colpack_graph_mismatch_note.md
-```
-
-This does not block the initial learning-target design because the currently aligned square-matrix graphs are:
+The Python column-intersection graph was exported as a square Matrix Market graph file and used as the input for regenerated ColPack runs. The corrected ColPack outputs now match the Python/PyTorch Geometric representation:
 
 ```text
-ash85
-can_24
-hess_pat
-hess_pat_small
-```
+43 vertices
+121 undirected edges
 
----
+
+After this correction:
+
+- the jac_pat SMALLEST_LAST ordering targets were regenerated,
+- the target tensor was attached to jac_pat.pt,
+- jac_pat is now available as the aligned test graph in the learning pipeline.
 
 ## Current Outcome
 

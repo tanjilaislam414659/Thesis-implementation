@@ -1,0 +1,2 @@
+graph_id,num_nodes,mean_absolute_position_error,max_absolute_position_error,top_10_overlap,top_15_overlap
+jac_pat,43,3.627906976744186,16,3,12

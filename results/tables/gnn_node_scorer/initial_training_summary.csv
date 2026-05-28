@@ -1,0 +1,2 @@
+model_name,target_ordering,num_train_graphs,num_validation_graphs,num_test_graphs,input_dim,hidden_channels,num_epochs,best_epoch,best_validation_loss,final_train_loss_best_model,final_validation_loss_best_model,final_test_loss_best_model,checkpoint_path
+GNNNodeScorer,SMALLEST_LAST,3,1,1,5,32,200,1,0.09220293909311295,0.06313162172834079,0.09220293909311295,0.06677310913801193,results\models\gnn_node_scorer\best_gnn_node_scorer.pt

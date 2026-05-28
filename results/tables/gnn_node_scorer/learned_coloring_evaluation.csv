@@ -1,0 +1,2 @@
+graph_id,method_family,method_name,ordering_name,num_vertices,num_edges,num_colors,valid,checkpoint_path
+jac_pat,gnn,GNNNodeScorer,learned_ordering_from_predicted_scores,43,121,11,True,results\models\gnn_node_scorer\best_gnn_node_scorer.pt

@@ -24,9 +24,7 @@ PYG_DATA_DIR = Path(
     "data/processed/initial_graph_coloring_dataset/pyg_data"
 )
 
-SKIP_GRAPH_IDS = {
-    "jac_pat",
-}
+SKIP_GRAPH_IDS = set()
 
 
 def attach_targets_to_saved_pyg_data() -> None:

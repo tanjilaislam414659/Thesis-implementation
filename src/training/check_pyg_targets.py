@@ -27,11 +27,10 @@ GRAPHS_EXPECTED_TO_HAVE_TARGETS = {
     "can_24",
     "hess_pat",
     "hess_pat_small",
-}
-
-GRAPHS_EXPECTED_WITHOUT_TARGETS = {
     "jac_pat",
 }
+
+GRAPHS_EXPECTED_WITHOUT_TARGETS = set()
 
 
 def main() -> None:
