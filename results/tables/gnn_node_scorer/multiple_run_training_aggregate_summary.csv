@@ -1,0 +1,2 @@
+num_runs,mean_train_loss,mean_validation_loss,mean_test_loss,min_test_loss,max_test_loss,best_test_seed,best_validation_seed,best_validation_loss
+5,0.12570220306515695,0.08587273210287094,0.4462059661746025,0.07134174555540085,0.8522531986236572,0,2,0.05371692776679993

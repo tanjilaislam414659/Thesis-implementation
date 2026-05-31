@@ -1,0 +1,2 @@
+graph_id,num_runs,min_colors,max_colors,mean_colors,all_colorings_valid,mean_runtime_seconds,min_runtime_seconds,max_runtime_seconds
+jac_pat,5,11,11,11.0,True,0.003989220038056374,0.0009546999353915453,0.01532010012306273

@@ -19,32 +19,12 @@ __pycache__/
 data/raw/
 
 # Experiment outputs
-results/
+results/*
+!results/tables/
+!results/tables/**
 
-# OS
-.DS_Store
-Thumbs.db# Python
-__pycache__/
-*.pyc
-*.pyo
-
-# Jupyter
-.ipynb_checkpoints/
-
-# VS Code
-.vscode/
-
-# IDE
-.idea/
-
-# Environment files
-.env
-
-# Data
-data/raw/
-
-# Experiment outputs
-results/
+# Keep model checkpoints ignored by default
+results/models/
 
 # OS
 .DS_Store

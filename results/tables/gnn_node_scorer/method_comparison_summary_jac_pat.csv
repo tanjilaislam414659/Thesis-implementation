@@ -1,0 +1,4 @@
+graph_id,method_group,num_runs,min_colors,max_colors,mean_colors,all_valid,mean_runtime_seconds
+jac_pat,ColPack LARGEST_FIRST,1,11,11,11.0,True,0.0
+jac_pat,ColPack SMALLEST_LAST,1,11,11,11.0,True,0.0
+jac_pat,GNN learned ordering,5,11,11,11.0,True,0.003989220038056374

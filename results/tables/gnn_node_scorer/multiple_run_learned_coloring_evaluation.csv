@@ -1,0 +1,6 @@
+graph_id,seed,method_family,method_name,ordering_name,num_vertices,num_edges,num_colors,valid,runtime_seconds,checkpoint_path
+jac_pat,0,gnn,GNNNodeScorer,learned_ordering_from_predicted_scores,43,121,11,True,0.01532010012306273,results\models\gnn_node_scorer\multiple_runs\best_gnn_node_scorer_seed_0.pt
+jac_pat,1,gnn,GNNNodeScorer,learned_ordering_from_predicted_scores,43,121,11,True,0.0010281999129801989,results\models\gnn_node_scorer\multiple_runs\best_gnn_node_scorer_seed_1.pt
+jac_pat,2,gnn,GNNNodeScorer,learned_ordering_from_predicted_scores,43,121,11,True,0.0009546999353915453,results\models\gnn_node_scorer\multiple_runs\best_gnn_node_scorer_seed_2.pt
+jac_pat,3,gnn,GNNNodeScorer,learned_ordering_from_predicted_scores,43,121,11,True,0.0009562000632286072,results\models\gnn_node_scorer\multiple_runs\best_gnn_node_scorer_seed_3.pt
+jac_pat,4,gnn,GNNNodeScorer,learned_ordering_from_predicted_scores,43,121,11,True,0.0016869001556187868,results\models\gnn_node_scorer\multiple_runs\best_gnn_node_scorer_seed_4.pt
