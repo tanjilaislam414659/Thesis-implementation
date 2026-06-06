@@ -1,0 +1,16 @@
+graph_id,matrix_file,matrix_rows,matrix_cols,matrix_nnz,graph_vertices,graph_edges
+ash85,ash85.mtx,85,85,523,85,219
+bcsstk01,bcsstk01.mtx,48,48,400,48,176
+bcsstk03,bcsstk03.mtx,112,112,640,112,264
+bcsstk04,bcsstk04.mtx,132,132,3648,132,1758
+bcsstk05,bcsstk05.mtx,153,153,2423,153,1135
+bcsstk06,bcsstk06.mtx,420,420,7860,420,3720
+can_24,can_24.mtx,24,24,160,24,68
+dwt_234,dwt_234.mtx,234,234,834,234,300
+dwt_361,dwt_361.mtx,361,361,2953,361,1296
+dwt_419,dwt_419.mtx,419,419,3563,419,1572
+hess_pat,hess_pat.mtx,43,43,230,43,94
+hess_pat_small,hess_pat_small.mtx,10,10,36,10,13
+jac_pat,jac_pat.mtx,10,43,78,43,121
+sherman1,sherman1.mtx,1000,1000,3750,1000,1375
+west0479,west0479.mtx,479,479,1910,479,1889
