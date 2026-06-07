@@ -68,11 +68,14 @@ Observed result:
 - The current runner prints the requested ordering, coloring distance, input graph, summary metrics, and per-vertex colors.
 
 
-## Initial baseline orderings
+## Baseline Orderings Used in Week 14
 
-For the current ColPack baseline workflow, the initial orderings used are:
+For the expanded Week 14 ColPack baseline workflow, the selected orderings are:
 
-- SMALLEST_LAST
-- LARGEST_FIRST
+- `SMALLEST_LAST`
+- `LARGEST_FIRST`
+- `NATURAL`
 
-These two orderings are used first because they already run successfully in the current runner workflow and provide a simple but meaningful baseline comparison across matrices.
+`SMALLEST_LAST` remains the primary heuristic ordering target for supervised GNN training. `LARGEST_FIRST` and `NATURAL` are included as additional baseline orderings for comparison.
+
+The `NATURAL` ordering was tested successfully on `ash85`, producing 5 colors with 85 vertices and 219 edges. This confirms that the current ColPack runner accepts `NATURAL` as an ordering argument.

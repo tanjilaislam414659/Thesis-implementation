@@ -1,0 +1,34 @@
+Requested ordering: LARGEST_FIRST
+Coloring distance: DISTANCE_ONE
+Input graph: C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\hess_pat_small.mtx
+
+ Coloring | LARGEST_FIRST Ordering | C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\hess_pat_small.mtx
+
+
+[Total Colors = 3]
+[Vertex Count = 10; Edge Count = 13]
+[Ordering Time = 0; Coloring Time = 0]
+
+Number of ordered vertices: 10
+Order Position 0 -> Vertex 3
+Order Position 1 -> Vertex 1
+Order Position 2 -> Vertex 4
+Order Position 3 -> Vertex 6
+Order Position 4 -> Vertex 8
+Order Position 5 -> Vertex 0
+Order Position 6 -> Vertex 2
+Order Position 7 -> Vertex 5
+Order Position 8 -> Vertex 7
+Order Position 9 -> Vertex 9
+Valid coloring check not yet implemented in runner output.
+Number of colored vertices: 10
+Vertex 0 -> Color 0
+Vertex 1 -> Color 1
+Vertex 2 -> Color 2
+Vertex 3 -> Color 0
+Vertex 4 -> Color 2
+Vertex 5 -> Color 0
+Vertex 6 -> Color 1
+Vertex 7 -> Color 0
+Vertex 8 -> Color 2
+Vertex 9 -> Color 0

@@ -1,0 +1,100 @@
+Requested ordering: SMALLEST_LAST
+Coloring distance: DISTANCE_ONE
+Input graph: C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\hess_pat.mtx
+
+ Coloring | SMALLEST_LAST_SERIAL Ordering | C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\hess_pat.mtx
+
+
+[Total Colors = 6]
+[Vertex Count = 43; Edge Count = 94]
+[Ordering Time = 0; Coloring Time = 0]
+
+Number of ordered vertices: 43
+Order Position 0 -> Vertex 1
+Order Position 1 -> Vertex 2
+Order Position 2 -> Vertex 3
+Order Position 3 -> Vertex 15
+Order Position 4 -> Vertex 16
+Order Position 5 -> Vertex 17
+Order Position 6 -> Vertex 4
+Order Position 7 -> Vertex 18
+Order Position 8 -> Vertex 0
+Order Position 9 -> Vertex 14
+Order Position 10 -> Vertex 8
+Order Position 11 -> Vertex 22
+Order Position 12 -> Vertex 9
+Order Position 13 -> Vertex 23
+Order Position 14 -> Vertex 5
+Order Position 15 -> Vertex 10
+Order Position 16 -> Vertex 24
+Order Position 17 -> Vertex 19
+Order Position 18 -> Vertex 11
+Order Position 19 -> Vertex 12
+Order Position 20 -> Vertex 25
+Order Position 21 -> Vertex 26
+Order Position 22 -> Vertex 13
+Order Position 23 -> Vertex 27
+Order Position 24 -> Vertex 6
+Order Position 25 -> Vertex 20
+Order Position 26 -> Vertex 7
+Order Position 27 -> Vertex 21
+Order Position 28 -> Vertex 28
+Order Position 29 -> Vertex 29
+Order Position 30 -> Vertex 30
+Order Position 31 -> Vertex 31
+Order Position 32 -> Vertex 32
+Order Position 33 -> Vertex 33
+Order Position 34 -> Vertex 34
+Order Position 35 -> Vertex 35
+Order Position 36 -> Vertex 36
+Order Position 37 -> Vertex 37
+Order Position 38 -> Vertex 38
+Order Position 39 -> Vertex 39
+Order Position 40 -> Vertex 40
+Order Position 41 -> Vertex 41
+Order Position 42 -> Vertex 42
+Valid coloring check not yet implemented in runner output.
+Number of colored vertices: 43
+Vertex 0 -> Color 2
+Vertex 1 -> Color 0
+Vertex 2 -> Color 1
+Vertex 3 -> Color 2
+Vertex 4 -> Color 1
+Vertex 5 -> Color 0
+Vertex 6 -> Color 3
+Vertex 7 -> Color 0
+Vertex 8 -> Color 0
+Vertex 9 -> Color 2
+Vertex 10 -> Color 1
+Vertex 11 -> Color 1
+Vertex 12 -> Color 3
+Vertex 13 -> Color 2
+Vertex 14 -> Color 5
+Vertex 15 -> Color 3
+Vertex 16 -> Color 4
+Vertex 17 -> Color 5
+Vertex 18 -> Color 4
+Vertex 19 -> Color 2
+Vertex 20 -> Color 4
+Vertex 21 -> Color 1
+Vertex 22 -> Color 1
+Vertex 23 -> Color 3
+Vertex 24 -> Color 4
+Vertex 25 -> Color 4
+Vertex 26 -> Color 5
+Vertex 27 -> Color 4
+Vertex 28 -> Color 0
+Vertex 29 -> Color 0
+Vertex 30 -> Color 0
+Vertex 31 -> Color 0
+Vertex 32 -> Color 0
+Vertex 33 -> Color 0
+Vertex 34 -> Color 0
+Vertex 35 -> Color 0
+Vertex 36 -> Color 0
+Vertex 37 -> Color 0
+Vertex 38 -> Color 0
+Vertex 39 -> Color 0
+Vertex 40 -> Color 0
+Vertex 41 -> Color 0
+Vertex 42 -> Color 0
