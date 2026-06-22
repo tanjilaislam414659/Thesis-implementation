@@ -1,0 +1,16 @@
+graph_id,split
+ash85,train
+can_24,train
+hess_pat,train
+bcsstk01,train
+bcsstk03,train
+bcsstk04,train
+bcsstk05,train
+dwt_234,train
+dwt_361,train
+west0479,train
+hess_pat_small,validation
+dwt_419,validation
+jac_pat,test
+bcsstk06,test
+sherman1,test

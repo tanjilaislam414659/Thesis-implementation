@@ -1,0 +1,62 @@
+Requested ordering: INCIDENCE_DEGREE
+Coloring distance: DISTANCE_ONE
+Input graph: C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\can_24.mtx
+
+ Coloring | INCIDENCE_DEGREE Ordering | C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\can_24.mtx
+
+
+[Total Colors = 4]
+[Vertex Count = 24; Edge Count = 68]
+[Ordering Time = 0; Coloring Time = 0]
+
+Number of ordered vertices: 24
+Order Position 0 -> Vertex 0
+Order Position 1 -> Vertex 21
+Order Position 2 -> Vertex 19
+Order Position 3 -> Vertex 6
+Order Position 4 -> Vertex 12
+Order Position 5 -> Vertex 11
+Order Position 6 -> Vertex 23
+Order Position 7 -> Vertex 2
+Order Position 8 -> Vertex 20
+Order Position 9 -> Vertex 22
+Order Position 10 -> Vertex 10
+Order Position 11 -> Vertex 18
+Order Position 12 -> Vertex 17
+Order Position 13 -> Vertex 5
+Order Position 14 -> Vertex 13
+Order Position 15 -> Vertex 9
+Order Position 16 -> Vertex 7
+Order Position 17 -> Vertex 3
+Order Position 18 -> Vertex 15
+Order Position 19 -> Vertex 4
+Order Position 20 -> Vertex 16
+Order Position 21 -> Vertex 14
+Order Position 22 -> Vertex 1
+Order Position 23 -> Vertex 8
+Valid coloring check not yet implemented in runner output.
+Number of colored vertices: 24
+Vertex 0 -> Color 0
+Vertex 1 -> Color 2
+Vertex 2 -> Color 2
+Vertex 3 -> Color 0
+Vertex 4 -> Color 1
+Vertex 5 -> Color 2
+Vertex 6 -> Color 3
+Vertex 7 -> Color 2
+Vertex 8 -> Color 1
+Vertex 9 -> Color 0
+Vertex 10 -> Color 3
+Vertex 11 -> Color 0
+Vertex 12 -> Color 1
+Vertex 13 -> Color 1
+Vertex 14 -> Color 3
+Vertex 15 -> Color 3
+Vertex 16 -> Color 0
+Vertex 17 -> Color 3
+Vertex 18 -> Color 1
+Vertex 19 -> Color 2
+Vertex 20 -> Color 0
+Vertex 21 -> Color 1
+Vertex 22 -> Color 3
+Vertex 23 -> Color 2

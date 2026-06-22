@@ -1,0 +1,278 @@
+Requested ordering: DYNAMIC_LARGEST_FIRST
+Coloring distance: DISTANCE_ONE
+Input graph: C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\bcsstk04.mtx
+
+ Coloring | DYNAMIC_LARGEST_FIRST Ordering | C:\Users\riyat\Documents\Thesis Implementations\data\raw\matrices\bcsstk04.mtx
+
+
+[Total Colors = 13]
+[Vertex Count = 132; Edge Count = 1758]
+[Ordering Time = 0; Coloring Time = 0]
+
+Number of ordered vertices: 132
+Order Position 0 -> Vertex 94
+Order Position 1 -> Vertex 76
+Order Position 2 -> Vertex 75
+Order Position 3 -> Vertex 91
+Order Position 4 -> Vertex 93
+Order Position 5 -> Vertex 73
+Order Position 6 -> Vertex 47
+Order Position 7 -> Vertex 44
+Order Position 8 -> Vertex 29
+Order Position 9 -> Vertex 26
+Order Position 10 -> Vertex 90
+Order Position 11 -> Vertex 72
+Order Position 12 -> Vertex 46
+Order Position 13 -> Vertex 24
+Order Position 14 -> Vertex 43
+Order Position 15 -> Vertex 27
+Order Position 16 -> Vertex 77
+Order Position 17 -> Vertex 74
+Order Position 18 -> Vertex 95
+Order Position 19 -> Vertex 92
+Order Position 20 -> Vertex 45
+Order Position 21 -> Vertex 25
+Order Position 22 -> Vertex 42
+Order Position 23 -> Vertex 28
+Order Position 24 -> Vertex 64
+Order Position 25 -> Vertex 54
+Order Position 26 -> Vertex 63
+Order Position 27 -> Vertex 55
+Order Position 28 -> Vertex 61
+Order Position 29 -> Vertex 57
+Order Position 30 -> Vertex 60
+Order Position 31 -> Vertex 58
+Order Position 32 -> Vertex 118
+Order Position 33 -> Vertex 112
+Order Position 34 -> Vertex 108
+Order Position 35 -> Vertex 14
+Order Position 36 -> Vertex 7
+Order Position 37 -> Vertex 117
+Order Position 38 -> Vertex 17
+Order Position 39 -> Vertex 10
+Order Position 40 -> Vertex 109
+Order Position 41 -> Vertex 59
+Order Position 42 -> Vertex 56
+Order Position 43 -> Vertex 114
+Order Position 44 -> Vertex 111
+Order Position 45 -> Vertex 62
+Order Position 46 -> Vertex 115
+Order Position 47 -> Vertex 65
+Order Position 48 -> Vertex 6
+Order Position 49 -> Vertex 16
+Order Position 50 -> Vertex 15
+Order Position 51 -> Vertex 11
+Order Position 52 -> Vertex 116
+Order Position 53 -> Vertex 110
+Order Position 54 -> Vertex 126
+Order Position 55 -> Vertex 119
+Order Position 56 -> Vertex 113
+Order Position 57 -> Vertex 9
+Order Position 58 -> Vertex 13
+Order Position 59 -> Vertex 99
+Order Position 60 -> Vertex 129
+Order Position 61 -> Vertex 8
+Order Position 62 -> Vertex 96
+Order Position 63 -> Vertex 12
+Order Position 64 -> Vertex 41
+Order Position 65 -> Vertex 101
+Order Position 66 -> Vertex 32
+Order Position 67 -> Vertex 128
+Order Position 68 -> Vertex 120
+Order Position 69 -> Vertex 102
+Order Position 70 -> Vertex 20
+Order Position 71 -> Vertex 100
+Order Position 72 -> Vertex 23
+Order Position 73 -> Vertex 97
+Order Position 74 -> Vertex 68
+Order Position 75 -> Vertex 53
+Order Position 76 -> Vertex 71
+Order Position 77 -> Vertex 121
+Order Position 78 -> Vertex 103
+Order Position 79 -> Vertex 35
+Order Position 80 -> Vertex 98
+Order Position 81 -> Vertex 50
+Order Position 82 -> Vertex 38
+Order Position 83 -> Vertex 5
+Order Position 84 -> Vertex 2
+Order Position 85 -> Vertex 130
+Order Position 86 -> Vertex 125
+Order Position 87 -> Vertex 107
+Order Position 88 -> Vertex 86
+Order Position 89 -> Vertex 83
+Order Position 90 -> Vertex 80
+Order Position 91 -> Vertex 89
+Order Position 92 -> Vertex 37
+Order Position 93 -> Vertex 70
+Order Position 94 -> Vertex 49
+Order Position 95 -> Vertex 39
+Order Position 96 -> Vertex 22
+Order Position 97 -> Vertex 0
+Order Position 98 -> Vertex 19
+Order Position 99 -> Vertex 21
+Order Position 100 -> Vertex 40
+Order Position 101 -> Vertex 67
+Order Position 102 -> Vertex 69
+Order Position 103 -> Vertex 36
+Order Position 104 -> Vertex 106
+Order Position 105 -> Vertex 122
+Order Position 106 -> Vertex 124
+Order Position 107 -> Vertex 105
+Order Position 108 -> Vertex 31
+Order Position 109 -> Vertex 52
+Order Position 110 -> Vertex 66
+Order Position 111 -> Vertex 34
+Order Position 112 -> Vertex 4
+Order Position 113 -> Vertex 18
+Order Position 114 -> Vertex 88
+Order Position 115 -> Vertex 85
+Order Position 116 -> Vertex 82
+Order Position 117 -> Vertex 79
+Order Position 118 -> Vertex 78
+Order Position 119 -> Vertex 81
+Order Position 120 -> Vertex 84
+Order Position 121 -> Vertex 87
+Order Position 122 -> Vertex 1
+Order Position 123 -> Vertex 3
+Order Position 124 -> Vertex 33
+Order Position 125 -> Vertex 48
+Order Position 126 -> Vertex 51
+Order Position 127 -> Vertex 30
+Order Position 128 -> Vertex 104
+Order Position 129 -> Vertex 123
+Order Position 130 -> Vertex 131
+Order Position 131 -> Vertex 127
+Valid coloring check not yet implemented in runner output.
+Number of colored vertices: 132
+Vertex 0 -> Color 6
+Vertex 1 -> Color 11
+Vertex 2 -> Color 0
+Vertex 3 -> Color 7
+Vertex 4 -> Color 10
+Vertex 5 -> Color 0
+Vertex 6 -> Color 8
+Vertex 7 -> Color 6
+Vertex 8 -> Color 11
+Vertex 9 -> Color 10
+Vertex 10 -> Color 7
+Vertex 11 -> Color 9
+Vertex 12 -> Color 11
+Vertex 13 -> Color 10
+Vertex 14 -> Color 6
+Vertex 15 -> Color 9
+Vertex 16 -> Color 8
+Vertex 17 -> Color 7
+Vertex 18 -> Color 7
+Vertex 19 -> Color 8
+Vertex 20 -> Color 1
+Vertex 21 -> Color 6
+Vertex 22 -> Color 9
+Vertex 23 -> Color 1
+Vertex 24 -> Color 2
+Vertex 25 -> Color 4
+Vertex 26 -> Color 1
+Vertex 27 -> Color 3
+Vertex 28 -> Color 5
+Vertex 29 -> Color 1
+Vertex 30 -> Color 3
+Vertex 31 -> Color 5
+Vertex 32 -> Color 2
+Vertex 33 -> Color 5
+Vertex 34 -> Color 3
+Vertex 35 -> Color 2
+Vertex 36 -> Color 0
+Vertex 37 -> Color 1
+Vertex 38 -> Color 4
+Vertex 39 -> Color 0
+Vertex 40 -> Color 1
+Vertex 41 -> Color 4
+Vertex 42 -> Color 5
+Vertex 43 -> Color 3
+Vertex 44 -> Color 0
+Vertex 45 -> Color 4
+Vertex 46 -> Color 2
+Vertex 47 -> Color 0
+Vertex 48 -> Color 12
+Vertex 49 -> Color 9
+Vertex 50 -> Color 6
+Vertex 51 -> Color 10
+Vertex 52 -> Color 11
+Vertex 53 -> Color 6
+Vertex 54 -> Color 6
+Vertex 55 -> Color 7
+Vertex 56 -> Color 10
+Vertex 57 -> Color 8
+Vertex 58 -> Color 9
+Vertex 59 -> Color 10
+Vertex 60 -> Color 9
+Vertex 61 -> Color 8
+Vertex 62 -> Color 11
+Vertex 63 -> Color 7
+Vertex 64 -> Color 6
+Vertex 65 -> Color 11
+Vertex 66 -> Color 8
+Vertex 67 -> Color 10
+Vertex 68 -> Color 7
+Vertex 69 -> Color 9
+Vertex 70 -> Color 8
+Vertex 71 -> Color 7
+Vertex 72 -> Color 3
+Vertex 73 -> Color 2
+Vertex 74 -> Color 4
+Vertex 75 -> Color 1
+Vertex 76 -> Color 0
+Vertex 77 -> Color 4
+Vertex 78 -> Color 2
+Vertex 79 -> Color 3
+Vertex 80 -> Color 1
+Vertex 81 -> Color 0
+Vertex 82 -> Color 2
+Vertex 83 -> Color 1
+Vertex 84 -> Color 1
+Vertex 85 -> Color 3
+Vertex 86 -> Color 2
+Vertex 87 -> Color 0
+Vertex 88 -> Color 1
+Vertex 89 -> Color 2
+Vertex 90 -> Color 3
+Vertex 91 -> Color 1
+Vertex 92 -> Color 4
+Vertex 93 -> Color 2
+Vertex 94 -> Color 0
+Vertex 95 -> Color 4
+Vertex 96 -> Color 5
+Vertex 97 -> Color 5
+Vertex 98 -> Color 5
+Vertex 99 -> Color 3
+Vertex 100 -> Color 3
+Vertex 101 -> Color 0
+Vertex 102 -> Color 5
+Vertex 103 -> Color 6
+Vertex 104 -> Color 8
+Vertex 105 -> Color 10
+Vertex 106 -> Color 7
+Vertex 107 -> Color 8
+Vertex 108 -> Color 6
+Vertex 109 -> Color 7
+Vertex 110 -> Color 9
+Vertex 111 -> Color 8
+Vertex 112 -> Color 5
+Vertex 113 -> Color 9
+Vertex 114 -> Color 7
+Vertex 115 -> Color 8
+Vertex 116 -> Color 9
+Vertex 117 -> Color 6
+Vertex 118 -> Color 5
+Vertex 119 -> Color 9
+Vertex 120 -> Color 5
+Vertex 121 -> Color 6
+Vertex 122 -> Color 7
+Vertex 123 -> Color 10
+Vertex 124 -> Color 8
+Vertex 125 -> Color 7
+Vertex 126 -> Color 0
+Vertex 127 -> Color 1
+Vertex 128 -> Color 1
+Vertex 129 -> Color 0
+Vertex 130 -> Color 1
+Vertex 131 -> Color 1

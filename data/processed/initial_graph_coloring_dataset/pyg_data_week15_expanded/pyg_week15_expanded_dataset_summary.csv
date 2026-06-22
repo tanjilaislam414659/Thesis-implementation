@@ -1,0 +1,16 @@
+graph_id,split,num_nodes,num_directed_edges,num_undirected_edges,num_features,num_targets,path
+bcsstk06,test,420,7440,3720,5,420,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\bcsstk06.pt
+jac_pat,test,43,242,121,5,43,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\jac_pat.pt
+sherman1,test,1000,2750,1375,5,1000,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\sherman1.pt
+ash85,train,85,438,219,5,85,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\ash85.pt
+bcsstk01,train,48,352,176,5,48,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\bcsstk01.pt
+bcsstk03,train,112,528,264,5,112,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\bcsstk03.pt
+bcsstk04,train,132,3516,1758,5,132,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\bcsstk04.pt
+bcsstk05,train,153,2270,1135,5,153,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\bcsstk05.pt
+can_24,train,24,136,68,5,24,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\can_24.pt
+dwt_234,train,234,600,300,5,234,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\dwt_234.pt
+dwt_361,train,361,2592,1296,5,361,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\dwt_361.pt
+hess_pat,train,43,188,94,5,43,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\hess_pat.pt
+west0479,train,479,3778,1889,5,479,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\west0479.pt
+dwt_419,validation,419,3144,1572,5,419,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\dwt_419.pt
+hess_pat_small,validation,10,26,13,5,10,data\processed\initial_graph_coloring_dataset\pyg_data_week15_expanded\hess_pat_small.pt
