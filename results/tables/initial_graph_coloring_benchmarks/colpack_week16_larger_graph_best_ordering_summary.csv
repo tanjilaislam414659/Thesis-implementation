@@ -1,0 +1,4 @@
+graph_id,ordering_name,num_vertices,num_edges,num_colors
+bcsstk10,LARGEST_FIRST,1086,10492,13
+bcsstk14,SMALLEST_LAST,1806,30824,22
+bcsstk15,INCIDENCE_DEGREE,3948,56934,17

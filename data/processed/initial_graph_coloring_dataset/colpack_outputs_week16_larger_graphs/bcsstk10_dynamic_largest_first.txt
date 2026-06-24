@@ -1,0 +1,2186 @@
+Requested ordering: DYNAMIC_LARGEST_FIRST
+Coloring distance: DISTANCE_ONE
+Input graph: data\raw\matrices\bcsstk10.mtx
+
+ Coloring | DYNAMIC_LARGEST_FIRST Ordering | data\raw\matrices\bcsstk10.mtx
+
+
+[Total Colors = 16]
+[Vertex Count = 1086; Edge Count = 10492]
+[Ordering Time = 0; Coloring Time = 0]
+
+Number of ordered vertices: 1086
+Order Position 0 -> Vertex 1032
+Order Position 1 -> Vertex 1022
+Order Position 2 -> Vertex 972
+Order Position 3 -> Vertex 962
+Order Position 4 -> Vertex 912
+Order Position 5 -> Vertex 902
+Order Position 6 -> Vertex 852
+Order Position 7 -> Vertex 842
+Order Position 8 -> Vertex 792
+Order Position 9 -> Vertex 775
+Order Position 10 -> Vertex 732
+Order Position 11 -> Vertex 722
+Order Position 12 -> Vertex 672
+Order Position 13 -> Vertex 662
+Order Position 14 -> Vertex 612
+Order Position 15 -> Vertex 600
+Order Position 16 -> Vertex 552
+Order Position 17 -> Vertex 540
+Order Position 18 -> Vertex 492
+Order Position 19 -> Vertex 482
+Order Position 20 -> Vertex 432
+Order Position 21 -> Vertex 422
+Order Position 22 -> Vertex 372
+Order Position 23 -> Vertex 362
+Order Position 24 -> Vertex 312
+Order Position 25 -> Vertex 302
+Order Position 26 -> Vertex 252
+Order Position 27 -> Vertex 242
+Order Position 28 -> Vertex 192
+Order Position 29 -> Vertex 182
+Order Position 30 -> Vertex 132
+Order Position 31 -> Vertex 122
+Order Position 32 -> Vertex 72
+Order Position 33 -> Vertex 62
+Order Position 34 -> Vertex 61
+Order Position 35 -> Vertex 130
+Order Position 36 -> Vertex 117
+Order Position 37 -> Vertex 190
+Order Position 38 -> Vertex 181
+Order Position 39 -> Vertex 250
+Order Position 40 -> Vertex 241
+Order Position 41 -> Vertex 361
+Order Position 42 -> Vertex 296
+Order Position 43 -> Vertex 481
+Order Position 44 -> Vertex 370
+Order Position 45 -> Vertex 430
+Order Position 46 -> Vertex 415
+Order Position 47 -> Vertex 311
+Order Position 48 -> Vertex 550
+Order Position 49 -> Vertex 602
+Order Position 50 -> Vertex 671
+Order Position 51 -> Vertex 541
+Order Position 52 -> Vertex 715
+Order Position 53 -> Vertex 730
+Order Position 54 -> Vertex 787
+Order Position 55 -> Vertex 850
+Order Position 56 -> Vertex 776
+Order Position 57 -> Vertex 840
+Order Position 58 -> Vertex 961
+Order Position 59 -> Vertex 657
+Order Position 60 -> Vertex 1017
+Order Position 61 -> Vertex 971
+Order Position 62 -> Vertex 896
+Order Position 63 -> Vertex 910
+Order Position 64 -> Vertex 490
+Order Position 65 -> Vertex 1031
+Order Position 66 -> Vertex 70
+Order Position 67 -> Vertex 660
+Order Position 68 -> Vertex 356
+Order Position 69 -> Vertex 60
+Order Position 70 -> Vertex 542
+Order Position 71 -> Vertex 417
+Order Position 72 -> Vertex 237
+Order Position 73 -> Vertex 431
+Order Position 74 -> Vertex 721
+Order Position 75 -> Vertex 475
+Order Position 76 -> Vertex 310
+Order Position 77 -> Vertex 786
+Order Position 78 -> Vertex 177
+Order Position 79 -> Vertex 295
+Order Position 80 -> Vertex 836
+Order Position 81 -> Vertex 670
+Order Position 82 -> Vertex 115
+Order Position 83 -> Vertex 610
+Order Position 84 -> Vertex 611
+Order Position 85 -> Vertex 851
+Order Position 86 -> Vertex 371
+Order Position 87 -> Vertex 551
+Order Position 88 -> Vertex 731
+Order Position 89 -> Vertex 897
+Order Position 90 -> Vertex 1030
+Order Position 91 -> Vertex 131
+Order Position 92 -> Vertex 1016
+Order Position 93 -> Vertex 595
+Order Position 94 -> Vertex 960
+Order Position 95 -> Vertex 191
+Order Position 96 -> Vertex 777
+Order Position 97 -> Vertex 970
+Order Position 98 -> Vertex 491
+Order Position 99 -> Vertex 911
+Order Position 100 -> Vertex 251
+Order Position 101 -> Vertex 601
+Order Position 102 -> Vertex 1021
+Order Position 103 -> Vertex 536
+Order Position 104 -> Vertex 56
+Order Position 105 -> Vertex 357
+Order Position 106 -> Vertex 121
+Order Position 107 -> Vertex 656
+Order Position 108 -> Vertex 236
+Order Position 109 -> Vertex 476
+Order Position 110 -> Vertex 957
+Order Position 111 -> Vertex 180
+Order Position 112 -> Vertex 835
+Order Position 113 -> Vertex 901
+Order Position 114 -> Vertex 720
+Order Position 115 -> Vertex 300
+Order Position 116 -> Vertex 421
+Order Position 117 -> Vertex 790
+Order Position 118 -> Vertex 71
+Order Position 119 -> Vertex 175
+Order Position 120 -> Vertex 955
+Order Position 121 -> Vertex 477
+Order Position 122 -> Vertex 235
+Order Position 123 -> Vertex 655
+Order Position 124 -> Vertex 57
+Order Position 125 -> Vertex 537
+Order Position 126 -> Vertex 596
+Order Position 127 -> Vertex 837
+Order Position 128 -> Vertex 355
+Order Position 129 -> Vertex 1020
+Order Position 130 -> Vertex 297
+Order Position 131 -> Vertex 895
+Order Position 132 -> Vertex 116
+Order Position 133 -> Vertex 717
+Order Position 134 -> Vertex 416
+Order Position 135 -> Vertex 420
+Order Position 136 -> Vertex 301
+Order Position 137 -> Vertex 661
+Order Position 138 -> Vertex 176
+Order Position 139 -> Vertex 360
+Order Position 140 -> Vertex 900
+Order Position 141 -> Vertex 126
+Order Position 142 -> Vertex 716
+Order Position 143 -> Vertex 485
+Order Position 144 -> Vertex 785
+Order Position 145 -> Vertex 246
+Order Position 146 -> Vertex 1015
+Order Position 147 -> Vertex 846
+Order Position 148 -> Vertex 535
+Order Position 149 -> Vertex 55
+Order Position 150 -> Vertex 597
+Order Position 151 -> Vertex 791
+Order Position 152 -> Vertex 956
+Order Position 153 -> Vertex 667
+Order Position 154 -> Vertex 1027
+Order Position 155 -> Vertex 42
+Order Position 156 -> Vertex 306
+Order Position 157 -> Vertex 845
+Order Position 158 -> Vertex 781
+Order Position 159 -> Vertex 365
+Order Position 160 -> Vertex 547
+Order Position 161 -> Vertex 967
+Order Position 162 -> Vertex 905
+Order Position 163 -> Vertex 245
+Order Position 164 -> Vertex 186
+Order Position 165 -> Vertex 125
+Order Position 166 -> Vertex 726
+Order Position 167 -> Vertex 605
+Order Position 168 -> Vertex 487
+Order Position 169 -> Vertex 427
+Order Position 170 -> Vertex 426
+Order Position 171 -> Vertex 1026
+Order Position 172 -> Vertex 307
+Order Position 173 -> Vertex 127
+Order Position 174 -> Vertex 665
+Order Position 175 -> Vertex 606
+Order Position 176 -> Vertex 780
+Order Position 177 -> Vertex 847
+Order Position 178 -> Vertex 66
+Order Position 179 -> Vertex 907
+Order Position 180 -> Vertex 240
+Order Position 181 -> Vertex 725
+Order Position 182 -> Vertex 187
+Order Position 183 -> Vertex 367
+Order Position 184 -> Vertex 966
+Order Position 185 -> Vertex 480
+Order Position 186 -> Vertex 486
+Order Position 187 -> Vertex 965
+Order Position 188 -> Vertex 366
+Order Position 189 -> Vertex 185
+Order Position 190 -> Vertex 727
+Order Position 191 -> Vertex 247
+Order Position 192 -> Vertex 41
+Order Position 193 -> Vertex 607
+Order Position 194 -> Vertex 545
+Order Position 195 -> Vertex 120
+Order Position 196 -> Vertex 841
+Order Position 197 -> Vertex 666
+Order Position 198 -> Vertex 1061
+Order Position 199 -> Vertex 305
+Order Position 200 -> Vertex 782
+Order Position 201 -> Vertex 425
+Order Position 202 -> Vertex 906
+Order Position 203 -> Vertex 546
+Order Position 204 -> Vertex 1062
+Order Position 205 -> Vertex 629
+Order Position 206 -> Vertex 1013
+Order Position 207 -> Vertex 579
+Order Position 208 -> Vertex 65
+Order Position 209 -> Vertex 909
+Order Position 210 -> Vertex 1028
+Order Position 211 -> Vertex 508
+Order Position 212 -> Vertex 683
+Order Position 213 -> Vertex 453
+Order Position 214 -> Vertex 444
+Order Position 215 -> Vertex 759
+Order Position 216 -> Vertex 388
+Order Position 217 -> Vertex 773
+Order Position 218 -> Vertex 338
+Order Position 219 -> Vertex 964
+Order Position 220 -> Vertex 298
+Order Position 221 -> Vertex 398
+Order Position 222 -> Vertex 868
+Order Position 223 -> Vertex 233
+Order Position 224 -> Vertex 218
+Order Position 225 -> Vertex 564
+Order Position 226 -> Vertex 26
+Order Position 227 -> Vertex 174
+Order Position 228 -> Vertex 159
+Order Position 229 -> Vertex 278
+Order Position 230 -> Vertex 698
+Order Position 231 -> Vertex 819
+Order Position 232 -> Vertex 954
+Order Position 233 -> Vertex 1046
+Order Position 234 -> Vertex 99
+Order Position 235 -> Vertex 113
+Order Position 236 -> Vertex 519
+Order Position 237 -> Vertex 58
+Order Position 238 -> Vertex 639
+Order Position 239 -> Vertex 814
+Order Position 240 -> Vertex 279
+Order Position 241 -> Vertex 294
+Order Position 242 -> Vertex 154
+Order Position 243 -> Vertex 803
+Order Position 244 -> Vertex 353
+Order Position 245 -> Vertex 753
+Order Position 246 -> Vertex 339
+Order Position 247 -> Vertex 399
+Order Position 248 -> Vertex 443
+Order Position 249 -> Vertex 59
+Order Position 250 -> Vertex 693
+Order Position 251 -> Vertex 863
+Order Position 252 -> Vertex 459
+Order Position 253 -> Vertex 1023
+Order Position 254 -> Vertex 214
+Order Position 255 -> Vertex 503
+Order Position 256 -> Vertex 878
+Order Position 257 -> Vertex 923
+Order Position 258 -> Vertex 969
+Order Position 259 -> Vertex 68
+Order Position 260 -> Vertex 27
+Order Position 261 -> Vertex 624
+Order Position 262 -> Vertex 578
+Order Position 263 -> Vertex 1014
+Order Position 264 -> Vertex 563
+Order Position 265 -> Vertex 1060
+Order Position 266 -> Vertex 67
+Order Position 267 -> Vertex 744
+Order Position 268 -> Vertex 518
+Order Position 269 -> Vertex 684
+Order Position 270 -> Vertex 114
+Order Position 271 -> Vertex 638
+Order Position 272 -> Vertex 1047
+Order Position 273 -> Vertex 234
+Order Position 274 -> Vertex 173
+Order Position 275 -> Vertex 743
+Order Position 276 -> Vertex 504
+Order Position 277 -> Vertex 804
+Order Position 278 -> Vertex 908
+Order Position 279 -> Vertex 384
+Order Position 280 -> Vertex 158
+Order Position 281 -> Vertex 758
+Order Position 282 -> Vertex 818
+Order Position 283 -> Vertex 54
+Order Position 284 -> Vertex 699
+Order Position 285 -> Vertex 963
+Order Position 286 -> Vertex 293
+Order Position 287 -> Vertex 568
+Order Position 288 -> Vertex 628
+Order Position 289 -> Vertex 864
+Order Position 290 -> Vertex 40
+Order Position 291 -> Vertex 98
+Order Position 292 -> Vertex 454
+Order Position 293 -> Vertex 25
+Order Position 294 -> Vertex 1029
+Order Position 295 -> Vertex 213
+Order Position 296 -> Vertex 924
+Order Position 297 -> Vertex 1000
+Order Position 298 -> Vertex 1025
+Order Position 299 -> Vertex 1024
+Order Position 300 -> Vertex 623
+Order Position 301 -> Vertex 354
+Order Position 302 -> Vertex 688
+Order Position 303 -> Vertex 102
+Order Position 304 -> Vertex 402
+Order Position 305 -> Vertex 342
+Order Position 306 -> Vertex 641
+Order Position 307 -> Vertex 86
+Order Position 308 -> Vertex 221
+Order Position 309 -> Vertex 447
+Order Position 310 -> Vertex 205
+Order Position 311 -> Vertex 69
+Order Position 312 -> Vertex 566
+Order Position 313 -> Vertex 627
+Order Position 314 -> Vertex 821
+Order Position 315 -> Vertex 385
+Order Position 316 -> Vertex 941
+Order Position 317 -> Vertex 291
+Order Position 318 -> Vertex 831
+Order Position 319 -> Vertex 505
+Order Position 320 -> Vertex 557
+Order Position 321 -> Vertex 882
+Order Position 322 -> Vertex 891
+Order Position 323 -> Vertex 282
+Order Position 324 -> Vertex 712
+Order Position 325 -> Vertex 770
+Order Position 326 -> Vertex 735
+Order Position 327 -> Vertex 509
+Order Position 328 -> Vertex 458
+Order Position 329 -> Vertex 950
+Order Position 330 -> Vertex 162
+Order Position 331 -> Vertex 273
+Order Position 332 -> Vertex 119
+Order Position 333 -> Vertex 145
+Order Position 334 -> Vertex 984
+Order Position 335 -> Vertex 460
+Order Position 336 -> Vertex 1045
+Order Position 337 -> Vertex 879
+Order Position 338 -> Vertex 53
+Order Position 339 -> Vertex 754
+Order Position 340 -> Vertex 813
+Order Position 341 -> Vertex 869
+Order Position 342 -> Vertex 968
+Order Position 343 -> Vertex 219
+Order Position 344 -> Vertex 569
+Order Position 345 -> Vertex 334
+Order Position 346 -> Vertex 394
+Order Position 347 -> Vertex 393
+Order Position 348 -> Vertex 881
+Order Position 349 -> Vertex 581
+Order Position 350 -> Vertex 651
+Order Position 351 -> Vertex 507
+Order Position 352 -> Vertex 207
+Order Position 353 -> Vertex 797
+Order Position 354 -> Vertex 387
+Order Position 355 -> Vertex 222
+Order Position 356 -> Vertex 952
+Order Position 357 -> Vertex 153
+Order Position 358 -> Vertex 85
+Order Position 359 -> Vertex 676
+Order Position 360 -> Vertex 281
+Order Position 361 -> Vertex 446
+Order Position 362 -> Vertex 401
+Order Position 363 -> Vertex 892
+Order Position 364 -> Vertex 341
+Order Position 365 -> Vertex 710
+Order Position 366 -> Vertex 101
+Order Position 367 -> Vertex 514
+Order Position 368 -> Vertex 830
+Order Position 369 -> Vertex 634
+Order Position 370 -> Vertex 520
+Order Position 371 -> Vertex 265
+Order Position 372 -> Vertex 1001
+Order Position 373 -> Vertex 333
+Order Position 374 -> Vertex 953
+Order Position 375 -> Vertex 383
+Order Position 376 -> Vertex 203
+Order Position 377 -> Vertex 326
+Order Position 378 -> Vertex 160
+Order Position 379 -> Vertex 146
+Order Position 380 -> Vertex 772
+Order Position 381 -> Vertex 737
+Order Position 382 -> Vertex 689
+Order Position 383 -> Vertex 448
+Order Position 384 -> Vertex 942
+Order Position 385 -> Vertex 567
+Order Position 386 -> Vertex 462
+Order Position 387 -> Vertex 274
+Order Position 388 -> Vertex 327
+Order Position 389 -> Vertex 580
+Order Position 390 -> Vertex 983
+Order Position 391 -> Vertex 573
+Order Position 392 -> Vertex 809
+Order Position 393 -> Vertex 161
+Order Position 394 -> Vertex 796
+Order Position 395 -> Vertex 890
+Order Position 396 -> Vertex 832
+Order Position 397 -> Vertex 263
+Order Position 398 -> Vertex 694
+Order Position 399 -> Vertex 642
+Order Position 400 -> Vertex 323
+Order Position 401 -> Vertex 143
+Order Position 402 -> Vertex 633
+Order Position 403 -> Vertex 626
+Order Position 404 -> Vertex 987
+Order Position 405 -> Vertex 521
+Order Position 406 -> Vertex 1044
+Order Position 407 -> Vertex 711
+Order Position 408 -> Vertex 461
+Order Position 409 -> Vertex 749
+Order Position 410 -> Vertex 206
+Order Position 411 -> Vertex 1002
+Order Position 412 -> Vertex 87
+Order Position 413 -> Vertex 147
+Order Position 414 -> Vertex 736
+Order Position 415 -> Vertex 266
+Order Position 416 -> Vertex 445
+Order Position 417 -> Vertex 100
+Order Position 418 -> Vertex 38
+Order Position 419 -> Vertex 220
+Order Position 420 -> Vertex 574
+Order Position 421 -> Vertex 340
+Order Position 422 -> Vertex 880
+Order Position 423 -> Vertex 449
+Order Position 424 -> Vertex 506
+Order Position 425 -> Vertex 565
+Order Position 426 -> Vertex 771
+Order Position 427 -> Vertex 940
+Order Position 428 -> Vertex 400
+Order Position 429 -> Vertex 204
+Order Position 430 -> Vertex 280
+Order Position 431 -> Vertex 513
+Order Position 432 -> Vertex 144
+Order Position 433 -> Vertex 640
+Order Position 434 -> Vertex 873
+Order Position 435 -> Vertex 748
+Order Position 436 -> Vertex 625
+Order Position 437 -> Vertex 1056
+Order Position 438 -> Vertex 808
+Order Position 439 -> Vertex 5
+Order Position 440 -> Vertex 1072
+Order Position 441 -> Vertex 129
+Order Position 442 -> Vertex 325
+Order Position 443 -> Vertex 386
+Order Position 444 -> Vertex 939
+Order Position 445 -> Vertex 39
+Order Position 446 -> Vertex 264
+Order Position 447 -> Vertex 893
+Order Position 448 -> Vertex 1043
+Order Position 449 -> Vertex 582
+Order Position 450 -> Vertex 522
+Order Position 451 -> Vertex 267
+Order Position 452 -> Vertex 35
+Order Position 453 -> Vertex 822
+Order Position 454 -> Vertex 986
+Order Position 455 -> Vertex 324
+Order Position 456 -> Vertex 10
+Order Position 457 -> Vertex 849
+Order Position 458 -> Vertex 675
+Order Position 459 -> Vertex 1081
+Order Position 460 -> Vertex 928
+Order Position 461 -> Vertex 389
+Order Position 462 -> Vertex 985
+Order Position 463 -> Vertex 1058
+Order Position 464 -> Vertex 128
+Order Position 465 -> Vertex 1073
+Order Position 466 -> Vertex 685
+Order Position 467 -> Vertex 29
+Order Position 468 -> Vertex 118
+Order Position 469 -> Vertex 938
+Order Position 470 -> Vertex 795
+Order Position 471 -> Vertex 4
+Order Position 472 -> Vertex 820
+Order Position 473 -> Vertex 652
+Order Position 474 -> Vertex 14
+Order Position 475 -> Vertex 594
+Order Position 476 -> Vertex 534
+Order Position 477 -> Vertex 999
+Order Position 478 -> Vertex 1079
+Order Position 479 -> Vertex 23
+Order Position 480 -> Vertex 244
+Order Position 481 -> Vertex 488
+Order Position 482 -> Vertex 83
+Order Position 483 -> Vertex 677
+Order Position 484 -> Vertex 668
+Order Position 485 -> Vertex 438
+Order Position 486 -> Vertex 403
+Order Position 487 -> Vertex 224
+Order Position 488 -> Vertex 584
+Order Position 489 -> Vertex 1059
+Order Position 490 -> Vertex 929
+Order Position 491 -> Vertex 283
+Order Position 492 -> Vertex 874
+Order Position 493 -> Vertex 713
+Order Position 494 -> Vertex 764
+Order Position 495 -> Vertex 1019
+Order Position 496 -> Vertex 184
+Order Position 497 -> Vertex 654
+Order Position 498 -> Vertex 926
+Order Position 499 -> Vertex 834
+Order Position 500 -> Vertex 344
+Order Position 501 -> Vertex 343
+Order Position 502 -> Vertex 474
+Order Position 503 -> Vertex 704
+Order Position 504 -> Vertex 702
+Order Position 505 -> Vertex 489
+Order Position 506 -> Vertex 848
+Order Position 507 -> Vertex 28
+Order Position 508 -> Vertex 428
+Order Position 509 -> Vertex 533
+Order Position 510 -> Vertex 47
+Order Position 511 -> Vertex 687
+Order Position 512 -> Vertex 857
+Order Position 513 -> Vertex 380
+Order Position 514 -> Vertex 243
+Order Position 515 -> Vertex 593
+Order Position 516 -> Vertex 774
+Order Position 517 -> Vertex 1011
+Order Position 518 -> Vertex 894
+Order Position 519 -> Vertex 437
+Order Position 520 -> Vertex 977
+Order Position 521 -> Vertex 807
+Order Position 522 -> Vertex 562
+Order Position 523 -> Vertex 472
+Order Position 524 -> Vertex 227
+Order Position 525 -> Vertex 105
+Order Position 526 -> Vertex 762
+Order Position 527 -> Vertex 142
+Order Position 528 -> Vertex 52
+Order Position 529 -> Vertex 915
+Order Position 530 -> Vertex 202
+Order Position 531 -> Vertex 345
+Order Position 532 -> Vertex 285
+Order Position 533 -> Vertex 763
+Order Position 534 -> Vertex 583
+Order Position 535 -> Vertex 747
+Order Position 536 -> Vertex 36
+Order Position 537 -> Vertex 223
+Order Position 538 -> Vertex 1065
+Order Position 539 -> Vertex 303
+Order Position 540 -> Vertex 89
+Order Position 541 -> Vertex 284
+Order Position 542 -> Vertex 1057
+Order Position 543 -> Vertex 871
+Order Position 544 -> Vertex 833
+Order Position 545 -> Vertex 616
+Order Position 546 -> Vertex 183
+Order Position 547 -> Vertex 653
+Order Position 548 -> Vertex 167
+Order Position 549 -> Vertex 644
+Order Position 550 -> Vertex 714
+Order Position 551 -> Vertex 998
+Order Position 552 -> Vertex 951
+Order Position 553 -> Vertex 497
+Order Position 554 -> Vertex 413
+Order Position 555 -> Vertex 1018
+Order Position 556 -> Vertex 755
+Order Position 557 -> Vertex 225
+Order Position 558 -> Vertex 165
+Order Position 559 -> Vertex 502
+Order Position 560 -> Vertex 592
+Order Position 561 -> Vertex 440
+Order Position 562 -> Vertex 806
+Order Position 563 -> Vertex 976
+Order Position 564 -> Vertex 286
+Order Position 565 -> Vertex 927
+Order Position 566 -> Vertex 405
+Order Position 567 -> Vertex 429
+Order Position 568 -> Vertex 700
+Order Position 569 -> Vertex 346
+Order Position 570 -> Vertex 643
+Order Position 571 -> Vertex 329
+Order Position 572 -> Vertex 856
+Order Position 573 -> Vertex 11
+Order Position 574 -> Vertex 615
+Order Position 575 -> Vertex 917
+Order Position 576 -> Vertex 548
+Order Position 577 -> Vertex 866
+Order Position 578 -> Vertex 261
+Order Position 579 -> Vertex 51
+Order Position 580 -> Vertex 1036
+Order Position 581 -> Vertex 110
+Order Position 582 -> Vertex 352
+Order Position 583 -> Vertex 959
+Order Position 584 -> Vertex 746
+Order Position 585 -> Vertex 106
+Order Position 586 -> Vertex 556
+Order Position 587 -> Vertex 84
+Order Position 588 -> Vertex 789
+Order Position 589 -> Vertex 1012
+Order Position 590 -> Vertex 1078
+Order Position 591 -> Vertex 686
+Order Position 592 -> Vertex 201
+Order Position 593 -> Vertex 164
+Order Position 594 -> Vertex 703
+Order Position 595 -> Vertex 414
+Order Position 596 -> Vertex 24
+Order Position 597 -> Vertex 45
+Order Position 598 -> Vertex 473
+Order Position 599 -> Vertex 916
+Order Position 600 -> Vertex 617
+Order Position 601 -> Vertex 931
+Order Position 602 -> Vertex 975
+Order Position 603 -> Vertex 805
+Order Position 604 -> Vertex 560
+Order Position 605 -> Vertex 442
+Order Position 606 -> Vertex 467
+Order Position 607 -> Vertex 1035
+Order Position 608 -> Vertex 166
+Order Position 609 -> Vertex 363
+Order Position 610 -> Vertex 292
+Order Position 611 -> Vertex 404
+Order Position 612 -> Vertex 287
+Order Position 613 -> Vertex 1048
+Order Position 614 -> Vertex 34
+Order Position 615 -> Vertex 200
+Order Position 616 -> Vertex 872
+Order Position 617 -> Vertex 382
+Order Position 618 -> Vertex 37
+Order Position 619 -> Vertex 304
+Order Position 620 -> Vertex 107
+Order Position 621 -> Vertex 757
+Order Position 622 -> Vertex 523
+Order Position 623 -> Vertex 141
+Order Position 624 -> Vertex 123
+Order Position 625 -> Vertex 501
+Order Position 626 -> Vertex 933
+Order Position 627 -> Vertex 1010
+Order Position 628 -> Vertex 226
+Order Position 629 -> Vertex 555
+Order Position 630 -> Vertex 855
+Order Position 631 -> Vertex 406
+Order Position 632 -> Vertex 347
+Order Position 633 -> Vertex 46
+Order Position 634 -> Vertex 1055
+Order Position 635 -> Vertex 697
+Order Position 636 -> Vertex 745
+Order Position 637 -> Vertex 50
+Order Position 638 -> Vertex 650
+Order Position 639 -> Vertex 1080
+Order Position 640 -> Vertex 824
+Order Position 641 -> Vertex 163
+Order Position 642 -> Vertex 495
+Order Position 643 -> Vertex 958
+Order Position 644 -> Vertex 262
+Order Position 645 -> Vertex 499
+Order Position 646 -> Vertex 1066
+Order Position 647 -> Vertex 441
+Order Position 648 -> Vertex 811
+Order Position 649 -> Vertex 18
+Order Position 650 -> Vertex 351
+Order Position 651 -> Vertex 209
+Order Position 652 -> Vertex 94
+Order Position 653 -> Vertex 769
+Order Position 654 -> Vertex 1003
+Order Position 655 -> Vertex 756
+Order Position 656 -> Vertex 588
+Order Position 657 -> Vertex 524
+Order Position 658 -> Vertex 888
+Order Position 659 -> Vertex 914
+Order Position 660 -> Vertex 103
+Order Position 661 -> Vertex 728
+Order Position 662 -> Vertex 609
+Order Position 663 -> Vertex 823
+Order Position 664 -> Vertex 348
+Order Position 665 -> Vertex 271
+Order Position 666 -> Vertex 576
+Order Position 667 -> Vertex 259
+Order Position 668 -> Vertex 44
+Order Position 669 -> Vertex 391
+Order Position 670 -> Vertex 33
+Order Position 671 -> Vertex 140
+Order Position 672 -> Vertex 630
+Order Position 673 -> Vertex 678
+Order Position 674 -> Vertex 169
+Order Position 675 -> Vertex 464
+Order Position 676 -> Vertex 407
+Order Position 677 -> Vertex 1071
+Order Position 678 -> Vertex 695
+Order Position 679 -> Vertex 930
+Order Position 680 -> Vertex 829
+Order Position 681 -> Vertex 561
+Order Position 682 -> Vertex 516
+Order Position 683 -> Vertex 1009
+Order Position 684 -> Vertex 870
+Order Position 685 -> Vertex 335
+Order Position 686 -> Vertex 216
+Order Position 687 -> Vertex 450
+Order Position 688 -> Vertex 91
+Order Position 689 -> Vertex 995
+Order Position 690 -> Vertex 108
+Order Position 691 -> Vertex 156
+Order Position 692 -> Vertex 948
+Order Position 693 -> Vertex 496
+Order Position 694 -> Vertex 500
+Order Position 695 -> Vertex 364
+Order Position 696 -> Vertex 992
+Order Position 697 -> Vertex 95
+Order Position 698 -> Vertex 455
+Order Position 699 -> Vertex 212
+Order Position 700 -> Vertex 332
+Order Position 701 -> Vertex 949
+Order Position 702 -> Vertex 517
+Order Position 703 -> Vertex 591
+Order Position 704 -> Vertex 635
+Order Position 705 -> Vertex 392
+Order Position 706 -> Vertex 229
+Order Position 707 -> Vertex 571
+Order Position 708 -> Vertex 272
+Order Position 709 -> Vertex 319
+Order Position 710 -> Vertex 724
+Order Position 711 -> Vertex 104
+Order Position 712 -> Vertex 43
+Order Position 713 -> Vertex 944
+Order Position 714 -> Vertex 155
+Order Position 715 -> Vertex 549
+Order Position 716 -> Vertex 558
+Order Position 717 -> Vertex 884
+Order Position 718 -> Vertex 696
+Order Position 719 -> Vertex 739
+Order Position 720 -> Vertex 93
+Order Position 721 -> Vertex 603
+Order Position 722 -> Vertex 208
+Order Position 723 -> Vertex 322
+Order Position 724 -> Vertex 19
+Order Position 725 -> Vertex 812
+Order Position 726 -> Vertex 1052
+Order Position 727 -> Vertex 111
+Order Position 728 -> Vertex 1040
+Order Position 729 -> Vertex 109
+Order Position 730 -> Vertex 378
+Order Position 731 -> Vertex 1034
+Order Position 732 -> Vertex 1049
+Order Position 733 -> Vertex 439
+Order Position 734 -> Vertex 1067
+Order Position 735 -> Vertex 149
+Order Position 736 -> Vertex 934
+Order Position 737 -> Vertex 21
+Order Position 738 -> Vertex 828
+Order Position 739 -> Vertex 618
+Order Position 740 -> Vertex 932
+Order Position 741 -> Vertex 669
+Order Position 742 -> Vertex 7
+Order Position 743 -> Vertex 463
+Order Position 744 -> Vertex 784
+Order Position 745 -> Vertex 498
+Order Position 746 -> Vertex 381
+Order Position 747 -> Vertex 269
+Order Position 748 -> Vertex 860
+Order Position 749 -> Vertex 765
+Order Position 750 -> Vertex 260
+Order Position 751 -> Vertex 1008
+Order Position 752 -> Vertex 168
+Order Position 753 -> Vertex 889
+Order Position 754 -> Vertex 679
+Order Position 755 -> Vertex 112
+Order Position 756 -> Vertex 1076
+Order Position 757 -> Vertex 817
+Order Position 758 -> Vertex 49
+Order Position 759 -> Vertex 861
+Order Position 760 -> Vertex 148
+Order Position 761 -> Vertex 608
+Order Position 762 -> Vertex 157
+Order Position 763 -> Vertex 974
+Order Position 764 -> Vertex 288
+Order Position 765 -> Vertex 270
+Order Position 766 -> Vertex 570
+Order Position 767 -> Vertex 379
+Order Position 768 -> Vertex 397
+Order Position 769 -> Vertex 637
+Order Position 770 -> Vertex 622
+Order Position 771 -> Vertex 515
+Order Position 772 -> Vertex 217
+Order Position 773 -> Vertex 457
+Order Position 774 -> Vertex 97
+Order Position 775 -> Vertex 997
+Order Position 776 -> Vertex 369
+Order Position 777 -> Vertex 331
+Order Position 778 -> Vertex 22
+Order Position 779 -> Vertex 544
+Order Position 780 -> Vertex 465
+Order Position 781 -> Vertex 189
+Order Position 782 -> Vertex 994
+Order Position 783 -> Vertex 904
+Order Position 784 -> Vertex 701
+Order Position 785 -> Vertex 1005
+Order Position 786 -> Vertex 1054
+Order Position 787 -> Vertex 1041
+Order Position 788 -> Vertex 729
+Order Position 789 -> Vertex 321
+Order Position 790 -> Vertex 1064
+Order Position 791 -> Vertex 8
+Order Position 792 -> Vertex 423
+Order Position 793 -> Vertex 619
+Order Position 794 -> Vertex 309
+Order Position 795 -> Vertex 659
+Order Position 796 -> Vertex 925
+Order Position 797 -> Vertex 249
+Order Position 798 -> Vertex 268
+Order Position 799 -> Vertex 88
+Order Position 800 -> Vertex 768
+Order Position 801 -> Vertex 228
+Order Position 802 -> Vertex 783
+Order Position 803 -> Vertex 844
+Order Position 804 -> Vertex 883
+Order Position 805 -> Vertex 766
+Order Position 806 -> Vertex 328
+Order Position 807 -> Vertex 483
+Order Position 808 -> Vertex 559
+Order Position 809 -> Vertex 1037
+Order Position 810 -> Vertex 707
+Order Position 811 -> Vertex 903
+Order Position 812 -> Vertex 993
+Order Position 813 -> Vertex 194
+Order Position 814 -> Vertex 466
+Order Position 815 -> Vertex 543
+Order Position 816 -> Vertex 20
+Order Position 817 -> Vertex 337
+Order Position 818 -> Vertex 374
+Order Position 819 -> Vertex 996
+Order Position 820 -> Vertex 96
+Order Position 821 -> Vertex 456
+Order Position 822 -> Vertex 215
+Order Position 823 -> Vertex 512
+Order Position 824 -> Vertex 621
+Order Position 825 -> Vertex 636
+Order Position 826 -> Vertex 396
+Order Position 827 -> Vertex 277
+Order Position 828 -> Vertex 318
+Order Position 829 -> Vertex 32
+Order Position 830 -> Vertex 943
+Order Position 831 -> Vertex 151
+Order Position 832 -> Vertex 48
+Order Position 833 -> Vertex 810
+Order Position 834 -> Vertex 1050
+Order Position 835 -> Vertex 80
+Order Position 836 -> Vertex 248
+Order Position 837 -> Vertex 412
+Order Position 838 -> Vertex 320
+Order Position 839 -> Vertex 1053
+Order Position 840 -> Vertex 920
+Order Position 841 -> Vertex 865
+Order Position 842 -> Vertex 1084
+Order Position 843 -> Vertex 1004
+Order Position 844 -> Vertex 575
+Order Position 845 -> Vertex 1039
+Order Position 846 -> Vertex 738
+Order Position 847 -> Vertex 760
+Order Position 848 -> Vertex 419
+Order Position 849 -> Vertex 691
+Order Position 850 -> Vertex 839
+Order Position 851 -> Vertex 231
+Order Position 852 -> Vertex 532
+Order Position 853 -> Vertex 525
+Order Position 854 -> Vertex 875
+Order Position 855 -> Vertex 376
+Order Position 856 -> Vertex 1042
+Order Position 857 -> Vertex 172
+Order Position 858 -> Vertex 9
+Order Position 859 -> Vertex 794
+Order Position 860 -> Vertex 604
+Order Position 861 -> Vertex 719
+Order Position 862 -> Vertex 3
+Order Position 863 -> Vertex 752
+Order Position 864 -> Vertex 935
+Order Position 865 -> Vertex 1063
+Order Position 866 -> Vertex 682
+Order Position 867 -> Vertex 740
+Order Position 868 -> Vertex 75
+Order Position 869 -> Vertex 13
+Order Position 870 -> Vertex 315
+Order Position 871 -> Vertex 885
+Order Position 872 -> Vertex 825
+Order Position 873 -> Vertex 585
+Order Position 874 -> Vertex 255
+Order Position 875 -> Vertex 195
+Order Position 876 -> Vertex 980
+Order Position 877 -> Vertex 135
+Order Position 878 -> Vertex 800
+Order Position 879 -> Vertex 945
+Order Position 880 -> Vertex 645
+Order Position 881 -> Vertex 313
+Order Position 882 -> Vertex 484
+Order Position 883 -> Vertex 663
+Order Position 884 -> Vertex 947
+Order Position 885 -> Vertex 802
+Order Position 886 -> Vertex 137
+Order Position 887 -> Vertex 982
+Order Position 888 -> Vertex 197
+Order Position 889 -> Vertex 257
+Order Position 890 -> Vertex 587
+Order Position 891 -> Vertex 827
+Order Position 892 -> Vertex 887
+Order Position 893 -> Vertex 317
+Order Position 894 -> Vertex 17
+Order Position 895 -> Vertex 77
+Order Position 896 -> Vertex 742
+Order Position 897 -> Vertex 599
+Order Position 898 -> Vertex 793
+Order Position 899 -> Vertex 12
+Order Position 900 -> Vertex 171
+Order Position 901 -> Vertex 1070
+Order Position 902 -> Vertex 377
+Order Position 903 -> Vertex 877
+Order Position 904 -> Vertex 527
+Order Position 905 -> Vertex 531
+Order Position 906 -> Vertex 232
+Order Position 907 -> Vertex 843
+Order Position 908 -> Vertex 692
+Order Position 909 -> Vertex 424
+Order Position 910 -> Vertex 937
+Order Position 911 -> Vertex 867
+Order Position 912 -> Vertex 922
+Order Position 913 -> Vertex 1077
+Order Position 914 -> Vertex 254
+Order Position 915 -> Vertex 82
+Order Position 916 -> Vertex 1075
+Order Position 917 -> Vertex 816
+Order Position 918 -> Vertex 79
+Order Position 919 -> Vertex 152
+Order Position 920 -> Vertex 1085
+Order Position 921 -> Vertex 276
+Order Position 922 -> Vertex 395
+Order Position 923 -> Vertex 632
+Order Position 924 -> Vertex 620
+Order Position 925 -> Vertex 511
+Order Position 926 -> Vertex 211
+Order Position 927 -> Vertex 452
+Order Position 928 -> Vertex 92
+Order Position 929 -> Vertex 991
+Order Position 930 -> Vertex 373
+Order Position 931 -> Vertex 336
+Order Position 932 -> Vertex 2
+Order Position 933 -> Vertex 539
+Order Position 934 -> Vertex 436
+Order Position 935 -> Vertex 193
+Order Position 936 -> Vertex 989
+Order Position 937 -> Vertex 899
+Order Position 938 -> Vertex 706
+Order Position 939 -> Vertex 1007
+Order Position 940 -> Vertex 528
+Order Position 941 -> Vertex 314
+Order Position 942 -> Vertex 358
+Order Position 943 -> Vertex 31
+Order Position 944 -> Vertex 853
+Order Position 945 -> Vertex 778
+Order Position 946 -> Vertex 199
+Order Position 947 -> Vertex 799
+Order Position 948 -> Vertex 63
+Order Position 949 -> Vertex 239
+Order Position 950 -> Vertex 646
+Order Position 951 -> Vertex 649
+Order Position 952 -> Vertex 577
+Order Position 953 -> Vertex 410
+Order Position 954 -> Vertex 734
+Order Position 955 -> Vertex 409
+Order Position 956 -> Vertex 289
+Order Position 957 -> Vertex 613
+Order Position 958 -> Vertex 178
+Order Position 959 -> Vertex 1038
+Order Position 960 -> Vertex 919
+Order Position 961 -> Vertex 859
+Order Position 962 -> Vertex 139
+Order Position 963 -> Vertex 979
+Order Position 964 -> Vertex 469
+Order Position 965 -> Vertex 494
+Order Position 966 -> Vertex 434
+Order Position 967 -> Vertex 674
+Order Position 968 -> Vertex 723
+Order Position 969 -> Vertex 553
+Order Position 970 -> Vertex 73
+Order Position 971 -> Vertex 134
+Order Position 972 -> Vertex 471
+Order Position 973 -> Vertex 750
+Order Position 974 -> Vertex 751
+Order Position 975 -> Vertex 470
+Order Position 976 -> Vertex 133
+Order Position 977 -> Vertex 74
+Order Position 978 -> Vertex 554
+Order Position 979 -> Vertex 718
+Order Position 980 -> Vertex 673
+Order Position 981 -> Vertex 433
+Order Position 982 -> Vertex 493
+Order Position 983 -> Vertex 468
+Order Position 984 -> Vertex 978
+Order Position 985 -> Vertex 138
+Order Position 986 -> Vertex 858
+Order Position 987 -> Vertex 918
+Order Position 988 -> Vertex 1068
+Order Position 989 -> Vertex 179
+Order Position 990 -> Vertex 614
+Order Position 991 -> Vertex 258
+Order Position 992 -> Vertex 408
+Order Position 993 -> Vertex 733
+Order Position 994 -> Vertex 411
+Order Position 995 -> Vertex 572
+Order Position 996 -> Vertex 648
+Order Position 997 -> Vertex 647
+Order Position 998 -> Vertex 238
+Order Position 999 -> Vertex 64
+Order Position 1000 -> Vertex 798
+Order Position 1001 -> Vertex 198
+Order Position 1002 -> Vertex 779
+Order Position 1003 -> Vertex 854
+Order Position 1004 -> Vertex 30
+Order Position 1005 -> Vertex 359
+Order Position 1006 -> Vertex 308
+Order Position 1007 -> Vertex 529
+Order Position 1008 -> Vertex 1006
+Order Position 1009 -> Vertex 705
+Order Position 1010 -> Vertex 898
+Order Position 1011 -> Vertex 988
+Order Position 1012 -> Vertex 188
+Order Position 1013 -> Vertex 435
+Order Position 1014 -> Vertex 538
+Order Position 1015 -> Vertex 1
+Order Position 1016 -> Vertex 330
+Order Position 1017 -> Vertex 368
+Order Position 1018 -> Vertex 990
+Order Position 1019 -> Vertex 90
+Order Position 1020 -> Vertex 451
+Order Position 1021 -> Vertex 210
+Order Position 1022 -> Vertex 510
+Order Position 1023 -> Vertex 590
+Order Position 1024 -> Vertex 631
+Order Position 1025 -> Vertex 390
+Order Position 1026 -> Vertex 275
+Order Position 1027 -> Vertex 1082
+Order Position 1028 -> Vertex 150
+Order Position 1029 -> Vertex 78
+Order Position 1030 -> Vertex 815
+Order Position 1031 -> Vertex 1051
+Order Position 1032 -> Vertex 81
+Order Position 1033 -> Vertex 253
+Order Position 1034 -> Vertex 1074
+Order Position 1035 -> Vertex 921
+Order Position 1036 -> Vertex 862
+Order Position 1037 -> Vertex 936
+Order Position 1038 -> Vertex 418
+Order Position 1039 -> Vertex 690
+Order Position 1040 -> Vertex 838
+Order Position 1041 -> Vertex 230
+Order Position 1042 -> Vertex 530
+Order Position 1043 -> Vertex 526
+Order Position 1044 -> Vertex 876
+Order Position 1045 -> Vertex 375
+Order Position 1046 -> Vertex 1069
+Order Position 1047 -> Vertex 170
+Order Position 1048 -> Vertex 15
+Order Position 1049 -> Vertex 788
+Order Position 1050 -> Vertex 598
+Order Position 1051 -> Vertex 741
+Order Position 1052 -> Vertex 76
+Order Position 1053 -> Vertex 16
+Order Position 1054 -> Vertex 316
+Order Position 1055 -> Vertex 886
+Order Position 1056 -> Vertex 826
+Order Position 1057 -> Vertex 586
+Order Position 1058 -> Vertex 256
+Order Position 1059 -> Vertex 196
+Order Position 1060 -> Vertex 981
+Order Position 1061 -> Vertex 136
+Order Position 1062 -> Vertex 801
+Order Position 1063 -> Vertex 946
+Order Position 1064 -> Vertex 664
+Order Position 1065 -> Vertex 658
+Order Position 1066 -> Vertex 479
+Order Position 1067 -> Vertex 478
+Order Position 1068 -> Vertex 681
+Order Position 1069 -> Vertex 680
+Order Position 1070 -> Vertex 1083
+Order Position 1071 -> Vertex 1033
+Order Position 1072 -> Vertex 6
+Order Position 1073 -> Vertex 0
+Order Position 1074 -> Vertex 767
+Order Position 1075 -> Vertex 761
+Order Position 1076 -> Vertex 709
+Order Position 1077 -> Vertex 708
+Order Position 1078 -> Vertex 973
+Order Position 1079 -> Vertex 350
+Order Position 1080 -> Vertex 290
+Order Position 1081 -> Vertex 913
+Order Position 1082 -> Vertex 349
+Order Position 1083 -> Vertex 589
+Order Position 1084 -> Vertex 299
+Order Position 1085 -> Vertex 124
+Valid coloring check not yet implemented in runner output.
+Number of colored vertices: 1086
+Vertex 0 -> Color 3
+Vertex 1 -> Color 3
+Vertex 2 -> Color 2
+Vertex 3 -> Color 2
+Vertex 4 -> Color 1
+Vertex 5 -> Color 0
+Vertex 6 -> Color 0
+Vertex 7 -> Color 3
+Vertex 8 -> Color 4
+Vertex 9 -> Color 1
+Vertex 10 -> Color 0
+Vertex 11 -> Color 2
+Vertex 12 -> Color 3
+Vertex 13 -> Color 12
+Vertex 14 -> Color 1
+Vertex 15 -> Color 1
+Vertex 16 -> Color 2
+Vertex 17 -> Color 0
+Vertex 18 -> Color 0
+Vertex 19 -> Color 1
+Vertex 20 -> Color 11
+Vertex 21 -> Color 9
+Vertex 22 -> Color 10
+Vertex 23 -> Color 5
+Vertex 24 -> Color 7
+Vertex 25 -> Color 8
+Vertex 26 -> Color 6
+Vertex 27 -> Color 7
+Vertex 28 -> Color 6
+Vertex 29 -> Color 4
+Vertex 30 -> Color 14
+Vertex 31 -> Color 13
+Vertex 32 -> Color 12
+Vertex 33 -> Color 7
+Vertex 34 -> Color 5
+Vertex 35 -> Color 9
+Vertex 36 -> Color 10
+Vertex 37 -> Color 11
+Vertex 38 -> Color 0
+Vertex 39 -> Color 2
+Vertex 40 -> Color 8
+Vertex 41 -> Color 5
+Vertex 42 -> Color 3
+Vertex 43 -> Color 5
+Vertex 44 -> Color 4
+Vertex 45 -> Color 6
+Vertex 46 -> Color 7
+Vertex 47 -> Color 4
+Vertex 48 -> Color 8
+Vertex 49 -> Color 6
+Vertex 50 -> Color 2
+Vertex 51 -> Color 1
+Vertex 52 -> Color 0
+Vertex 53 -> Color 3
+Vertex 54 -> Color 2
+Vertex 55 -> Color 5
+Vertex 56 -> Color 3
+Vertex 57 -> Color 4
+Vertex 58 -> Color 0
+Vertex 59 -> Color 1
+Vertex 60 -> Color 2
+Vertex 61 -> Color 1
+Vertex 62 -> Color 0
+Vertex 63 -> Color 11
+Vertex 64 -> Color 12
+Vertex 65 -> Color 6
+Vertex 66 -> Color 4
+Vertex 67 -> Color 7
+Vertex 68 -> Color 1
+Vertex 69 -> Color 3
+Vertex 70 -> Color 1
+Vertex 71 -> Color 2
+Vertex 72 -> Color 0
+Vertex 73 -> Color 8
+Vertex 74 -> Color 9
+Vertex 75 -> Color 2
+Vertex 76 -> Color 11
+Vertex 77 -> Color 10
+Vertex 78 -> Color 10
+Vertex 79 -> Color 9
+Vertex 80 -> Color 7
+Vertex 81 -> Color 12
+Vertex 82 -> Color 10
+Vertex 83 -> Color 4
+Vertex 84 -> Color 7
+Vertex 85 -> Color 8
+Vertex 86 -> Color 6
+Vertex 87 -> Color 9
+Vertex 88 -> Color 10
+Vertex 89 -> Color 6
+Vertex 90 -> Color 15
+Vertex 91 -> Color 10
+Vertex 92 -> Color 14
+Vertex 93 -> Color 9
+Vertex 94 -> Color 8
+Vertex 95 -> Color 11
+Vertex 96 -> Color 13
+Vertex 97 -> Color 12
+Vertex 98 -> Color 2
+Vertex 99 -> Color 0
+Vertex 100 -> Color 9
+Vertex 101 -> Color 8
+Vertex 102 -> Color 3
+Vertex 103 -> Color 6
+Vertex 104 -> Color 7
+Vertex 105 -> Color 4
+Vertex 106 -> Color 5
+Vertex 107 -> Color 6
+Vertex 108 -> Color 2
+Vertex 109 -> Color 5
+Vertex 110 -> Color 3
+Vertex 111 -> Color 5
+Vertex 112 -> Color 11
+Vertex 113 -> Color 0
+Vertex 114 -> Color 1
+Vertex 115 -> Color 2
+Vertex 116 -> Color 4
+Vertex 117 -> Color 1
+Vertex 118 -> Color 5
+Vertex 119 -> Color 2
+Vertex 120 -> Color 7
+Vertex 121 -> Color 3
+Vertex 122 -> Color 0
+Vertex 123 -> Color 7
+Vertex 124 -> Color 11
+Vertex 125 -> Color 5
+Vertex 126 -> Color 4
+Vertex 127 -> Color 6
+Vertex 128 -> Color 5
+Vertex 129 -> Color 4
+Vertex 130 -> Color 1
+Vertex 131 -> Color 2
+Vertex 132 -> Color 0
+Vertex 133 -> Color 9
+Vertex 134 -> Color 8
+Vertex 135 -> Color 10
+Vertex 136 -> Color 12
+Vertex 137 -> Color 11
+Vertex 138 -> Color 8
+Vertex 139 -> Color 7
+Vertex 140 -> Color 10
+Vertex 141 -> Color 7
+Vertex 142 -> Color 0
+Vertex 143 -> Color 3
+Vertex 144 -> Color 4
+Vertex 145 -> Color 6
+Vertex 146 -> Color 8
+Vertex 147 -> Color 9
+Vertex 148 -> Color 8
+Vertex 149 -> Color 6
+Vertex 150 -> Color 14
+Vertex 151 -> Color 12
+Vertex 152 -> Color 13
+Vertex 153 -> Color 3
+Vertex 154 -> Color 1
+Vertex 155 -> Color 10
+Vertex 156 -> Color 9
+Vertex 157 -> Color 11
+Vertex 158 -> Color 2
+Vertex 159 -> Color 0
+Vertex 160 -> Color 7
+Vertex 161 -> Color 8
+Vertex 162 -> Color 3
+Vertex 163 -> Color 3
+Vertex 164 -> Color 1
+Vertex 165 -> Color 5
+Vertex 166 -> Color 6
+Vertex 167 -> Color 4
+Vertex 168 -> Color 6
+Vertex 169 -> Color 5
+Vertex 170 -> Color 12
+Vertex 171 -> Color 11
+Vertex 172 -> Color 3
+Vertex 173 -> Color 1
+Vertex 174 -> Color 0
+Vertex 175 -> Color 4
+Vertex 176 -> Color 5
+Vertex 177 -> Color 2
+Vertex 178 -> Color 9
+Vertex 179 -> Color 10
+Vertex 180 -> Color 3
+Vertex 181 -> Color 1
+Vertex 182 -> Color 0
+Vertex 183 -> Color 5
+Vertex 184 -> Color 4
+Vertex 185 -> Color 6
+Vertex 186 -> Color 4
+Vertex 187 -> Color 5
+Vertex 188 -> Color 7
+Vertex 189 -> Color 6
+Vertex 190 -> Color 1
+Vertex 191 -> Color 2
+Vertex 192 -> Color 0
+Vertex 193 -> Color 5
+Vertex 194 -> Color 4
+Vertex 195 -> Color 10
+Vertex 196 -> Color 12
+Vertex 197 -> Color 11
+Vertex 198 -> Color 8
+Vertex 199 -> Color 4
+Vertex 200 -> Color 9
+Vertex 201 -> Color 1
+Vertex 202 -> Color 0
+Vertex 203 -> Color 2
+Vertex 204 -> Color 3
+Vertex 205 -> Color 6
+Vertex 206 -> Color 8
+Vertex 207 -> Color 7
+Vertex 208 -> Color 7
+Vertex 209 -> Color 6
+Vertex 210 -> Color 14
+Vertex 211 -> Color 13
+Vertex 212 -> Color 9
+Vertex 213 -> Color 2
+Vertex 214 -> Color 1
+Vertex 215 -> Color 12
+Vertex 216 -> Color 10
+Vertex 217 -> Color 11
+Vertex 218 -> Color 0
+Vertex 219 -> Color 3
+Vertex 220 -> Color 9
+Vertex 221 -> Color 7
+Vertex 222 -> Color 8
+Vertex 223 -> Color 2
+Vertex 224 -> Color 1
+Vertex 225 -> Color 4
+Vertex 226 -> Color 5
+Vertex 227 -> Color 3
+Vertex 228 -> Color 7
+Vertex 229 -> Color 6
+Vertex 230 -> Color 13
+Vertex 231 -> Color 11
+Vertex 232 -> Color 12
+Vertex 233 -> Color 0
+Vertex 234 -> Color 1
+Vertex 235 -> Color 4
+Vertex 236 -> Color 3
+Vertex 237 -> Color 2
+Vertex 238 -> Color 9
+Vertex 239 -> Color 8
+Vertex 240 -> Color 5
+Vertex 241 -> Color 1
+Vertex 242 -> Color 0
+Vertex 243 -> Color 5
+Vertex 244 -> Color 4
+Vertex 245 -> Color 4
+Vertex 246 -> Color 3
+Vertex 247 -> Color 6
+Vertex 248 -> Color 7
+Vertex 249 -> Color 6
+Vertex 250 -> Color 1
+Vertex 251 -> Color 2
+Vertex 252 -> Color 0
+Vertex 253 -> Color 5
+Vertex 254 -> Color 4
+Vertex 255 -> Color 10
+Vertex 256 -> Color 12
+Vertex 257 -> Color 11
+Vertex 258 -> Color 9
+Vertex 259 -> Color 5
+Vertex 260 -> Color 10
+Vertex 261 -> Color 5
+Vertex 262 -> Color 9
+Vertex 263 -> Color 3
+Vertex 264 -> Color 4
+Vertex 265 -> Color 6
+Vertex 266 -> Color 7
+Vertex 267 -> Color 8
+Vertex 268 -> Color 7
+Vertex 269 -> Color 6
+Vertex 270 -> Color 11
+Vertex 271 -> Color 9
+Vertex 272 -> Color 10
+Vertex 273 -> Color 2
+Vertex 274 -> Color 3
+Vertex 275 -> Color 14
+Vertex 276 -> Color 13
+Vertex 277 -> Color 12
+Vertex 278 -> Color 0
+Vertex 279 -> Color 1
+Vertex 280 -> Color 9
+Vertex 281 -> Color 8
+Vertex 282 -> Color 5
+Vertex 283 -> Color 2
+Vertex 284 -> Color 3
+Vertex 285 -> Color 3
+Vertex 286 -> Color 4
+Vertex 287 -> Color 6
+Vertex 288 -> Color 0
+Vertex 289 -> Color 8
+Vertex 290 -> Color 12
+Vertex 291 -> Color 0
+Vertex 292 -> Color 3
+Vertex 293 -> Color 2
+Vertex 294 -> Color 1
+Vertex 295 -> Color 2
+Vertex 296 -> Color 1
+Vertex 297 -> Color 4
+Vertex 298 -> Color 0
+Vertex 299 -> Color 9
+Vertex 300 -> Color 3
+Vertex 301 -> Color 5
+Vertex 302 -> Color 0
+Vertex 303 -> Color 4
+Vertex 304 -> Color 5
+Vertex 305 -> Color 7
+Vertex 306 -> Color 4
+Vertex 307 -> Color 6
+Vertex 308 -> Color 7
+Vertex 309 -> Color 6
+Vertex 310 -> Color 2
+Vertex 311 -> Color 1
+Vertex 312 -> Color 0
+Vertex 313 -> Color 4
+Vertex 314 -> Color 5
+Vertex 315 -> Color 7
+Vertex 316 -> Color 11
+Vertex 317 -> Color 10
+Vertex 318 -> Color 7
+Vertex 319 -> Color 6
+Vertex 320 -> Color 11
+Vertex 321 -> Color 10
+Vertex 322 -> Color 5
+Vertex 323 -> Color 4
+Vertex 324 -> Color 5
+Vertex 325 -> Color 8
+Vertex 326 -> Color 6
+Vertex 327 -> Color 7
+Vertex 328 -> Color 8
+Vertex 329 -> Color 6
+Vertex 330 -> Color 14
+Vertex 331 -> Color 11
+Vertex 332 -> Color 9
+Vertex 333 -> Color 3
+Vertex 334 -> Color 2
+Vertex 335 -> Color 10
+Vertex 336 -> Color 13
+Vertex 337 -> Color 12
+Vertex 338 -> Color 0
+Vertex 339 -> Color 1
+Vertex 340 -> Color 9
+Vertex 341 -> Color 8
+Vertex 342 -> Color 5
+Vertex 343 -> Color 3
+Vertex 344 -> Color 2
+Vertex 345 -> Color 3
+Vertex 346 -> Color 4
+Vertex 347 -> Color 6
+Vertex 348 -> Color 0
+Vertex 349 -> Color 9
+Vertex 350 -> Color 12
+Vertex 351 -> Color 9
+Vertex 352 -> Color 1
+Vertex 353 -> Color 1
+Vertex 354 -> Color 3
+Vertex 355 -> Color 4
+Vertex 356 -> Color 2
+Vertex 357 -> Color 3
+Vertex 358 -> Color 9
+Vertex 359 -> Color 10
+Vertex 360 -> Color 5
+Vertex 361 -> Color 1
+Vertex 362 -> Color 0
+Vertex 363 -> Color 4
+Vertex 364 -> Color 7
+Vertex 365 -> Color 3
+Vertex 366 -> Color 6
+Vertex 367 -> Color 4
+Vertex 368 -> Color 8
+Vertex 369 -> Color 5
+Vertex 370 -> Color 1
+Vertex 371 -> Color 2
+Vertex 372 -> Color 0
+Vertex 373 -> Color 6
+Vertex 374 -> Color 4
+Vertex 375 -> Color 12
+Vertex 376 -> Color 10
+Vertex 377 -> Color 11
+Vertex 378 -> Color 5
+Vertex 379 -> Color 8
+Vertex 380 -> Color 0
+Vertex 381 -> Color 10
+Vertex 382 -> Color 5
+Vertex 383 -> Color 4
+Vertex 384 -> Color 2
+Vertex 385 -> Color 6
+Vertex 386 -> Color 8
+Vertex 387 -> Color 7
+Vertex 388 -> Color 0
+Vertex 389 -> Color 5
+Vertex 390 -> Color 8
+Vertex 391 -> Color 9
+Vertex 392 -> Color 10
+Vertex 393 -> Color 3
+Vertex 394 -> Color 2
+Vertex 395 -> Color 13
+Vertex 396 -> Color 12
+Vertex 397 -> Color 11
+Vertex 398 -> Color 0
+Vertex 399 -> Color 1
+Vertex 400 -> Color 9
+Vertex 401 -> Color 8
+Vertex 402 -> Color 5
+Vertex 403 -> Color 2
+Vertex 404 -> Color 3
+Vertex 405 -> Color 4
+Vertex 406 -> Color 6
+Vertex 407 -> Color 7
+Vertex 408 -> Color 10
+Vertex 409 -> Color 9
+Vertex 410 -> Color 11
+Vertex 411 -> Color 12
+Vertex 412 -> Color 3
+Vertex 413 -> Color 6
+Vertex 414 -> Color 7
+Vertex 415 -> Color 1
+Vertex 416 -> Color 4
+Vertex 417 -> Color 2
+Vertex 418 -> Color 9
+Vertex 419 -> Color 8
+Vertex 420 -> Color 5
+Vertex 421 -> Color 3
+Vertex 422 -> Color 0
+Vertex 423 -> Color 6
+Vertex 424 -> Color 7
+Vertex 425 -> Color 7
+Vertex 426 -> Color 6
+Vertex 427 -> Color 4
+Vertex 428 -> Color 4
+Vertex 429 -> Color 5
+Vertex 430 -> Color 1
+Vertex 431 -> Color 2
+Vertex 432 -> Color 0
+Vertex 433 -> Color 7
+Vertex 434 -> Color 6
+Vertex 435 -> Color 12
+Vertex 436 -> Color 11
+Vertex 437 -> Color 3
+Vertex 438 -> Color 2
+Vertex 439 -> Color 3
+Vertex 440 -> Color 5
+Vertex 441 -> Color 10
+Vertex 442 -> Color 9
+Vertex 443 -> Color 1
+Vertex 444 -> Color 0
+Vertex 445 -> Color 8
+Vertex 446 -> Color 7
+Vertex 447 -> Color 6
+Vertex 448 -> Color 3
+Vertex 449 -> Color 4
+Vertex 450 -> Color 9
+Vertex 451 -> Color 14
+Vertex 452 -> Color 13
+Vertex 453 -> Color 0
+Vertex 454 -> Color 2
+Vertex 455 -> Color 10
+Vertex 456 -> Color 12
+Vertex 457 -> Color 11
+Vertex 458 -> Color 3
+Vertex 459 -> Color 1
+Vertex 460 -> Color 5
+Vertex 461 -> Color 9
+Vertex 462 -> Color 8
+Vertex 463 -> Color 2
+Vertex 464 -> Color 0
+Vertex 465 -> Color 7
+Vertex 466 -> Color 10
+Vertex 467 -> Color 4
+Vertex 468 -> Color 7
+Vertex 469 -> Color 4
+Vertex 470 -> Color 12
+Vertex 471 -> Color 11
+Vertex 472 -> Color 0
+Vertex 473 -> Color 6
+Vertex 474 -> Color 5
+Vertex 475 -> Color 2
+Vertex 476 -> Color 3
+Vertex 477 -> Color 4
+Vertex 478 -> Color 9
+Vertex 479 -> Color 9
+Vertex 480 -> Color 5
+Vertex 481 -> Color 1
+Vertex 482 -> Color 0
+Vertex 483 -> Color 7
+Vertex 484 -> Color 8
+Vertex 485 -> Color 3
+Vertex 486 -> Color 6
+Vertex 487 -> Color 4
+Vertex 488 -> Color 5
+Vertex 489 -> Color 6
+Vertex 490 -> Color 1
+Vertex 491 -> Color 2
+Vertex 492 -> Color 0
+Vertex 493 -> Color 7
+Vertex 494 -> Color 4
+Vertex 495 -> Color 6
+Vertex 496 -> Color 6
+Vertex 497 -> Color 3
+Vertex 498 -> Color 3
+Vertex 499 -> Color 0
+Vertex 500 -> Color 10
+Vertex 501 -> Color 9
+Vertex 502 -> Color 1
+Vertex 503 -> Color 1
+Vertex 504 -> Color 2
+Vertex 505 -> Color 6
+Vertex 506 -> Color 8
+Vertex 507 -> Color 7
+Vertex 508 -> Color 0
+Vertex 509 -> Color 3
+Vertex 510 -> Color 14
+Vertex 511 -> Color 13
+Vertex 512 -> Color 12
+Vertex 513 -> Color 4
+Vertex 514 -> Color 2
+Vertex 515 -> Color 11
+Vertex 516 -> Color 9
+Vertex 517 -> Color 10
+Vertex 518 -> Color 1
+Vertex 519 -> Color 0
+Vertex 520 -> Color 5
+Vertex 521 -> Color 7
+Vertex 522 -> Color 8
+Vertex 523 -> Color 2
+Vertex 524 -> Color 3
+Vertex 525 -> Color 10
+Vertex 526 -> Color 12
+Vertex 527 -> Color 11
+Vertex 528 -> Color 7
+Vertex 529 -> Color 8
+Vertex 530 -> Color 12
+Vertex 531 -> Color 11
+Vertex 532 -> Color 2
+Vertex 533 -> Color 5
+Vertex 534 -> Color 4
+Vertex 535 -> Color 5
+Vertex 536 -> Color 3
+Vertex 537 -> Color 4
+Vertex 538 -> Color 9
+Vertex 539 -> Color 6
+Vertex 540 -> Color 0
+Vertex 541 -> Color 1
+Vertex 542 -> Color 2
+Vertex 543 -> Color 8
+Vertex 544 -> Color 7
+Vertex 545 -> Color 4
+Vertex 546 -> Color 4
+Vertex 547 -> Color 3
+Vertex 548 -> Color 5
+Vertex 549 -> Color 6
+Vertex 550 -> Color 1
+Vertex 551 -> Color 2
+Vertex 552 -> Color 0
+Vertex 553 -> Color 4
+Vertex 554 -> Color 7
+Vertex 555 -> Color 9
+Vertex 556 -> Color 4
+Vertex 557 -> Color 3
+Vertex 558 -> Color 3
+Vertex 559 -> Color 6
+Vertex 560 -> Color 9
+Vertex 561 -> Color 10
+Vertex 562 -> Color 0
+Vertex 563 -> Color 1
+Vertex 564 -> Color 0
+Vertex 565 -> Color 8
+Vertex 566 -> Color 6
+Vertex 567 -> Color 7
+Vertex 568 -> Color 2
+Vertex 569 -> Color 3
+Vertex 570 -> Color 11
+Vertex 571 -> Color 10
+Vertex 572 -> Color 14
+Vertex 573 -> Color 4
+Vertex 574 -> Color 4
+Vertex 575 -> Color 12
+Vertex 576 -> Color 9
+Vertex 577 -> Color 13
+Vertex 578 -> Color 1
+Vertex 579 -> Color 0
+Vertex 580 -> Color 7
+Vertex 581 -> Color 6
+Vertex 582 -> Color 8
+Vertex 583 -> Color 3
+Vertex 584 -> Color 2
+Vertex 585 -> Color 5
+Vertex 586 -> Color 11
+Vertex 587 -> Color 10
+Vertex 588 -> Color 2
+Vertex 589 -> Color 7
+Vertex 590 -> Color 12
+Vertex 591 -> Color 3
+Vertex 592 -> Color 1
+Vertex 593 -> Color 5
+Vertex 594 -> Color 4
+Vertex 595 -> Color 2
+Vertex 596 -> Color 4
+Vertex 597 -> Color 5
+Vertex 598 -> Color 9
+Vertex 599 -> Color 7
+Vertex 600 -> Color 0
+Vertex 601 -> Color 3
+Vertex 602 -> Color 1
+Vertex 603 -> Color 6
+Vertex 604 -> Color 8
+Vertex 605 -> Color 2
+Vertex 606 -> Color 4
+Vertex 607 -> Color 5
+Vertex 608 -> Color 7
+Vertex 609 -> Color 5
+Vertex 610 -> Color 1
+Vertex 611 -> Color 1
+Vertex 612 -> Color 0
+Vertex 613 -> Color 4
+Vertex 614 -> Color 6
+Vertex 615 -> Color 3
+Vertex 616 -> Color 2
+Vertex 617 -> Color 4
+Vertex 618 -> Color 0
+Vertex 619 -> Color 6
+Vertex 620 -> Color 11
+Vertex 621 -> Color 10
+Vertex 622 -> Color 9
+Vertex 623 -> Color 3
+Vertex 624 -> Color 1
+Vertex 625 -> Color 8
+Vertex 626 -> Color 7
+Vertex 627 -> Color 6
+Vertex 628 -> Color 2
+Vertex 629 -> Color 0
+Vertex 630 -> Color 9
+Vertex 631 -> Color 14
+Vertex 632 -> Color 13
+Vertex 633 -> Color 4
+Vertex 634 -> Color 3
+Vertex 635 -> Color 10
+Vertex 636 -> Color 12
+Vertex 637 -> Color 11
+Vertex 638 -> Color 1
+Vertex 639 -> Color 0
+Vertex 640 -> Color 9
+Vertex 641 -> Color 7
+Vertex 642 -> Color 8
+Vertex 643 -> Color 3
+Vertex 644 -> Color 2
+Vertex 645 -> Color 6
+Vertex 646 -> Color 10
+Vertex 647 -> Color 11
+Vertex 648 -> Color 8
+Vertex 649 -> Color 7
+Vertex 650 -> Color 5
+Vertex 651 -> Color 0
+Vertex 652 -> Color 2
+Vertex 653 -> Color 5
+Vertex 654 -> Color 4
+Vertex 655 -> Color 4
+Vertex 656 -> Color 3
+Vertex 657 -> Color 1
+Vertex 658 -> Color 8
+Vertex 659 -> Color 6
+Vertex 660 -> Color 2
+Vertex 661 -> Color 5
+Vertex 662 -> Color 0
+Vertex 663 -> Color 7
+Vertex 664 -> Color 8
+Vertex 665 -> Color 4
+Vertex 666 -> Color 6
+Vertex 667 -> Color 3
+Vertex 668 -> Color 5
+Vertex 669 -> Color 6
+Vertex 670 -> Color 2
+Vertex 671 -> Color 1
+Vertex 672 -> Color 0
+Vertex 673 -> Color 7
+Vertex 674 -> Color 4
+Vertex 675 -> Color 4
+Vertex 676 -> Color 3
+Vertex 677 -> Color 5
+Vertex 678 -> Color 2
+Vertex 679 -> Color 3
+Vertex 680 -> Color 10
+Vertex 681 -> Color 10
+Vertex 682 -> Color 9
+Vertex 683 -> Color 0
+Vertex 684 -> Color 1
+Vertex 685 -> Color 6
+Vertex 686 -> Color 8
+Vertex 687 -> Color 7
+Vertex 688 -> Color 2
+Vertex 689 -> Color 3
+Vertex 690 -> Color 14
+Vertex 691 -> Color 12
+Vertex 692 -> Color 13
+Vertex 693 -> Color 1
+Vertex 694 -> Color 4
+Vertex 695 -> Color 10
+Vertex 696 -> Color 11
+Vertex 697 -> Color 9
+Vertex 698 -> Color 0
+Vertex 699 -> Color 2
+Vertex 700 -> Color 8
+Vertex 701 -> Color 12
+Vertex 702 -> Color 7
+Vertex 703 -> Color 3
+Vertex 704 -> Color 1
+Vertex 705 -> Color 10
+Vertex 706 -> Color 9
+Vertex 707 -> Color 6
+Vertex 708 -> Color 4
+Vertex 709 -> Color 4
+Vertex 710 -> Color 2
+Vertex 711 -> Color 3
+Vertex 712 -> Color 0
+Vertex 713 -> Color 6
+Vertex 714 -> Color 7
+Vertex 715 -> Color 1
+Vertex 716 -> Color 5
+Vertex 717 -> Color 4
+Vertex 718 -> Color 10
+Vertex 719 -> Color 8
+Vertex 720 -> Color 3
+Vertex 721 -> Color 2
+Vertex 722 -> Color 0
+Vertex 723 -> Color 9
+Vertex 724 -> Color 6
+Vertex 725 -> Color 5
+Vertex 726 -> Color 4
+Vertex 727 -> Color 6
+Vertex 728 -> Color 5
+Vertex 729 -> Color 7
+Vertex 730 -> Color 1
+Vertex 731 -> Color 2
+Vertex 732 -> Color 0
+Vertex 733 -> Color 6
+Vertex 734 -> Color 4
+Vertex 735 -> Color 3
+Vertex 736 -> Color 5
+Vertex 737 -> Color 4
+Vertex 738 -> Color 8
+Vertex 739 -> Color 5
+Vertex 740 -> Color 6
+Vertex 741 -> Color 11
+Vertex 742 -> Color 10
+Vertex 743 -> Color 2
+Vertex 744 -> Color 1
+Vertex 745 -> Color 9
+Vertex 746 -> Color 8
+Vertex 747 -> Color 7
+Vertex 748 -> Color 5
+Vertex 749 -> Color 4
+Vertex 750 -> Color 12
+Vertex 751 -> Color 13
+Vertex 752 -> Color 11
+Vertex 753 -> Color 1
+Vertex 754 -> Color 3
+Vertex 755 -> Color 8
+Vertex 756 -> Color 10
+Vertex 757 -> Color 9
+Vertex 758 -> Color 2
+Vertex 759 -> Color 0
+Vertex 760 -> Color 11
+Vertex 761 -> Color 12
+Vertex 762 -> Color 7
+Vertex 763 -> Color 3
+Vertex 764 -> Color 1
+Vertex 765 -> Color 6
+Vertex 766 -> Color 8
+Vertex 767 -> Color 9
+Vertex 768 -> Color 6
+Vertex 769 -> Color 4
+Vertex 770 -> Color 3
+Vertex 771 -> Color 5
+Vertex 772 -> Color 4
+Vertex 773 -> Color 0
+Vertex 774 -> Color 3
+Vertex 775 -> Color 0
+Vertex 776 -> Color 1
+Vertex 777 -> Color 2
+Vertex 778 -> Color 8
+Vertex 779 -> Color 9
+Vertex 780 -> Color 5
+Vertex 781 -> Color 3
+Vertex 782 -> Color 6
+Vertex 783 -> Color 7
+Vertex 784 -> Color 6
+Vertex 785 -> Color 4
+Vertex 786 -> Color 2
+Vertex 787 -> Color 1
+Vertex 788 -> Color 8
+Vertex 789 -> Color 4
+Vertex 790 -> Color 3
+Vertex 791 -> Color 4
+Vertex 792 -> Color 0
+Vertex 793 -> Color 6
+Vertex 794 -> Color 5
+Vertex 795 -> Color 5
+Vertex 796 -> Color 2
+Vertex 797 -> Color 1
+Vertex 798 -> Color 8
+Vertex 799 -> Color 5
+Vertex 800 -> Color 6
+Vertex 801 -> Color 11
+Vertex 802 -> Color 10
+Vertex 803 -> Color 1
+Vertex 804 -> Color 2
+Vertex 805 -> Color 9
+Vertex 806 -> Color 8
+Vertex 807 -> Color 7
+Vertex 808 -> Color 5
+Vertex 809 -> Color 4
+Vertex 810 -> Color 12
+Vertex 811 -> Color 10
+Vertex 812 -> Color 11
+Vertex 813 -> Color 3
+Vertex 814 -> Color 1
+Vertex 815 -> Color 14
+Vertex 816 -> Color 13
+Vertex 817 -> Color 9
+Vertex 818 -> Color 2
+Vertex 819 -> Color 0
+Vertex 820 -> Color 8
+Vertex 821 -> Color 6
+Vertex 822 -> Color 7
+Vertex 823 -> Color 3
+Vertex 824 -> Color 1
+Vertex 825 -> Color 9
+Vertex 826 -> Color 11
+Vertex 827 -> Color 10
+Vertex 828 -> Color 3
+Vertex 829 -> Color 0
+Vertex 830 -> Color 1
+Vertex 831 -> Color 0
+Vertex 832 -> Color 5
+Vertex 833 -> Color 7
+Vertex 834 -> Color 6
+Vertex 835 -> Color 3
+Vertex 836 -> Color 2
+Vertex 837 -> Color 4
+Vertex 838 -> Color 11
+Vertex 839 -> Color 9
+Vertex 840 -> Color 1
+Vertex 841 -> Color 6
+Vertex 842 -> Color 0
+Vertex 843 -> Color 10
+Vertex 844 -> Color 8
+Vertex 845 -> Color 4
+Vertex 846 -> Color 3
+Vertex 847 -> Color 5
+Vertex 848 -> Color 7
+Vertex 849 -> Color 5
+Vertex 850 -> Color 1
+Vertex 851 -> Color 2
+Vertex 852 -> Color 0
+Vertex 853 -> Color 6
+Vertex 854 -> Color 9
+Vertex 855 -> Color 5
+Vertex 856 -> Color 4
+Vertex 857 -> Color 3
+Vertex 858 -> Color 8
+Vertex 859 -> Color 5
+Vertex 860 -> Color 6
+Vertex 861 -> Color 8
+Vertex 862 -> Color 9
+Vertex 863 -> Color 1
+Vertex 864 -> Color 2
+Vertex 865 -> Color 11
+Vertex 866 -> Color 7
+Vertex 867 -> Color 12
+Vertex 868 -> Color 0
+Vertex 869 -> Color 3
+Vertex 870 -> Color 10
+Vertex 871 -> Color 8
+Vertex 872 -> Color 9
+Vertex 873 -> Color 4
+Vertex 874 -> Color 6
+Vertex 875 -> Color 11
+Vertex 876 -> Color 13
+Vertex 877 -> Color 12
+Vertex 878 -> Color 1
+Vertex 879 -> Color 3
+Vertex 880 -> Color 10
+Vertex 881 -> Color 9
+Vertex 882 -> Color 8
+Vertex 883 -> Color 8
+Vertex 884 -> Color 4
+Vertex 885 -> Color 6
+Vertex 886 -> Color 11
+Vertex 887 -> Color 7
+Vertex 888 -> Color 0
+Vertex 889 -> Color 3
+Vertex 890 -> Color 5
+Vertex 891 -> Color 0
+Vertex 892 -> Color 3
+Vertex 893 -> Color 4
+Vertex 894 -> Color 7
+Vertex 895 -> Color 4
+Vertex 896 -> Color 1
+Vertex 897 -> Color 2
+Vertex 898 -> Color 12
+Vertex 899 -> Color 11
+Vertex 900 -> Color 5
+Vertex 901 -> Color 3
+Vertex 902 -> Color 0
+Vertex 903 -> Color 9
+Vertex 904 -> Color 7
+Vertex 905 -> Color 4
+Vertex 906 -> Color 7
+Vertex 907 -> Color 6
+Vertex 908 -> Color 2
+Vertex 909 -> Color 0
+Vertex 910 -> Color 1
+Vertex 911 -> Color 2
+Vertex 912 -> Color 0
+Vertex 913 -> Color 9
+Vertex 914 -> Color 6
+Vertex 915 -> Color 3
+Vertex 916 -> Color 5
+Vertex 917 -> Color 4
+Vertex 918 -> Color 9
+Vertex 919 -> Color 8
+Vertex 920 -> Color 8
+Vertex 921 -> Color 10
+Vertex 922 -> Color 9
+Vertex 923 -> Color 1
+Vertex 924 -> Color 2
+Vertex 925 -> Color 11
+Vertex 926 -> Color 6
+Vertex 927 -> Color 7
+Vertex 928 -> Color 5
+Vertex 929 -> Color 6
+Vertex 930 -> Color 9
+Vertex 931 -> Color 8
+Vertex 932 -> Color 10
+Vertex 933 -> Color 8
+Vertex 934 -> Color 10
+Vertex 935 -> Color 11
+Vertex 936 -> Color 13
+Vertex 937 -> Color 12
+Vertex 938 -> Color 5
+Vertex 939 -> Color 4
+Vertex 940 -> Color 10
+Vertex 941 -> Color 8
+Vertex 942 -> Color 9
+Vertex 943 -> Color 8
+Vertex 944 -> Color 7
+Vertex 945 -> Color 6
+Vertex 946 -> Color 11
+Vertex 947 -> Color 7
+Vertex 948 -> Color 5
+Vertex 949 -> Color 6
+Vertex 950 -> Color 0
+Vertex 951 -> Color 2
+Vertex 952 -> Color 1
+Vertex 953 -> Color 3
+Vertex 954 -> Color 0
+Vertex 955 -> Color 4
+Vertex 956 -> Color 5
+Vertex 957 -> Color 3
+Vertex 958 -> Color 9
+Vertex 959 -> Color 7
+Vertex 960 -> Color 2
+Vertex 961 -> Color 1
+Vertex 962 -> Color 0
+Vertex 963 -> Color 2
+Vertex 964 -> Color 0
+Vertex 965 -> Color 5
+Vertex 966 -> Color 4
+Vertex 967 -> Color 3
+Vertex 968 -> Color 3
+Vertex 969 -> Color 1
+Vertex 970 -> Color 2
+Vertex 971 -> Color 1
+Vertex 972 -> Color 0
+Vertex 973 -> Color 2
+Vertex 974 -> Color 0
+Vertex 975 -> Color 5
+Vertex 976 -> Color 4
+Vertex 977 -> Color 3
+Vertex 978 -> Color 8
+Vertex 979 -> Color 7
+Vertex 980 -> Color 9
+Vertex 981 -> Color 11
+Vertex 982 -> Color 10
+Vertex 983 -> Color 4
+Vertex 984 -> Color 2
+Vertex 985 -> Color 8
+Vertex 986 -> Color 7
+Vertex 987 -> Color 6
+Vertex 988 -> Color 12
+Vertex 989 -> Color 11
+Vertex 990 -> Color 14
+Vertex 991 -> Color 10
+Vertex 992 -> Color 9
+Vertex 993 -> Color 10
+Vertex 994 -> Color 8
+Vertex 995 -> Color 11
+Vertex 996 -> Color 13
+Vertex 997 -> Color 12
+Vertex 998 -> Color 5
+Vertex 999 -> Color 4
+Vertex 1000 -> Color 7
+Vertex 1001 -> Color 9
+Vertex 1002 -> Color 10
+Vertex 1003 -> Color 6
+Vertex 1004 -> Color 7
+Vertex 1005 -> Color 11
+Vertex 1006 -> Color 14
+Vertex 1007 -> Color 13
+Vertex 1008 -> Color 6
+Vertex 1009 -> Color 5
+Vertex 1010 -> Color 4
+Vertex 1011 -> Color 0
+Vertex 1012 -> Color 3
+Vertex 1013 -> Color 0
+Vertex 1014 -> Color 1
+Vertex 1015 -> Color 5
+Vertex 1016 -> Color 2
+Vertex 1017 -> Color 1
+Vertex 1018 -> Color 6
+Vertex 1019 -> Color 5
+Vertex 1020 -> Color 4
+Vertex 1021 -> Color 3
+Vertex 1022 -> Color 0
+Vertex 1023 -> Color 1
+Vertex 1024 -> Color 3
+Vertex 1025 -> Color 8
+Vertex 1026 -> Color 6
+Vertex 1027 -> Color 5
+Vertex 1028 -> Color 0
+Vertex 1029 -> Color 2
+Vertex 1030 -> Color 2
+Vertex 1031 -> Color 1
+Vertex 1032 -> Color 0
+Vertex 1033 -> Color 8
+Vertex 1034 -> Color 1
+Vertex 1035 -> Color 8
+Vertex 1036 -> Color 6
+Vertex 1037 -> Color 12
+Vertex 1038 -> Color 7
+Vertex 1039 -> Color 4
+Vertex 1040 -> Color 9
+Vertex 1041 -> Color 8
+Vertex 1042 -> Color 10
+Vertex 1043 -> Color 3
+Vertex 1044 -> Color 2
+Vertex 1045 -> Color 8
+Vertex 1046 -> Color 6
+Vertex 1047 -> Color 7
+Vertex 1048 -> Color 4
+Vertex 1049 -> Color 7
+Vertex 1050 -> Color 13
+Vertex 1051 -> Color 14
+Vertex 1052 -> Color 12
+Vertex 1053 -> Color 9
+Vertex 1054 -> Color 8
+Vertex 1055 -> Color 11
+Vertex 1056 -> Color 9
+Vertex 1057 -> Color 10
+Vertex 1058 -> Color 4
+Vertex 1059 -> Color 5
+Vertex 1060 -> Color 7
+Vertex 1061 -> Color 3
+Vertex 1062 -> Color 4
+Vertex 1063 -> Color 6
+Vertex 1064 -> Color 3
+Vertex 1065 -> Color 5
+Vertex 1066 -> Color 9
+Vertex 1067 -> Color 10
+Vertex 1068 -> Color 1
+Vertex 1069 -> Color 3
+Vertex 1070 -> Color 2
+Vertex 1071 -> Color 0
+Vertex 1072 -> Color 0
+Vertex 1073 -> Color 1
+Vertex 1074 -> Color 5
+Vertex 1075 -> Color 4
+Vertex 1076 -> Color 3
+Vertex 1077 -> Color 1
+Vertex 1078 -> Color 2
+Vertex 1079 -> Color 1
+Vertex 1080 -> Color 0
+Vertex 1081 -> Color 0
+Vertex 1082 -> Color 6
+Vertex 1083 -> Color 1
+Vertex 1084 -> Color 1
+Vertex 1085 -> Color 2
