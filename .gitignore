@@ -29,3 +29,9 @@ results/models/
 # OS
 .DS_Store
 Thumbs.db
+
+# Week 17 generated ColPack outputs
+data/processed/initial_graph_coloring_dataset/colpack_outputs_week17_*/
+
+# Week 17 generated PyG datasets
+data/processed/initial_graph_coloring_dataset/pyg_data_week17_*/
