@@ -1,0 +1,7 @@
+graph_id,chromatic_number_python,SMALLEST_LAST,LARGEST_FIRST,NATURAL,DYNAMIC_LARGEST_FIRST,INCIDENCE_DEGREE,best_colors,worst_colors,ordering_gap,best_orderings,smallest_last_gap_from_best,smallest_last_gap_from_chromatic,best_gap_from_chromatic
+week17_bickle_g10,3,4,4,4,3,4,3,4,1,DYNAMIC_LARGEST_FIRST,1,1,0
+week17_cycle_square_c11,4,5,5,5,4,5,4,5,1,DYNAMIC_LARGEST_FIRST,1,1,0
+week17_cycle_square_c14,4,5,5,5,4,5,4,5,1,DYNAMIC_LARGEST_FIRST,1,1,0
+week17_cycle_square_c17,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",0,1,1
+week17_cycle_square_c20,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",0,1,1
+week17_cycle_square_c8,4,5,5,5,4,5,4,5,1,DYNAMIC_LARGEST_FIRST,1,1,0

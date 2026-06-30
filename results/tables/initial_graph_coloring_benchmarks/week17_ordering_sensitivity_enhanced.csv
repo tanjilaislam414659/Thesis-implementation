@@ -1,0 +1,16 @@
+graph_id,num_vertices,num_edges,DYNAMIC_LARGEST_FIRST,INCIDENCE_DEGREE,LARGEST_FIRST,NATURAL,SMALLEST_LAST,best_colors,worst_colors,ordering_gap,sensitivity_class,best_orderings,smallest_last_gap,smallest_last_status
+bcsstk04,132,1758,13,14,13,16,15,13,16,3,ordering_sensitive,"DYNAMIC_LARGEST_FIRST, LARGEST_FIRST",2,worse_than_best
+bcsstk06,420,3720,12,13,13,15,13,12,15,3,ordering_sensitive,DYNAMIC_LARGEST_FIRST,1,worse_than_best
+dwt_361,361,1296,8,5,5,5,5,5,8,3,ordering_sensitive,"INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",0,best_or_tied_best
+bcsstk05,153,1135,9,9,11,10,9,9,11,2,ordering_sensitive,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, SMALLEST_LAST",0,best_or_tied_best
+can_24,24,68,5,4,5,6,4,4,6,2,ordering_sensitive,"INCIDENCE_DEGREE, SMALLEST_LAST",0,best_or_tied_best
+dwt_419,419,1572,7,6,7,8,6,6,8,2,ordering_sensitive,"INCIDENCE_DEGREE, SMALLEST_LAST",0,best_or_tied_best
+sherman1,1000,1375,4,2,4,3,2,2,4,2,ordering_sensitive,"INCIDENCE_DEGREE, SMALLEST_LAST",0,best_or_tied_best
+west0479,479,1889,6,6,6,8,6,6,8,2,ordering_sensitive,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, SMALLEST_LAST",0,best_or_tied_best
+ash85,85,219,5,4,5,5,4,4,5,1,ordering_sensitive,"INCIDENCE_DEGREE, SMALLEST_LAST",0,best_or_tied_best
+hess_pat,43,94,6,6,6,7,6,6,7,1,ordering_sensitive,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, SMALLEST_LAST",0,best_or_tied_best
+hess_pat_small,10,13,3,3,3,4,3,3,4,1,ordering_sensitive,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, SMALLEST_LAST",0,best_or_tied_best
+bcsstk01,48,176,6,6,6,6,6,6,6,0,ordering_insensitive,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",0,best_or_tied_best
+bcsstk03,112,264,4,4,4,4,4,4,4,0,ordering_insensitive,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",0,best_or_tied_best
+dwt_234,234,300,3,3,3,3,3,3,3,0,ordering_insensitive,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",0,best_or_tied_best
+jac_pat,43,121,11,11,11,11,11,11,11,0,ordering_insensitive,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",0,best_or_tied_best

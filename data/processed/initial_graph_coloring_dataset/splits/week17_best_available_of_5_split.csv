@@ -1,0 +1,28 @@
+graph_id,split,group,reason
+ash85,train,original_sparse_matrix,preserved from Week 15 split
+can_24,train,original_sparse_matrix,preserved from Week 15 split
+hess_pat,train,original_sparse_matrix,preserved from Week 15 split
+bcsstk01,train,original_sparse_matrix,preserved from Week 15 split
+bcsstk03,train,original_sparse_matrix,preserved from Week 15 split
+bcsstk04,train,original_sparse_matrix,preserved from Week 15 split
+bcsstk05,train,original_sparse_matrix,preserved from Week 15 split
+dwt_234,train,original_sparse_matrix,preserved from Week 15 split
+dwt_361,train,original_sparse_matrix,preserved from Week 15 split
+west0479,train,original_sparse_matrix,preserved from Week 15 split
+hess_pat_small,validation,original_sparse_matrix,preserved from Week 15 split
+dwt_419,validation,original_sparse_matrix,preserved from Week 15 split
+jac_pat,test,original_sparse_matrix,preserved from Week 15 split
+bcsstk06,test,original_sparse_matrix,preserved from Week 15 split
+sherman1,test,original_sparse_matrix,preserved from Week 15 split
+week17_bickle_g10,train,bickle_hard_case,small controlled hard case for learning beyond SMALLEST_LAST
+week17_cycle_square_c8,train,bickle_hard_case,small cycle-square hard case
+week17_cycle_square_c11,validation,bickle_hard_case,held-out validation case from same controlled family
+week17_cycle_square_c14,train,bickle_hard_case,larger training case from controlled family
+week17_cycle_square_c17,test,bickle_hard_case,held-out larger hard case
+week17_cycle_square_c20,test,bickle_hard_case,held-out larger hard case
+week17_nos1,train,structured_matrix,real banded matrix
+week17_bwm200,train,structured_matrix,real narrow-banded matrix
+week17_arrowhead_100,train,structured_matrix,constructed controlled arrowhead pattern
+week17_lshp_265,validation,structured_matrix,finite-element/block-like validation matrix
+week17_gr_30_30,test,structured_matrix,real PDE/grid-like matrix where SMALLEST_LAST is worse than best
+week17_bcsstk08,test,structured_matrix,larger block-structured structural matrix

@@ -1,0 +1,3 @@
+checkpoint_selection,best_test_seed,best_test_total_colors,best_test_target_colors,best_test_gap_from_target,best_test_average_gap_from_target,best_test_all_valid,mean_test_total_colors_over_seeds,mean_test_gap_over_seeds,std_test_gap_over_seeds,min_test_gap_over_seeds,max_test_gap_over_seeds
+validation_total_colors_then_validation_loss,1,54,47,7,1.0,True,58.0,11.0,4.1952353926806065,7,19
+validation_loss,0,56,47,9,1.2857142857142858,True,56.6,9.6,0.8,9,11

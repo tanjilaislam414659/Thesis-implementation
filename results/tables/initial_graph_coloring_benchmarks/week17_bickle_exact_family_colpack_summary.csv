@@ -1,0 +1,10 @@
+graph_id,split,cycle_size,known_chromatic_number,SMALLEST_LAST,LARGEST_FIRST,NATURAL,DYNAMIC_LARGEST_FIRST,INCIDENCE_DEGREE,best_colpack5_colors,worst_colpack5_colors,ordering_gap,best_colpack5_orderings,smallest_last_gap_from_chromatic,best_colpack5_gap_from_chromatic,colpack5_stuck_above_optimum
+week17_cycle_square_c11,train,11,4,5,5,5,4,5,4,5,1,DYNAMIC_LARGEST_FIRST,1,0,False
+week17_cycle_square_c14,train,14,4,5,5,5,4,5,4,5,1,DYNAMIC_LARGEST_FIRST,1,0,False
+week17_cycle_square_c17,test,17,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_cycle_square_c20,test,20,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_cycle_square_c23,train,23,4,5,5,5,4,5,4,5,1,DYNAMIC_LARGEST_FIRST,1,0,False
+week17_cycle_square_c26,train,26,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_cycle_square_c29,train,29,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_cycle_square_c32,validation,32,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_cycle_square_c8,train,8,4,5,5,5,4,5,4,5,1,DYNAMIC_LARGEST_FIRST,1,0,False

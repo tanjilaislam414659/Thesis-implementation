@@ -1,0 +1,5 @@
+method,total_colors,gap_from_target
+best_colpack_available,47,0
+smallest_last,49,2
+gnn_validation_color_selection,54,7
+gnn_validation_loss_selection,56,9

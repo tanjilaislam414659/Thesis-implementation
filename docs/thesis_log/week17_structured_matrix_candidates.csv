@@ -1,0 +1,7 @@
+candidate_id,source_type,source_group,structure_family,planned_graph_id,reason,status
+nos1,SuiteSparse,Norris,banded,week17_nos1,Small structural-engineering matrix; candidate for banded/narrow sparse structure,planned
+gr_30_30,SuiteSparse,HB,pde_grid_banded,week17_gr_30_30,Grid/stencil-like matrix; useful for PDE-style sparse pattern,planned
+bwm200,SuiteSparse,Boeing,narrow_banded,week17_bwm200,Small chemical-process matrix; candidate for narrow-banded structure,planned
+bcsstk08,SuiteSparse,HB,block_structured,week17_bcsstk08,Extends existing bcsstk structural matrix family with more block variety,planned
+lshp_265,SuiteSparse,HB,finite_element_block_like,week17_lshp_265,L-shaped membrane finite-element matrix; useful block/PDE-like structure,planned
+week17_arrowhead_100,constructed,synthetic,arrowhead,week17_arrowhead_100,Clean controlled arrowhead pattern because standalone arrowhead matrices are scarce in SuiteSparse,planned

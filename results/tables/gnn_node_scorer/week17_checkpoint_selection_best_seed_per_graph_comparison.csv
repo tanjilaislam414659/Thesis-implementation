@@ -1,0 +1,8 @@
+graph_id,group,target_colors,seed_color_selection,num_colors_color_selection,gap_from_target_color_selection,valid_color_selection,seed_loss_selection,num_colors_loss_selection,gap_from_target_loss_selection,valid_loss_selection,color_selection_minus_loss_selection
+bcsstk06,original_sparse_matrix,12,1,13,1,True,0,15,3,True,-2
+jac_pat,original_sparse_matrix,11,1,11,0,True,0,11,0,True,0
+sherman1,original_sparse_matrix,2,1,5,3,True,0,5,3,True,0
+week17_bcsstk08,structured_matrix,8,1,9,1,True,0,8,0,True,1
+week17_cycle_square_c17,bickle_hard_case,5,1,5,0,True,0,5,0,True,0
+week17_cycle_square_c20,bickle_hard_case,5,1,5,0,True,0,5,0,True,0
+week17_gr_30_30,structured_matrix,4,1,6,2,True,0,7,3,True,-1

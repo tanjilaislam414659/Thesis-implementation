@@ -1,0 +1,7 @@
+graph_id,num_vertices,num_edges,chromatic_number_python,smallest_last_colors_python,largest_first_colors_python,natural_colors_python,smallest_last_gap_from_chromatic,matrix_path
+week17_bickle_g10,10,19,3,4,4,4,1,data\raw\matrices\week17_bickle_hard_cases\week17_bickle_g10.mtx
+week17_cycle_square_c8,8,16,4,5,5,5,1,data\raw\matrices\week17_bickle_hard_cases\week17_cycle_square_c8.mtx
+week17_cycle_square_c11,11,22,4,5,5,5,1,data\raw\matrices\week17_bickle_hard_cases\week17_cycle_square_c11.mtx
+week17_cycle_square_c14,14,28,4,5,5,5,1,data\raw\matrices\week17_bickle_hard_cases\week17_cycle_square_c14.mtx
+week17_cycle_square_c17,17,34,4,5,5,5,1,data\raw\matrices\week17_bickle_hard_cases\week17_cycle_square_c17.mtx
+week17_cycle_square_c20,20,40,4,5,5,5,1,data\raw\matrices\week17_bickle_hard_cases\week17_cycle_square_c20.mtx

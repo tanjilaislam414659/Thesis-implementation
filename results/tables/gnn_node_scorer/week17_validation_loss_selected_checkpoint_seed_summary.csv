@@ -1,0 +1,11 @@
+seed,split,total_colors,total_target_colors,total_gap_from_target,average_gap_from_target,all_valid
+0,test,56,47,9,1.2857142857142858,True
+2,test,56,47,9,1.2857142857142858,True
+3,test,56,47,9,1.2857142857142858,True
+1,test,57,47,10,1.4285714285714286,True
+4,test,58,47,11,1.5714285714285714,True
+2,validation,19,17,2,0.5,True
+3,validation,19,17,2,0.5,True
+0,validation,20,17,3,0.75,True
+1,validation,20,17,3,0.75,True
+4,validation,21,17,4,1.0,True

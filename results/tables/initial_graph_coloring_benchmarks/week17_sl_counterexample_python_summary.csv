@@ -1,0 +1,2 @@
+graph_id,num_vertices,num_edges,chromatic_number,smallest_last_colors_python,largest_first_colors_python,natural_colors_python,best_other_ordering_python,best_other_colors_python,matrix_path
+week17_sl_counterexample,8,13,3,4,3,4,LARGEST_FIRST,3,data\raw\matrices\week17_sl_counterexample.mtx

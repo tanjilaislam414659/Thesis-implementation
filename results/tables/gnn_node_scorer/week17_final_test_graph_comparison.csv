@@ -1,0 +1,8 @@
+graph_id,group,target_colors,teacher_ordering,best_colpack_colors,best_colpack_orderings,smallest_last_colors,smallest_last_gap_from_best,color_selection_seed,color_selection_num_colors,color_selection_gap_from_target,color_selection_gap_from_best_colpack,color_selection_valid,loss_selection_seed,loss_selection_num_colors,loss_selection_gap_from_target,loss_selection_gap_from_best_colpack,loss_selection_valid,color_selection_minus_loss_selection
+bcsstk06,original_sparse_matrix,12,DYNAMIC_LARGEST_FIRST,12,DYNAMIC_LARGEST_FIRST,13,1,1,13,1,1,True,0,15,3,3,True,-2
+jac_pat,original_sparse_matrix,11,DYNAMIC_LARGEST_FIRST,11,DYNAMIC_LARGEST_FIRST; INCIDENCE_DEGREE; LARGEST_FIRST; NATURAL; SMALLEST_LAST,11,0,1,11,0,0,True,0,11,0,0,True,0
+sherman1,original_sparse_matrix,2,INCIDENCE_DEGREE,2,INCIDENCE_DEGREE; SMALLEST_LAST,2,0,1,5,3,3,True,0,5,3,3,True,0
+week17_bcsstk08,structured_matrix,8,INCIDENCE_DEGREE,8,INCIDENCE_DEGREE; SMALLEST_LAST,8,0,1,9,1,1,True,0,8,0,0,True,1
+week17_cycle_square_c17,bickle_hard_case,5,DYNAMIC_LARGEST_FIRST,5,DYNAMIC_LARGEST_FIRST; INCIDENCE_DEGREE; LARGEST_FIRST; NATURAL; SMALLEST_LAST,5,0,1,5,0,0,True,0,5,0,0,True,0
+week17_cycle_square_c20,bickle_hard_case,5,DYNAMIC_LARGEST_FIRST,5,DYNAMIC_LARGEST_FIRST; INCIDENCE_DEGREE; LARGEST_FIRST; NATURAL; SMALLEST_LAST,5,0,1,5,0,0,True,0,5,0,0,True,0
+week17_gr_30_30,structured_matrix,4,LARGEST_FIRST,4,LARGEST_FIRST; NATURAL,5,1,1,6,2,2,True,0,7,3,3,True,-1

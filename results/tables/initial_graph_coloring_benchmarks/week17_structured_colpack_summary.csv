@@ -1,0 +1,7 @@
+graph_id,source_type,source_name,structure_family,num_vertices,num_edges,SMALLEST_LAST,LARGEST_FIRST,NATURAL,DYNAMIC_LARGEST_FIRST,INCIDENCE_DEGREE,best_colors,worst_colors,ordering_gap,best_orderings,smallest_last_gap_from_best,smallest_last_status,sensitivity_class
+week17_arrowhead_100,constructed,synthetic_arrowhead,arrowhead,100,99,2,2,2,2,2,2,2,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",0,best_or_tied_best,ordering_insensitive
+week17_bcsstk08,real_matrix,HB/bcsstk08,block_structured,1074,5943,8,9,11,9,8,8,11,3,"INCIDENCE_DEGREE, SMALLEST_LAST",0,best_or_tied_best,ordering_sensitive
+week17_bwm200,real_matrix,Bai/bwm200,narrow_banded,200,298,2,2,2,3,2,2,3,1,"INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",0,best_or_tied_best,ordering_sensitive
+week17_gr_30_30,real_matrix,HB/gr_30_30,pde_grid_banded,900,3422,5,4,4,7,5,4,7,3,"LARGEST_FIRST, NATURAL",1,worse_than_best,ordering_sensitive
+week17_lshp_265,real_matrix,HB/lshp_265,finite_element_block_like,265,744,4,6,6,5,4,4,6,2,"INCIDENCE_DEGREE, SMALLEST_LAST",0,best_or_tied_best,ordering_sensitive
+week17_nos1,real_matrix,HB/nos1,banded,237,390,2,2,2,3,2,2,3,1,"INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",0,best_or_tied_best,ordering_sensitive

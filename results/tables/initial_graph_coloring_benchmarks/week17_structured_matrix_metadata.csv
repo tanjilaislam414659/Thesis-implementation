@@ -1,0 +1,7 @@
+graph_id,matrix_file,source_type,source_name,structure_family,matrix_rows,matrix_cols,matrix_nnz,graph_vertices,graph_edges,description
+week17_nos1,nos1.mtx,real_matrix,HB/nos1,banded,237,237,1017,237,390,Harwell-Boeing finite-element beam matrix; narrow banded structure
+week17_gr_30_30,gr_30_30.mtx,real_matrix,HB/gr_30_30,pde_grid_banded,900,900,7744,900,3422,Grid/stencil-like structured matrix
+week17_bwm200,bwm200.mtx,real_matrix,Bai/bwm200,narrow_banded,200,200,796,200,298,Small chemical-process style matrix; narrow structured sparsity
+week17_bcsstk08,bcsstk08.mtx,real_matrix,HB/bcsstk08,block_structured,1074,1074,12960,1074,5943,Structural stiffness matrix extending the bcsstk family
+week17_lshp_265,lshp_265.mtx,real_matrix,HB/lshp_265,finite_element_block_like,265,265,1753,265,744,L-shaped finite-element style matrix
+week17_arrowhead_100,week17_arrowhead_100.mtx,constructed,synthetic_arrowhead,arrowhead,100,100,298,100,99,Constructed diagonal-plus-border arrowhead sparsity pattern
