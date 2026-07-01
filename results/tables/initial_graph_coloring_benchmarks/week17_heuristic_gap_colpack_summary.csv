@@ -1,0 +1,48 @@
+graph_id,family,construction,num_components_joined,base_cycle_size,known_chromatic_number,SMALLEST_LAST,LARGEST_FIRST,NATURAL,DYNAMIC_LARGEST_FIRST,INCIDENCE_DEGREE,best_colpack5_colors,worst_colpack5_colors,ordering_gap,best_colpack5_orderings,smallest_last_gap_from_known,best_colpack5_gap_from_known,colpack5_stuck_above_known
+week17_gap_cycle_square_c17,cycle_square_3r_plus_2,C_17^2,1,17,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_gap_cycle_square_c20,cycle_square_3r_plus_2,C_20^2,1,20,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_gap_cycle_square_c23,cycle_square_3r_plus_2,C_23^2,1,23,4,5,5,5,4,5,4,5,1,DYNAMIC_LARGEST_FIRST,1,0,False
+week17_gap_cycle_square_c26,cycle_square_3r_plus_2,C_26^2,1,26,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_gap_cycle_square_c29,cycle_square_3r_plus_2,C_29^2,1,29,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_gap_cycle_square_c32,cycle_square_3r_plus_2,C_32^2,1,32,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_gap_cycle_square_c35,cycle_square_3r_plus_2,C_35^2,1,35,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_gap_cycle_square_c38,cycle_square_3r_plus_2,C_38^2,1,38,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_gap_cycle_square_c41,cycle_square_3r_plus_2,C_41^2,1,41,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_gap_cycle_square_c44,cycle_square_3r_plus_2,C_44^2,1,44,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_gap_cycle_square_c47,cycle_square_3r_plus_2,C_47^2,1,47,4,5,5,5,5,5,5,5,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",1,1,True
+week17_gap_join_c17_join_2,join_of_cycle_square_hard_cases,join of 2 copies of C_17^2,2,17,8,10,10,10,9,10,9,10,1,DYNAMIC_LARGEST_FIRST,2,1,True
+week17_gap_join_c17_join_3,join_of_cycle_square_hard_cases,join of 3 copies of C_17^2,3,17,12,15,15,15,13,15,13,15,2,DYNAMIC_LARGEST_FIRST,3,1,True
+week17_gap_join_c20_join_2,join_of_cycle_square_hard_cases,join of 2 copies of C_20^2,2,20,8,10,10,10,10,10,10,10,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",2,2,True
+week17_gap_join_c20_join_3,join_of_cycle_square_hard_cases,join of 3 copies of C_20^2,3,20,12,15,15,15,15,15,15,15,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",3,3,True
+week17_gap_join_c20_join_4,join_of_cycle_square_hard_cases,join of 4 copies of C_20^2,4,20,16,20,20,20,20,20,20,20,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",4,4,True
+week17_gap_join_c20_join_5,join_of_cycle_square_hard_cases,join of 5 copies of C_20^2,5,20,20,25,25,25,25,25,25,25,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",5,5,True
+week17_gap_join_c26_join_2,join_of_cycle_square_hard_cases,join of 2 copies of C_26^2,2,26,8,10,10,10,10,10,10,10,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",2,2,True
+week17_gap_join_c26_join_3,join_of_cycle_square_hard_cases,join of 3 copies of C_26^2,3,26,12,15,15,15,15,15,15,15,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",3,3,True
+week17_gap_join_c26_join_4,join_of_cycle_square_hard_cases,join of 4 copies of C_26^2,4,26,16,20,20,20,20,20,20,20,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",4,4,True
+week17_gap_join_c26_join_5,join_of_cycle_square_hard_cases,join of 5 copies of C_26^2,5,26,20,25,25,25,25,25,25,25,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",5,5,True
+week17_gap_join_c29_join_2,join_of_cycle_square_hard_cases,join of 2 copies of C_29^2,2,29,8,10,10,10,10,10,10,10,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",2,2,True
+week17_gap_join_c29_join_3,join_of_cycle_square_hard_cases,join of 3 copies of C_29^2,3,29,12,15,15,15,15,15,15,15,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",3,3,True
+week17_gap_join_c29_join_4,join_of_cycle_square_hard_cases,join of 4 copies of C_29^2,4,29,16,20,20,20,20,20,20,20,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",4,4,True
+week17_gap_join_c29_join_5,join_of_cycle_square_hard_cases,join of 5 copies of C_29^2,5,29,20,25,25,25,25,25,25,25,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",5,5,True
+week17_gap_join_c32_join_2,join_of_cycle_square_hard_cases,join of 2 copies of C_32^2,2,32,8,10,10,10,9,10,9,10,1,DYNAMIC_LARGEST_FIRST,2,1,True
+week17_gap_join_c32_join_3,join_of_cycle_square_hard_cases,join of 3 copies of C_32^2,3,32,12,15,15,15,13,15,13,15,2,DYNAMIC_LARGEST_FIRST,3,1,True
+week17_gap_join_c35_join_2,join_of_cycle_square_hard_cases,join of 2 copies of C_35^2,2,35,8,10,10,10,10,10,10,10,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",2,2,True
+week17_gap_join_c35_join_3,join_of_cycle_square_hard_cases,join of 3 copies of C_35^2,3,35,12,15,15,15,15,15,15,15,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",3,3,True
+week17_gap_join_c35_join_4,join_of_cycle_square_hard_cases,join of 4 copies of C_35^2,4,35,16,20,20,20,20,20,20,20,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",4,4,True
+week17_gap_join_c35_join_5,join_of_cycle_square_hard_cases,join of 5 copies of C_35^2,5,35,20,25,25,25,25,25,25,25,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",5,5,True
+week17_gap_join_c38_join_2,join_of_cycle_square_hard_cases,join of 2 copies of C_38^2,2,38,8,10,10,10,10,10,10,10,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",2,2,True
+week17_gap_join_c38_join_3,join_of_cycle_square_hard_cases,join of 3 copies of C_38^2,3,38,12,15,15,15,15,15,15,15,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",3,3,True
+week17_gap_join_c38_join_4,join_of_cycle_square_hard_cases,join of 4 copies of C_38^2,4,38,16,20,20,20,20,20,20,20,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",4,4,True
+week17_gap_join_c38_join_5,join_of_cycle_square_hard_cases,join of 5 copies of C_38^2,5,38,20,25,25,25,25,25,25,25,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",5,5,True
+week17_gap_join_c41_join_2,join_of_cycle_square_hard_cases,join of 2 copies of C_41^2,2,41,8,10,10,10,10,10,10,10,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",2,2,True
+week17_gap_join_c41_join_3,join_of_cycle_square_hard_cases,join of 3 copies of C_41^2,3,41,12,15,15,15,15,15,15,15,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",3,3,True
+week17_gap_join_c41_join_4,join_of_cycle_square_hard_cases,join of 4 copies of C_41^2,4,41,16,20,20,20,20,20,20,20,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",4,4,True
+week17_gap_join_c41_join_5,join_of_cycle_square_hard_cases,join of 5 copies of C_41^2,5,41,20,25,25,25,25,25,25,25,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",5,5,True
+week17_gap_join_c44_join_2,join_of_cycle_square_hard_cases,join of 2 copies of C_44^2,2,44,8,10,10,10,10,10,10,10,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",2,2,True
+week17_gap_join_c44_join_3,join_of_cycle_square_hard_cases,join of 3 copies of C_44^2,3,44,12,15,15,15,15,15,15,15,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",3,3,True
+week17_gap_join_c44_join_4,join_of_cycle_square_hard_cases,join of 4 copies of C_44^2,4,44,16,20,20,20,20,20,20,20,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",4,4,True
+week17_gap_join_c44_join_5,join_of_cycle_square_hard_cases,join of 5 copies of C_44^2,5,44,20,25,25,25,25,25,25,25,0,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",5,5,True
+week17_gap_join_c47_join_2,join_of_cycle_square_hard_cases,join of 2 copies of C_47^2,2,47,8,10,10,10,9,10,9,10,1,DYNAMIC_LARGEST_FIRST,2,1,True
+week17_gap_join_c47_join_3,join_of_cycle_square_hard_cases,join of 3 copies of C_47^2,3,47,12,15,15,15,13,15,13,15,2,DYNAMIC_LARGEST_FIRST,3,1,True
+week17_gap_join_c47_join_4,join_of_cycle_square_hard_cases,join of 4 copies of C_47^2,4,47,16,20,20,20,17,20,17,20,3,DYNAMIC_LARGEST_FIRST,4,1,True
+week17_gap_join_c47_join_5,join_of_cycle_square_hard_cases,join of 5 copies of C_47^2,5,47,20,25,25,25,21,25,21,25,4,DYNAMIC_LARGEST_FIRST,5,1,True

@@ -1,0 +1,2 @@
+num_seeds,num_test_graphs_per_seed,total_test_runs,mean_total_gnn_colors,std_total_gnn_colors,min_total_gnn_colors,max_total_gnn_colors,target_total_colors,colpack5_total_colors,mean_total_colors_saved_vs_colpack5,min_total_colors_saved_vs_colpack5,max_total_colors_saved_vs_colpack5
+5,5,25,65.0,1.0,64,66,60,75,10.0,9,11

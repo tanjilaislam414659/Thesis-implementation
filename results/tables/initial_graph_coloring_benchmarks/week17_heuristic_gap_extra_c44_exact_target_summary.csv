@@ -1,0 +1,6 @@
+graph_id,split,base_cycle_size,gap_level,num_vertices,known_chromatic_number,best_colpack5_colors,verified_gap,selected_ordering,selected_num_colors
+week17_gap_cycle_square_c44,extra_test,44,1,44,4,5,1,EXACT_OPTIMAL_COLOR_CLASS_ORDER,4
+week17_gap_join_c44_join_2,extra_test,44,2,88,8,10,2,EXACT_OPTIMAL_COLOR_CLASS_ORDER,8
+week17_gap_join_c44_join_3,extra_test,44,3,132,12,15,3,EXACT_OPTIMAL_COLOR_CLASS_ORDER,12
+week17_gap_join_c44_join_4,extra_test,44,4,176,16,20,4,EXACT_OPTIMAL_COLOR_CLASS_ORDER,16
+week17_gap_join_c44_join_5,extra_test,44,5,220,20,25,5,EXACT_OPTIMAL_COLOR_CLASS_ORDER,20

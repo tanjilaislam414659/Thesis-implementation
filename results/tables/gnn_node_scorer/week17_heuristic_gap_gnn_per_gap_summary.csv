@@ -1,0 +1,6 @@
+gap_level,num_seed_runs,target_colors,colpack5_colors,mean_gnn_colors,std_gnn_colors,min_gnn_colors,max_gnn_colors,mean_gap_from_target,mean_colors_saved_vs_colpack5,min_colors_saved_vs_colpack5,max_colors_saved_vs_colpack5,target_reached_count,improved_over_colpack5_count
+1,5,4,5,4.6,0.5477225575051662,4,5,0.6,0.4,0,1,2,2
+2,5,8,10,9.0,0.7071067811865475,8,10,1.0,1.0,0,2,1,4
+3,5,12,15,13.4,0.5477225575051662,13,14,1.4,1.6,1,2,0,5
+4,5,16,20,16.8,0.8366600265340757,16,18,0.8,3.2,2,4,2,5
+5,5,20,25,21.2,0.8366600265340753,20,22,1.2,3.8,3,5,1,5

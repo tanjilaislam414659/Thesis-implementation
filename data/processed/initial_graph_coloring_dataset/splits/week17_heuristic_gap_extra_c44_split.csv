@@ -1,0 +1,6 @@
+graph_id,split,graph_family,base_cycle_size,gap_level,known_chromatic_number,best_colpack5_colors,verified_gap
+week17_gap_cycle_square_c44,extra_test,heuristic_gap_controlled_extra_test,44,1,4,5,1
+week17_gap_join_c44_join_2,extra_test,heuristic_gap_controlled_extra_test,44,2,8,10,2
+week17_gap_join_c44_join_3,extra_test,heuristic_gap_controlled_extra_test,44,3,12,15,3
+week17_gap_join_c44_join_4,extra_test,heuristic_gap_controlled_extra_test,44,4,16,20,4
+week17_gap_join_c44_join_5,extra_test,heuristic_gap_controlled_extra_test,44,5,20,25,5
