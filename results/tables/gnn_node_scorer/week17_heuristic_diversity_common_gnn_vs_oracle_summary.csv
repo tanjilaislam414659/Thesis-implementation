@@ -1,0 +1,9 @@
+method,selection,num_graphs,total_colors_mean,total_colors_min,total_colors_max,gap_to_oracle_mean,gap_to_oracle_min,gap_to_oracle_max,graphs_matching_oracle_mean,graphs_matching_oracle_min,graphs_matching_oracle_max,oracle_total_colors
+BEST_OF_5_ORACLE,BEST_OF_5_ORACLE,6,36.0,36,36,0.0,0,0,6.0,6,6,36
+INCIDENCE_DEGREE,FIXED_COLPACK_ORDERING,6,38.0,38,38,2.0,2,2,4.0,4,4,36
+SMALLEST_LAST,FIXED_COLPACK_ORDERING,6,38.0,38,38,2.0,2,2,4.0,4,4,36
+LARGEST_FIRST,FIXED_COLPACK_ORDERING,6,43.0,43,43,7.0,7,7,1.0,1,1,36
+DYNAMIC_LARGEST_FIRST,FIXED_COLPACK_ORDERING,6,44.0,44,44,8.0,8,8,1.0,1,1,36
+NATURAL,FIXED_COLPACK_ORDERING,6,47.0,47,47,11.0,11,11,1.0,1,1,36
+GNN_MEAN_OVER_SEEDS,GNN_LOSS_SELECTED,6,47.8,46,52,11.8,10,16,0.6,0,1,36
+GNN_MEAN_OVER_SEEDS,GNN_COLOR_SELECTED,6,48.4,44,57,12.4,8,21,1.0,1,1,36

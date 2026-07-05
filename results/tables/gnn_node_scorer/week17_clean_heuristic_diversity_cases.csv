@@ -1,0 +1,20 @@
+source_csv,graph_id,num_orderings_tested,best_colors,worst_colors,spread_best_to_worst,winner_count,winning_orderings,worst_orderings,has_unique_winner,has_nontrivial_spread,DYNAMIC_LARGEST_FIRST,INCIDENCE_DEGREE,LARGEST_FIRST,NATURAL,SMALLEST_LAST,source_priority
+colpack_week15_five_ordering_benchmark.csv,bcsstk04,5,13,16,3,2,"DYNAMIC_LARGEST_FIRST, LARGEST_FIRST",NATURAL,False,True,13.0,14.0,13.0,16.0,15.0,50
+colpack_week15_five_ordering_benchmark.csv,bcsstk05,5,9,11,2,3,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, SMALLEST_LAST",LARGEST_FIRST,False,True,9.0,9.0,11.0,10.0,9.0,50
+colpack_week15_five_ordering_benchmark.csv,bcsstk06,5,12,15,3,1,DYNAMIC_LARGEST_FIRST,NATURAL,True,True,12.0,13.0,13.0,15.0,13.0,50
+colpack_week16_larger_graph_benchmark.csv,bcsstk10,5,13,16,3,2,"LARGEST_FIRST, NATURAL",DYNAMIC_LARGEST_FIRST,False,True,16.0,15.0,13.0,13.0,15.0,60
+colpack_week16_larger_graph_benchmark.csv,bcsstk14,5,22,26,4,1,SMALLEST_LAST,DYNAMIC_LARGEST_FIRST,True,True,26.0,23.0,25.0,25.0,22.0,60
+colpack_week16_larger_graph_benchmark.csv,bcsstk15,5,17,19,2,2,"INCIDENCE_DEGREE, SMALLEST_LAST",NATURAL,False,True,18.0,17.0,18.0,19.0,17.0,60
+colpack_week15_five_ordering_benchmark.csv,can_24,5,4,6,2,2,"INCIDENCE_DEGREE, SMALLEST_LAST",NATURAL,False,True,5.0,4.0,5.0,6.0,4.0,50
+colpack_week15_five_ordering_benchmark.csv,dwt_361,5,5,8,3,4,"INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",DYNAMIC_LARGEST_FIRST,False,True,8.0,5.0,5.0,5.0,5.0,50
+colpack_week15_five_ordering_benchmark.csv,dwt_419,5,6,8,2,2,"INCIDENCE_DEGREE, SMALLEST_LAST",NATURAL,False,True,7.0,6.0,7.0,8.0,6.0,50
+colpack_week15_five_ordering_benchmark.csv,sherman1,5,2,4,2,2,"INCIDENCE_DEGREE, SMALLEST_LAST","DYNAMIC_LARGEST_FIRST, LARGEST_FIRST",False,True,4.0,2.0,4.0,3.0,2.0,50
+week17_structured_colpack_benchmark.csv,week17_bcsstk08,5,8,11,3,2,"INCIDENCE_DEGREE, SMALLEST_LAST",NATURAL,False,True,9.0,8.0,9.0,11.0,8.0,80
+week17_heuristic_gap_colpack_benchmark.csv,week17_gap_join_c17_join_3,5,13,15,2,1,DYNAMIC_LARGEST_FIRST,"INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",True,True,13.0,15.0,15.0,15.0,15.0,70
+week17_heuristic_gap_colpack_benchmark.csv,week17_gap_join_c32_join_3,5,13,15,2,1,DYNAMIC_LARGEST_FIRST,"INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",True,True,13.0,15.0,15.0,15.0,15.0,70
+week17_heuristic_gap_colpack_benchmark.csv,week17_gap_join_c47_join_3,5,13,15,2,1,DYNAMIC_LARGEST_FIRST,"INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",True,True,13.0,15.0,15.0,15.0,15.0,70
+week17_heuristic_gap_colpack_benchmark.csv,week17_gap_join_c47_join_4,5,17,20,3,1,DYNAMIC_LARGEST_FIRST,"INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",True,True,17.0,20.0,20.0,20.0,20.0,70
+week17_heuristic_gap_colpack_benchmark.csv,week17_gap_join_c47_join_5,5,21,25,4,1,DYNAMIC_LARGEST_FIRST,"INCIDENCE_DEGREE, LARGEST_FIRST, NATURAL, SMALLEST_LAST",True,True,21.0,25.0,25.0,25.0,25.0,70
+week17_structured_colpack_benchmark.csv,week17_gr_30_30,5,4,7,3,2,"LARGEST_FIRST, NATURAL",DYNAMIC_LARGEST_FIRST,False,True,7.0,5.0,4.0,4.0,5.0,80
+week17_structured_colpack_benchmark.csv,week17_lshp_265,5,4,6,2,2,"INCIDENCE_DEGREE, SMALLEST_LAST","LARGEST_FIRST, NATURAL",False,True,5.0,4.0,6.0,6.0,4.0,80
+colpack_week15_five_ordering_benchmark.csv,west0479,5,6,8,2,4,"DYNAMIC_LARGEST_FIRST, INCIDENCE_DEGREE, LARGEST_FIRST, SMALLEST_LAST",NATURAL,False,True,6.0,6.0,6.0,8.0,6.0,50

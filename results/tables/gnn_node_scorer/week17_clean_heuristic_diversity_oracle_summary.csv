@@ -1,0 +1,7 @@
+method,num_graphs,total_colors,oracle_total_colors,gap_to_best_of_5_oracle,average_gap_per_graph,graphs_matching_best_of_5,graphs_not_matching_best_of_5
+BEST_OF_5_ORACLE,19,202,202,0,0.0,19,0
+SMALLEST_LAST,19,221,202,19,1.0,10,9
+INCIDENCE_DEGREE,19,221,202,19,1.0,9,10
+DYNAMIC_LARGEST_FIRST,19,222,202,20,1.0526315789473684,9,10
+LARGEST_FIRST,19,229,202,27,1.4210526315789473,5,14
+NATURAL,19,239,202,37,1.9473684210526316,3,16

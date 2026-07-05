@@ -1,0 +1,6 @@
+ordering_name,winner_or_tied_count,unique_winner_count,nontrivial_spread_winner_count
+SMALLEST_LAST,84,8,16
+DYNAMIC_LARGEST_FIRST,83,20,9
+INCIDENCE_DEGREE,77,5,11
+LARGEST_FIRST,72,1,8
+NATURAL,60,0,3

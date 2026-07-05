@@ -1,0 +1,9 @@
+checkpoint_selection,method,num_graphs,total_colors_mean,total_colors_min,total_colors_max,gap_to_best_of_5_oracle_mean,gap_to_best_of_5_oracle_min,gap_to_best_of_5_oracle_max,graphs_matching_best_of_5_mean,graphs_matching_best_of_5_min,graphs_matching_best_of_5_max,oracle_total_colors
+BEST_OF_5_ORACLE,BEST_OF_5_ORACLE,11,73.0,73,73,0.0,0,0,11.0,11,11,73
+FIXED_COLPACK_ORDERING,INCIDENCE_DEGREE,11,76.0,76,76,3.0,3,3,8.0,8,8,73
+FIXED_COLPACK_ORDERING,SMALLEST_LAST,11,77.0,77,77,4.0,4,4,8.0,8,8,73
+FIXED_COLPACK_ORDERING,LARGEST_FIRST,11,83.0,83,83,10.0,10,10,4.0,4,4,73
+GNN_LOSS_SELECTED,GNN_MEAN_OVER_SEEDS,11,47.8,46,52,11.8,10,16,0.6,0,1,73
+FIXED_COLPACK_ORDERING,DYNAMIC_LARGEST_FIRST,11,85.0,85,85,12.0,12,12,4.0,4,4,73
+GNN_COLOR_SELECTED,GNN_MEAN_OVER_SEEDS,11,48.4,44,57,12.4,8,21,1.0,1,1,73
+FIXED_COLPACK_ORDERING,NATURAL,11,92.0,92,92,19.0,19,19,2.0,2,2,73
