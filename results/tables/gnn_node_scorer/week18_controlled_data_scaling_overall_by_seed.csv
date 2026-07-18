@@ -1,0 +1,21 @@
+condition,condition_label,seed,test_target_colors,test_colpack5_colors,test_gnn_colors,test_gap_from_target,test_colors_saved_vs_colpack5,exact_target_graphs,all_valid,percentage_colpack_gap_closed
+train_20_baseline,20 graphs,0,60,75,64,4,11,2,True,73.33333333333333
+train_20_baseline,20 graphs,1,60,75,65,5,10,0,True,66.66666666666666
+train_20_baseline,20 graphs,2,60,75,66,6,9,1,True,60.0
+train_20_baseline,20 graphs,3,60,75,66,6,9,1,True,60.0
+train_20_baseline,20 graphs,4,60,75,64,4,11,2,True,73.33333333333333
+train_32_plus12,32 graphs,0,60,75,71,11,4,0,True,26.666666666666668
+train_32_plus12,32 graphs,1,60,75,65,5,10,1,True,66.66666666666666
+train_32_plus12,32 graphs,2,60,75,68,8,7,0,True,46.666666666666664
+train_32_plus12,32 graphs,3,60,75,67,7,8,2,True,53.333333333333336
+train_32_plus12,32 graphs,4,60,75,66,6,9,1,True,60.0
+train_44_plus24,44 graphs,0,60,75,66,6,9,2,True,60.0
+train_44_plus24,44 graphs,1,60,75,65,5,10,1,True,66.66666666666666
+train_44_plus24,44 graphs,2,60,75,66,6,9,1,True,60.0
+train_44_plus24,44 graphs,3,60,75,69,9,6,0,True,40.0
+train_44_plus24,44 graphs,4,60,75,62,2,13,4,True,86.66666666666667
+train_125_plus105,125 graphs,0,60,75,67,7,8,1,True,53.333333333333336
+train_125_plus105,125 graphs,1,60,75,65,5,10,2,True,66.66666666666666
+train_125_plus105,125 graphs,2,60,75,70,10,5,0,True,33.33333333333333
+train_125_plus105,125 graphs,3,60,75,62,2,13,3,True,86.66666666666667
+train_125_plus105,125 graphs,4,60,75,67,7,8,1,True,53.333333333333336

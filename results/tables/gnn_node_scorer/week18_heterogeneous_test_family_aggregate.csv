@@ -1,0 +1,5 @@
+family,num_seeds,num_graphs,target_colors_per_seed,mean_gnn_colors_per_seed,std_gnn_colors_per_seed,minimum_gnn_colors_per_seed,maximum_gnn_colors_per_seed,mean_total_gap_per_seed,std_total_gap_per_seed,minimum_total_gap_per_seed,maximum_total_gap_per_seed,mean_exact_matches_per_seed,all_valid,total_seed_graph_evaluations,exact_match_evaluations,better_than_target_evaluations,worse_than_target_evaluations,average_gap_per_seed_graph,maximum_observed_gap,exact_match_rate
+crown,5,4,8,8.0,0.0,8,8,0.0,0.0,0,0,4.0,True,20,20,0,0,0.0,0,1.0
+erdos_renyi,5,1,8,8.0,0.0,8,8,0.0,0.0,0,0,1.0,True,5,5,0,0,0.0,0,1.0
+stochastic_block_model,5,6,41,45.0,0.0,45,45,4.0,0.0,4,4,2.0,True,30,10,1,19,0.6666666666666666,2,0.3333333333333333
+watts_strogatz,5,1,5,5.2,0.44721359549995787,5,6,0.2,0.447213595499958,0,1,0.8,True,5,4,0,1,0.2,1,0.8

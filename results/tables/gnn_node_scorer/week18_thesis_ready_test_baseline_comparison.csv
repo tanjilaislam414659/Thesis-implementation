@@ -1,0 +1,9 @@
+Method,Total colors,Average colors per graph,Gap to best-of-five oracle,Gap to best fixed heuristic,Exact oracle matches,All GNN colorings valid
+Natural,179.0,14.917,117.0,115.0,0,Not applicable
+Largest First,166.0,13.833,104.0,102.0,4,Not applicable
+Dynamic Largest First,64.0,5.333,2.0,0.0,10,Not applicable
+Incidence Degree,65.0,5.417,3.0,1.0,9,Not applicable
+Smallest Last,65.0,5.417,3.0,1.0,9,Not applicable
+Best-of-five oracle,62.0,5.167,0.0,-2.0,12,Not applicable
+GNN representative model,66.0,5.5,4.0,2.0,8,Yes
+GNN mean over five seeds,66.2,5.517,4.2,2.2,7.8 mean,Yes

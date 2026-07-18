@@ -1,0 +1,28 @@
+split_group_id,minimum_training_size,family,num_graphs,graph_ids,minimum_vertices,maximum_vertices,LARGEST_FIRST,DYNAMIC_LARGEST_FIRST,INCIDENCE_DEGREE,SMALLEST_LAST
+barabasi_albert:week18_ba_n120_m6,12,barabasi_albert,1,week18_ba_n120_m6_s1,120,120,0,0,1,0
+crown:week18_crown_m10_alternating,12,crown,1,week18_crown_m10_alternating,20,20,0,1,0,0
+crown:week18_crown_m12_alternating,24,crown,1,week18_crown_m12_alternating,24,24,0,0,0,1
+crown:week18_crown_m14_alternating,36,crown,1,week18_crown_m14_alternating,28,28,0,0,1,0
+crown:week18_crown_m16_alternating,48,crown,1,week18_crown_m16_alternating,32,32,0,1,0,0
+crown:week18_crown_m18_alternating,48,crown,1,week18_crown_m18_alternating,36,36,0,0,0,1
+erdos_renyi:week18_er_n100_p12,36,erdos_renyi,2,week18_er_n100_p12_s0; week18_er_n100_p12_s3,100,100,1,1,0,0
+erdos_renyi:week18_er_n100_p16,24,erdos_renyi,2,week18_er_n100_p16_s0; week18_er_n100_p16_s3,100,100,1,0,0,1
+erdos_renyi:week18_er_n100_p22,36,erdos_renyi,4,week18_er_n100_p22_s0; week18_er_n100_p22_s1; week18_er_n100_p22_s2; week18_er_n100_p22_s3,100,100,0,2,2,0
+erdos_renyi:week18_er_n120_p06,36,erdos_renyi,1,week18_er_n120_p06_s2,120,120,0,0,0,1
+erdos_renyi:week18_er_n120_p09,12,erdos_renyi,1,week18_er_n120_p09_s1,120,120,1,0,0,0
+erdos_renyi:week18_er_n120_p16,12,erdos_renyi,2,week18_er_n120_p16_s0; week18_er_n120_p16_s2,120,120,2,0,0,0
+erdos_renyi:week18_er_n120_p22,24,erdos_renyi,4,week18_er_n120_p22_s0; week18_er_n120_p22_s1; week18_er_n120_p22_s2; week18_er_n120_p22_s3,120,120,2,2,0,0
+erdos_renyi:week18_er_n120_p30,24,erdos_renyi,3,week18_er_n120_p30_s1; week18_er_n120_p30_s2; week18_er_n120_p30_s3,120,120,0,0,2,1
+erdos_renyi:week18_er_n40_p12,48,erdos_renyi,1,week18_er_n40_p12_s3,40,40,1,0,0,0
+erdos_renyi:week18_er_n40_p22,48,erdos_renyi,3,week18_er_n40_p22_s0; week18_er_n40_p22_s1; week18_er_n40_p22_s3,40,40,1,0,2,0
+erdos_renyi:week18_er_n40_p30,48,erdos_renyi,2,week18_er_n40_p30_s0; week18_er_n40_p30_s3,40,40,0,0,0,2
+erdos_renyi:week18_er_n60_p16,36,erdos_renyi,2,week18_er_n60_p16_s1; week18_er_n60_p16_s3,60,60,1,0,0,1
+erdos_renyi:week18_er_n60_p22,36,erdos_renyi,1,week18_er_n60_p22_s1,60,60,0,0,0,1
+erdos_renyi:week18_er_n80_p09,36,erdos_renyi,1,week18_er_n80_p09_s3,80,80,1,0,0,0
+erdos_renyi:week18_er_n80_p12,12,erdos_renyi,2,week18_er_n80_p12_s0; week18_er_n80_p12_s2,80,80,0,0,0,2
+erdos_renyi:week18_er_n80_p16,48,erdos_renyi,1,week18_er_n80_p16_s1,80,80,1,0,0,0
+erdos_renyi:week18_er_n80_p22,12,erdos_renyi,3,week18_er_n80_p22_s1; week18_er_n80_p22_s2; week18_er_n80_p22_s3,80,80,0,1,2,0
+erdos_renyi:week18_er_n80_p30,48,erdos_renyi,2,week18_er_n80_p30_s0; week18_er_n80_p30_s2,80,80,0,1,1,0
+stochastic_block_model:week18_sbm_three_blocks_120_strong,12,stochastic_block_model,2,week18_sbm_three_blocks_120_strong_s0; week18_sbm_three_blocks_120_strong_s1,120,120,0,1,0,1
+stochastic_block_model:week18_sbm_three_blocks_90_weak,24,stochastic_block_model,2,week18_sbm_three_blocks_90_weak_s0; week18_sbm_three_blocks_90_weak_s1,90,90,0,1,1,0
+stochastic_block_model:week18_sbm_two_blocks_80_weak,48,stochastic_block_model,1,week18_sbm_two_blocks_80_weak_s1,80,80,0,1,0,0

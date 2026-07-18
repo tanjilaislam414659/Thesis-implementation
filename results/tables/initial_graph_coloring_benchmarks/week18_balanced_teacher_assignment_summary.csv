@@ -1,0 +1,6 @@
+ordering_name,total_teacher_assignments,unique_winner_assignments,tied_winner_assignments,barabasi_albert_assignments,crown_assignments,erdos_renyi_assignments,stochastic_block_model_assignments,watts_strogatz_assignments
+NATURAL,0,0,0,0,0,0,0,0
+LARGEST_FIRST,17,2,15,0,0,14,2,1
+DYNAMIC_LARGEST_FIRST,17,8,9,0,4,7,5,1
+INCIDENCE_DEGREE,17,4,13,1,3,9,3,1
+SMALLEST_LAST,17,5,12,0,4,10,3,0

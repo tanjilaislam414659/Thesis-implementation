@@ -1,0 +1,13 @@
+graph_id,family,num_vertices,selected_teacher_ordering,ordering_gap,target_colors,mean_gnn_colors,minimum_gnn_colors,maximum_gnn_colors,mean_gap_from_target,exact_match_seeds,worse_than_target_seeds,all_valid,exact_match_rate
+week18_crown_m24_alternating,crown,48,SMALLEST_LAST,22,2,2.0,2,2,0.0,5,0,True,1.0
+week18_crown_m26_alternating,crown,52,INCIDENCE_DEGREE,24,2,2.0,2,2,0.0,5,0,True,1.0
+week18_crown_m28_alternating,crown,56,DYNAMIC_LARGEST_FIRST,26,2,2.0,2,2,0.0,5,0,True,1.0
+week18_crown_m30_alternating,crown,60,SMALLEST_LAST,28,2,2.0,2,2,0.0,5,0,True,1.0
+week18_er_n120_p12_s3,erdos_renyi,120,LARGEST_FIRST,2,8,8.0,8,8,0.0,5,0,True,1.0
+week18_sbm_three_blocks_120_weak_s0,stochastic_block_model,120,INCIDENCE_DEGREE,2,7,7.8,7,8,0.8,1,4,True,0.2
+week18_sbm_three_blocks_120_weak_s1,stochastic_block_model,120,INCIDENCE_DEGREE,3,7,8.0,8,8,1.0,0,5,True,0.0
+week18_sbm_three_blocks_90_strong_s0,stochastic_block_model,90,DYNAMIC_LARGEST_FIRST,2,7,8.0,7,9,1.0,1,4,True,0.2
+week18_sbm_two_blocks_60_moderate_s0,stochastic_block_model,60,LARGEST_FIRST,2,6,5.8,5,6,-0.2,4,0,True,0.8
+week18_sbm_two_blocks_60_moderate_s1,stochastic_block_model,60,DYNAMIC_LARGEST_FIRST,2,6,6.2,6,7,0.2,4,1,True,0.8
+week18_sbm_two_blocks_80_strong_s0,stochastic_block_model,80,SMALLEST_LAST,2,8,9.2,9,10,1.2,0,5,True,0.0
+week18_ws_n60_k8_p50_s0,watts_strogatz,60,LARGEST_FIRST,2,5,5.2,5,6,0.2,4,1,True,0.8

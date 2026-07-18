@@ -1,0 +1,6 @@
+seed,num_test_graphs,total_gnn_colors,total_target_colors,total_gap_from_target,exact_matches,better_than_target_count,worse_than_target_count,all_valid,exact_match_rate
+0,12,67,62,5,8,0,4,True,0.6666666666666666
+1,12,66,62,4,8,0,4,True,0.6666666666666666
+2,12,66,62,4,8,0,4,True,0.6666666666666666
+3,12,66,62,4,7,1,4,True,0.5833333333333334
+4,12,66,62,4,8,0,4,True,0.6666666666666666

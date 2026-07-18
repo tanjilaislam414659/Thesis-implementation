@@ -1,0 +1,6 @@
+family,num_graphs,minimum_vertices,maximum_vertices,minimum_ordering_gap,maximum_ordering_gap,unique_winner_graphs,tied_winner_graphs
+barabasi_albert,1,120,120,2,2,0,1
+crown,11,20,60,8,28,0,11
+erdos_renyi,40,40,120,2,3,12,28
+stochastic_block_model,13,60,120,2,3,5,8
+watts_strogatz,3,60,120,2,2,2,1

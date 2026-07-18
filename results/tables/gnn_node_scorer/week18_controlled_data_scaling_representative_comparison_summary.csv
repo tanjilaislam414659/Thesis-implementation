@@ -1,0 +1,5 @@
+condition,condition_label,representative_seed,representative_validation_colors,representative_validation_loss,num_test_graphs,test_target_colors,test_colpack5_colors,test_gnn_colors,test_gap_from_target,test_colors_saved_vs_colpack5,exact_target_graphs,better_than_colpack_graphs,total_colors_improved_vs_baseline,all_test_colorings_valid,percentage_colpack_gap_closed
+train_20_baseline,20 graphs,4,63,472.346033090353,5,60,75,64,4,11,2,4,0,True,73.33333333333333
+train_32_plus12,32 graphs,3,62,0.0812140874564647,5,60,75,67,7,8,2,4,-3,True,53.333333333333336
+train_44_plus24,44 graphs,1,63,27.115353405475616,5,60,75,65,5,10,1,4,-1,True,66.66666666666666
+train_125_plus105,125 graphs,3,62,2.2723237454891203,5,60,75,62,2,13,3,4,2,True,86.66666666666667

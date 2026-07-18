@@ -1,0 +1,5 @@
+family,num_graphs,NATURAL,LARGEST_FIRST,DYNAMIC_LARGEST_FIRST,INCIDENCE_DEGREE,SMALLEST_LAST,best_fixed_heuristics,best_fixed_heuristic_total,best_colpack5_oracle_total,worst_colpack5_total,gnn_representative_total,gnn_mean_total_across_seeds,gnn_std_total_across_seeds,gnn_min_total_across_seeds,gnn_max_total_across_seeds,gnn_representative_gap_vs_oracle,gnn_representative_gap_vs_best_fixed,gnn_mean_gap_vs_oracle,gnn_representative_exact_matches,gnn_representative_exact_match_rate,mean_exact_matches_per_seed,gnn_representative_better_count,gnn_representative_worse_count,gnn_representative_all_valid,all_seed_family_colorings_valid
+crown,4,108,108,8,8,8,DYNAMIC_LARGEST_FIRST; INCIDENCE_DEGREE; SMALLEST_LAST,8,8,108,8,8.0,0.0,8,8,0,0,0.0,4,1.0,4.0,0,0,True,True
+erdos_renyi,1,10,8,8,9,8,LARGEST_FIRST; DYNAMIC_LARGEST_FIRST; SMALLEST_LAST,8,8,10,8,8.0,0.0,8,8,0,0,0.0,1,1.0,1.0,0,0,True,True
+stochastic_block_model,6,54,45,43,42,43,INCIDENCE_DEGREE,42,41,54,45,45.0,0.0,45,45,4,3,4.0,2,0.3333333333333333,2.0,0,4,True,True
+watts_strogatz,1,7,5,5,6,6,LARGEST_FIRST; DYNAMIC_LARGEST_FIRST,5,5,7,5,5.2,0.44721359549995787,5,6,0,0,0.20000000000000018,1,1.0,0.8,0,0,True,True

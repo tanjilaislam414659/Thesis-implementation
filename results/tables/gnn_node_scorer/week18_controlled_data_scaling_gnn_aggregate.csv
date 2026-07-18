@@ -1,0 +1,5 @@
+condition,num_completed_seeds,num_train_graphs,num_added_mixed_graphs,total_train_nodes,mean_test_colors,std_test_colors,minimum_test_colors,maximum_test_colors,mean_test_gap_from_target,mean_colors_saved_vs_colpack5,mean_exact_target_graphs,representative_seed,representative_validation_colors,representative_validation_loss,representative_test_colors,representative_test_gap_from_target,representative_colors_saved_vs_colpack5,all_test_colorings_valid
+train_20_baseline,5,20,0,1650,65.0,0.8944271909999159,64,66,5.0,10.0,1.2,4,63,472.346033090353,64,4,11,True
+train_32_plus12,5,32,12,2796,67.4,2.0591260281974,65,71,7.4,7.6,0.8,3,62,0.08121408745646477,67,7,8,True
+train_44_plus24,5,44,24,3960,65.6,2.2449944320643644,62,69,5.6,9.4,1.6,1,63,27.115353405475616,65,5,10,True
+train_125_plus105,5,125,105,13860,66.2,2.638181191654584,62,70,6.2,8.8,1.4,3,62,2.2723237454891203,62,2,13,True

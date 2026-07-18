@@ -1,0 +1,11 @@
+method,category,total_colors,average_colors_per_graph,gap_vs_best_of_5_oracle,average_gap_per_graph,relative_gap_to_oracle_percent,gap_vs_best_fixed_heuristic,exact_matches_with_oracle,all_gnn_colorings_valid,notes,best_fixed_heuristics_on_test,best_fixed_total_on_test,best_of_5_oracle_total
+NATURAL,fixed_colpack_heuristic,179.0,14.916666666666666,117.0,9.75,188.70967741935485,115.0,0.0,,Fixed ColPack heuristic.,DYNAMIC_LARGEST_FIRST,64,62
+LARGEST_FIRST,fixed_colpack_heuristic,166.0,13.833333333333334,104.0,8.666666666666666,167.74193548387098,102.0,4.0,,Fixed ColPack heuristic.,DYNAMIC_LARGEST_FIRST,64,62
+DYNAMIC_LARGEST_FIRST,fixed_colpack_heuristic,64.0,5.333333333333333,2.0,0.16666666666666666,3.225806451612903,0.0,10.0,,Best fixed ColPack heuristic on the complete test set.,DYNAMIC_LARGEST_FIRST,64,62
+INCIDENCE_DEGREE,fixed_colpack_heuristic,65.0,5.416666666666667,3.0,0.25,4.838709677419355,1.0,9.0,,Fixed ColPack heuristic.,DYNAMIC_LARGEST_FIRST,64,62
+SMALLEST_LAST,fixed_colpack_heuristic,65.0,5.416666666666667,3.0,0.25,4.838709677419355,1.0,9.0,,Fixed ColPack heuristic.,DYNAMIC_LARGEST_FIRST,64,62
+BEST_OF_5_ORACLE,per_graph_colpack_oracle,62.0,5.166666666666667,0.0,0.0,0.0,-2.0,12.0,,Chooses the best result among the five ColPack heuristics separately for each graph.,DYNAMIC_LARGEST_FIRST,64,62
+GNN_REPRESENTATIVE_SEED_1,single_validation_selected_gnn,66.0,5.5,4.0,0.3333333333333333,6.451612903225806,2.0,8.0,True,Representative checkpoint selected using validation colors and validation loss only.,DYNAMIC_LARGEST_FIRST,64,62
+GNN_MEAN_ACROSS_5_SEEDS,cross_seed_summary,66.2,5.516666666666667,4.200000000000003,0.35000000000000026,6.774193548387101,2.200000000000003,7.8,True,Mean test total across five independently trained GNN seeds.,DYNAMIC_LARGEST_FIRST,64,62
+GNN_MIN_SINGLE_SEED_TOTAL,cross_seed_summary,66.0,5.5,4.0,0.3333333333333333,6.451612903225806,2.0,7.75,True,"Minimum single-seed test total. Achieved by seeds [1, 2, 3, 4].",DYNAMIC_LARGEST_FIRST,64,62
+GNN_MAX_SINGLE_SEED_TOTAL,cross_seed_summary,67.0,5.583333333333333,5.0,0.4166666666666667,8.064516129032258,3.0,8.0,True,Maximum single-seed test total. Achieved by seeds [0].,DYNAMIC_LARGEST_FIRST,64,62

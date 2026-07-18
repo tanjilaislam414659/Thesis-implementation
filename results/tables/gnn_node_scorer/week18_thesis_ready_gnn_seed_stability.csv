@@ -1,0 +1,6 @@
+Seed,Test graphs,Total GNN colors,Oracle colors,Gap to oracle,Exact oracle matches,Exact match rate,All colorings valid
+0,12,67,62,5,8,0.667,True
+1,12,66,62,4,8,0.667,True
+2,12,66,62,4,8,0.667,True
+3,12,66,62,4,7,0.583,True
+4,12,66,62,4,8,0.667,True
