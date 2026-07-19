@@ -1,0 +1,3 @@
+objective,num_completed_seeds,num_train_graphs,mean_test_colors,std_test_colors,minimum_test_colors,maximum_test_colors,mean_test_gap_from_target,mean_colors_saved_vs_colpack5,mean_exact_target_graphs,total_exact_target_runs,representative_seed,representative_validation_colors,representative_validation_loss,representative_test_colors,representative_test_gap_from_target,representative_exact_target_graphs,all_test_colorings_valid
+mse,5,125,65.8,2.4819347291981715,63,70,5.8,9.2,1.4,7,4,64,0.11064518839120865,67,7,1,True
+ranking,5,125,64.6,0.4898979485566356,64,65,4.6,10.4,2.8,14,0,60,0.2814478129148483,64,4,3,True

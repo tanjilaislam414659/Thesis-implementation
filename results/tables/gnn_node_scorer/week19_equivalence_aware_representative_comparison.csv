@@ -1,0 +1,4 @@
+experiment,objective,seed,best_epoch,validation_total_colors,test_total_colors,test_gap_from_target,colors_saved_vs_colpack5,exact_target_graphs,all_test_colorings_valid,C41_squared_colors,join_2_colors,join_3_colors,join_4_colors,join_5_colors
+week18_historical_full_data,mse_fixed_graph_order,3,2,62,62,2,13,3,True,5,8,13,16,20
+week19_fair_comparison,mse_shuffled_graph_order,4,13,64,67,7,8,1,True,5,8,14,18,22
+week19_fair_comparison,equivalence_aware_pairwise_ranking,0,307,60,64,4,11,3,True,4,8,12,18,22
