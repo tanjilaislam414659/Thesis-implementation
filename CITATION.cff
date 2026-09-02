@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Graph Neural Networks for Learning-Based Graph Coloring: Thesis Implementation"
+type: software
+authors:
+  - family-names: "Islam"
+    given-names: "Tanjila"
+repository-code: "https://github.com/tanjilaislam414659/Thesis-implementation"
+license: MIT

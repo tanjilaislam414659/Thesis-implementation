@@ -167,3 +167,9 @@ This document describes the planned stages of the project, including:
 # Purpose
 
 This repository serves as the **research implementation environment** for the thesis and supports reproducible experimentation on graph coloring and vertex ordering methods.
+
+
+
+## Citation
+
+If you use this software in academic work, please cite the repository using the metadata provided in [`CITATION.cff`](CITATION.cff).
